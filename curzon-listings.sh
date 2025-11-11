@@ -1,6 +1,7 @@
 #!/bin/bash
 
-if [ -f curzon-showtimes.db ] && [ $(($(date +%s) - $(stat -c %Y curzon-listings.txt))) -lt $((6*3600)) ]
+TODAY="$(date +%Y-%m-%d)"
+if [ -f curzon-showtimes.db ] && [ "$(date -r curzon-showtimes.db +%Y-%m-%d)" = ${TODAY} ] && [ $(($(date +%s) - $(stat -c %Y curzon-showtimes.db))) -lt $((6*3600)) ]
 then
   :
 else
@@ -8,7 +9,7 @@ else
     for site_id in ALD1 BLO1 CAM1 HOX1 MAY1 SOH1 VIC1
     do
       output=$(
-        curl -s "https://vwc.curzon.com/WSVistaWebClient/ocapi/v1/showtimes/by-business-date/2025-11-12?siteIds=${site_id}" \
+        curl -s "https://vwc.curzon.com/WSVistaWebClient/ocapi/v1/showtimes/by-business-date/${TODAY}?siteIds=${site_id}" \
           -H 'accept: application/json' \
           -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
           -H 'authorization: Bearer eyJhbGciOiJSUzI1NiIsImtpZCI6IjRBQUQ3MUYwRDI3OURBM0Y2NkMzNjJBM0JGMDRBMDFDNDBBNzU4RjciLCJ0eXAiOiJKV1QifQ.eyJzdWIiOiIxbWpyZm13anJ3ODB4ZjM5cXgwNzcwcTUwd2M4aDdkNTYiLCJnaXZlbl9uYW1lIjoiQ3Vyem9uIiwiZmFtaWx5X25hbWUiOiJXZWIgSG9zdCIsInZpc3RhX29yZ2FuaXNhdGlvbl9jb2RlIjoiYTFiOXNqMG05ZTRtNzluN2RhdHd0MHMzdmcwIiwidG9rZW5fdXNhZ2UiOiJhY2Nlc3NfdG9rZW4iLCJqdGkiOiI1ZjFhYjYzZC01Y2I5LTQ3Y2QtOTdmYS1iMjVhOTY0ZWFjOGUiLCJhdWQiOiJhbGwiLCJhenAiOiJDdXJ6b24gQ2luZW1hcyAtIERpZ2l0YWwgV2ViIERldiAtIFBST0QiLCJuYmYiOjE3NjI4NTIzMjAsImV4cCI6MTc2Mjg5NTUyMCwiaWF0IjoxNzYyODUyMzIwLCJpc3MiOiJodHRwczovL2F1dGgubW92aWV4Y2hhbmdlLmNvbS8ifQ.T7Ziah3NIJT4z1aXrnly8bb2ChKZb_ljLqO_kI-07dd3LyHtlyBBqkyJExLYUmymkEsQ5uHE8HW9jqH4xWyhEU7J99BBQqlnvbmlmXY4ouYSd8ZlZWWy7jGd7xiLh0sQ1WvCBbwaxprOpAko7Bt-lOfVIAZgObPtUoJEfzTVZIRn8xmb5Vf8E9bVolVpBJiQDiAhFxTSK72oEr1-e0jT17ywOQPTJ_OjHhYZ-y-vpW7cWhuv3ZdigfUuh_nwMjzhi6TNJMAuwaFcGAiri6ylucU-oiDcFTBuSLuW5rc005JfpYeml4os7Wu7Dj9QgDErNluUw9T1scBRiDUonPqU5eVwMRO1-Vn3-SkXUCIEEEubUk3hYqaNDnc2tv18jRM1lyBHs0MITmLV1IGFOWQO6T5xBzOEvPdta9Wa45fH78Xc8VjI_Ve73fkeAuA8kIXKt9q4Sm-TkfNhdfOhYzwoksL8XgU0Z-6GdZELDyfoZcVCGpLDkhrardppSTdEd971SgXPuWgQiqaXsTco2cVZkSBtKZrukd3vpan6RK6zlSmwhcz6LVJLRQ1fXJiADpvQRRMSX3jkufhO5omch-vRXJ_04-t1t2M1szWVodT_SNTe4fZxKXZRuLLbtG75mI64HBto84evCH2cGsfEMpYJQBx_szeaS5sSOzoN11a4ujc' \
