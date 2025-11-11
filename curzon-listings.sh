@@ -84,7 +84,7 @@ JOIN film f ON f.title = fs.film_title
 JOIN location l ON l.code = fs.location_code
 LEFT JOIN location_names n ON n.code = l.code
 GROUP BY f.title
-ORDER BY f.title, f.film_showtime;" | column -t -s '|'
+ORDER BY f.title, fs.starts_at;" | column -t -s '|'
 
 echo "BY CINEMA"
 /home/linuxbrew/.linuxbrew/bin/sqlite3 curzon-showtimes.db -cmd ".headers off" -cmd ".mode list" "$LOCATION_CTE
