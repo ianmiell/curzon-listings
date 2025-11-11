@@ -1,6 +1,20 @@
 #!/bin/bash
 
 TODAY="$(date +%Y-%m-%d)"
+LOCATION_CTE=$(cat <<'SQL'
+WITH location_names(code, name) AS (
+  VALUES
+    ('ALD1', 'Aldgate'),
+    ('BLO1', 'Bloomsbury'),
+    ('CAM1', 'Camden'),
+    ('HOX1', 'Hoxton'),
+    ('MAY1', 'Mayfair'),
+    ('SOH1', 'Soho'),
+    ('VIC1', 'Victoria')
+)
+SQL
+)
+
 if [ -f curzon-showtimes.db ] && [ "$(date -r curzon-showtimes.db +%Y-%m-%d)" = ${TODAY} ] && [ $(($(date +%s) - $(stat -c %Y curzon-showtimes.db))) -lt $((6*3600)) ]
 then
   :
@@ -35,7 +49,7 @@ else
                     | map({
                         title: ($titleById[.filmId] // .filmId),
                         time: (
-                          (.schedule.filmStartsAt // .schedule.startsAt) as $t
+                          (.schedule.startsAt // .schedule.startsAt) as $t
                             | ($t[:-3] + $t[-2:])              # remove the ':' in the timezone
                             | strptime("%Y-%m-%dT%H:%M:%S%z")
                             | strftime("%H:%M")
@@ -59,26 +73,31 @@ else
 fi
 
 echo "BY FILM"
-sqlite3 curzon-showtimes.db -cmd ".headers off" -cmd ".mode list" "SELECT
+/home/linuxbrew/.linuxbrew/bin/sqlite3 curzon-showtimes.db -cmd ".headers off" -cmd ".mode list" "$LOCATION_CTE
+SELECT
  f.title || char(10) ||
  group_concat('  ' ||
-               strftime('%Y-%m-%d %H:%M', substr(fs.starts_at,1,19)) ||
-               ' @ ' || l.code, char(10)) AS out
+               strftime('%H:%M', substr(fs.starts_at,1,19)) ||
+               ' | ' || COALESCE(n.name, l.code), char(10)) AS out
 FROM film_showtime fs
 JOIN film f ON f.title = fs.film_title
 JOIN location l ON l.code = fs.location_code
+LEFT JOIN location_names n ON n.code = l.code
 GROUP BY f.title
-ORDER BY f.title;"
+ORDER BY f.title, f.film_showtime;" | column -t -s '|'
 
 echo "BY CINEMA"
-sqlite3 curzon-showtimes.db -cmd ".headers off" -cmd ".mode list" "SELECT
-  l.code || char(10) ||
-  group_concat('  ' || f.title || ' — ' ||
+/home/linuxbrew/.linuxbrew/bin/sqlite3 curzon-showtimes.db -cmd ".headers off" -cmd ".mode list" "$LOCATION_CTE
+SELECT
+  COALESCE(n.name, l.code) || char(10) ||
+  group_concat('  ' || f.title || ' | ' ||
                strftime('%H:%M', substr(fs.starts_at,1,19)),
                char(10)
               ) AS out
 FROM film_showtime fs
 JOIN film     f ON f.title = fs.film_title
 JOIN location l ON l.code  = fs.location_code
-GROUP BY l.code
-ORDER BY l.code, min(fs.starts_at);"
+LEFT JOIN location_names n ON n.code = l.code
+GROUP BY COALESCE(n.name, l.code)
+ORDER BY COALESCE(n.name, l.code), min(fs.starts_at);" | column -t -s '|'
+
