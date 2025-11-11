@@ -27,8 +27,10 @@ all=$(
 )
 
 IFS=';'
-for a in $all
+(for a in $all
 do
     echo $a | xargs
-done
+done) > curzon-showtimes
+
+cat curzon-showtimes | python3 scripts/import_showtimes.py
 
