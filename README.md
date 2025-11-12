@@ -23,3 +23,10 @@ python3 scripts/import_showtimes.py --db /tmp/curzon-showtimes.db
 - When stdin is a pipe, the script reads from it. Otherwise it executes `curzon-listings.sh` itself.
 - The database schema contains `film` (title primary key), `location` (code primary key) and `film_showtime` (film/title/location triple) tables. Rows are replaced on every run unless `--keep-existing` is supplied.
 - The default database path is `curzon-showtimes.db` in the repository root; override it with `--db`.
+
+
+## Setup
+```
+npm init -y
+npm install puppeteer@latest
+```
