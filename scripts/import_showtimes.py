@@ -35,11 +35,9 @@ def parse_args() -> argparse.Namespace:
 
 
 def read_showtimes() -> List[str]:
-    print('here')
     if not sys.stdin.isatty():
         return [line.strip() for line in sys.stdin.read().splitlines() if line.strip()]
 
-    print('here')
     result = subprocess.run(
         ["bash", str(SCRIPT)],
         capture_output=True,
@@ -52,7 +50,8 @@ def read_showtimes() -> List[str]:
 def parse_line(line: str) -> Tuple[str, str, str]:
     parts = line.split("|")
     if len(parts) != 3:
-        raise ValueError(f"Unrecognized line format: {line!r}")
+        print(f"Unrecognized line format: {line!r}")
+        return None
     start_time, title, location = (part.strip() for part in parts)
     if not (start_time and title and location):
         raise ValueError(f"Incomplete entry: {line!r}")
@@ -112,10 +111,9 @@ def insert_rows(
 
 def main() -> None:
     args = parse_args()
-    print('here1')
     lines = read_showtimes()
     print(lines)
-    rows = [parse_line(line) for line in lines]
+    rows = [parse_line(line) for line in lines if (r := parse_line(line)) is not None]
 
     conn = sqlite3.connect(args.db)
     try:
