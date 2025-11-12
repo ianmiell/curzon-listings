@@ -1,2 +1,4 @@
 venv
 curzon-showtimes*
+node_modules
+curzon_tokens*
