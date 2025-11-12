@@ -1,6 +1,7 @@
 #!/bin/bash
 
 TODAY="$(date +%Y-%m-%d)"
+DBFILE=curzon-showtimes.db
 LOCATION_CTE=$(cat <<'SQL'
 WITH location_names(code, name) AS (
   VALUES
@@ -15,10 +16,14 @@ WITH location_names(code, name) AS (
 SQL
 )
 
-if [ -f curzon-showtimes.db ] && [ "$(date -r curzon-showtimes.db +%Y-%m-%d)" = ${TODAY} ] && [ $(($(date +%s) - $(stat -c %Y curzon-showtimes.db))) -lt $((6*3600)) ]
+output=""
+if [ -f "${DBFILE}" ] && [ "$(date -r "${DBFILE}" +%Y-%m-%d)" = ${TODAY} ] && [ $(($(date +%s) - $(stat -c %Y "${DBFILE}"))) -lt $((6*3600)) ]
 then
   :
 else
+  touch "${DBFILE}"
+  chown :imiell "${DBFILE}"
+  chmod 666 "${DBFILE}"
   all=$(
     for site_id in ALD1 BLO1 CAM1 HOX1 MAY1 SOH1 VIC1
     do
@@ -65,15 +70,15 @@ else
   )
   IFS=';'
   (
-    for a in $all
+    for l in $all
     do
-      echo $a | xargs
+      echo $l | xargs
     done
   ) | python3 scripts/import_showtimes.py
 fi
 
 echo "BY FILM"
-/home/linuxbrew/.linuxbrew/bin/sqlite3 curzon-showtimes.db -cmd ".headers off" -cmd ".mode list" "$LOCATION_CTE
+/home/linuxbrew/.linuxbrew/bin/sqlite3 "${DBFILE}" -cmd ".headers off" -cmd ".mode list" "$LOCATION_CTE
 SELECT
  f.title || char(10) ||
  group_concat('  ' ||
@@ -87,7 +92,7 @@ GROUP BY f.title
 ORDER BY f.title, fs.starts_at;" | column -t -s '|'
 
 echo "BY CINEMA"
-/home/linuxbrew/.linuxbrew/bin/sqlite3 curzon-showtimes.db -cmd ".headers off" -cmd ".mode list" "$LOCATION_CTE
+/home/linuxbrew/.linuxbrew/bin/sqlite3 "${DBFILE}" -cmd ".headers off" -cmd ".mode list" "$LOCATION_CTE
 SELECT
   COALESCE(n.name, l.code) || char(10) ||
   group_concat('  ' || f.title || ' | ' ||
