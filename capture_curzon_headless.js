@@ -7,7 +7,7 @@ const puppeteer = require('puppeteer');
 console.log('Using puppeteer version', puppeteer.version);
 
 const STORE_KEY = 'VistaOmnichannelComponents::browsing-domain-store';
-const SITE_ALLOWLIST = new Set(['MAY1', 'BLO1']);
+const SITE_ALLOWLIST = new Set(['MAY1', 'BLO1', 'CAM1', 'HOX1', 'SOH1', 'ALD1', 'VIC1']);
 const sleep = ms => new Promise(resolve => setTimeout(resolve, ms));
 
 const slugifySite = (name = '', fallback = '') =>
