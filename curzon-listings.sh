@@ -17,10 +17,12 @@ else
       (
         $doc.filmsById |
         to_entries |
-        map(select(.value.loadingState == "Success") |
-        {key: .key, value: .value.payload.title.text}
-      ) |
-      from_entries) as $titleById |
+        map(
+          select(.value.loadingState == "Success") |
+          {key: .key, value: .value.payload.title.text}
+        ) |
+        from_entries
+      ) as $titleById |
       $doc.showtimesById |
       to_entries |
       map(
