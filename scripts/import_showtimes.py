@@ -35,9 +35,11 @@ def parse_args() -> argparse.Namespace:
 
 
 def read_showtimes() -> List[str]:
+    print('here')
     if not sys.stdin.isatty():
         return [line.strip() for line in sys.stdin.read().splitlines() if line.strip()]
 
+    print('here')
     result = subprocess.run(
         ["bash", str(SCRIPT)],
         capture_output=True,
@@ -110,7 +112,9 @@ def insert_rows(
 
 def main() -> None:
     args = parse_args()
+    print('here1')
     lines = read_showtimes()
+    print(lines)
     rows = [parse_line(line) for line in lines]
 
     conn = sqlite3.connect(args.db)
