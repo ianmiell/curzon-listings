@@ -3,6 +3,7 @@
 cd $(dirname ${BASH_SOURCE[0]})
 
 DBFILE=curzon-showtimes.db
+OUTFILE=curzon_listings.txt
 
 (
 echo "BY FILM"
@@ -24,4 +25,9 @@ SELECT
    JOIN location l ON l.code  = fs.location_code
    GROUP BY l.code
    ORDER BY l.code, min(fs.starts_at);" | column -t -s '|'
-) > curzon_listings.txt
+) > "${OUTFILE}"
+
+# Folder needs write to be able to copy in imiell cron
+#sudo chmod a+w /var/www/ianmiell.com/curzon-listings
+
+cp curzon_listings.txt /var/www/ianmiell.com/curzon-listings
