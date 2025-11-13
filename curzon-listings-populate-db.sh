@@ -7,7 +7,7 @@ JSONFILE=curzon_tokens.json
 TODAY="$(date +%Y-%m-%d)"
 NODE="/home/imiell/.nvm/versions/node/v22.17.1/bin/node"
 
-if [ -f "${DBFILE}" ] && [ "$(date -r "${DBFILE}" +%Y-%m-%d)" = ${TODAY} ] && [ $(($(date +%s) - $(stat -c %Y "${DBFILE}"))) -lt $((6*3600)) ]
+if [ -f "${DBFILE}" ] && [ "$(date -r "${DBFILE}" +%Y-%m-%d)" = ${TODAY} ] && [ $(($(date +%s) - $(stat -c %Y "${DBFILE}"))) -lt 1800 ]
 then
   :
 else
