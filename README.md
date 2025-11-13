@@ -14,10 +14,10 @@ JSON
 
 ## Importing showtimes into SQLite
 
-Use `scripts/import_showtimes.py` to persist the pipe-separated output produced by `curzon-listings.sh`:
+Use `import_showtimes.py` to persist the pipe-separated output produced by `curzon-listings.sh`:
 
 ```sh
-python3 scripts/import_showtimes.py --db /tmp/curzon-showtimes.db
+python3 ./import_showtimes.py --db /tmp/curzon-showtimes.db
 ```
 
 - When stdin is a pipe, the script reads from it. Otherwise it executes `curzon-listings.sh` itself.
