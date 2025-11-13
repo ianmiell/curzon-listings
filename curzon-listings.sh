@@ -47,7 +47,7 @@ else
     do
       echo $l | xargs
     done
-  ) | python3 ./scripts/import_showtimes.py
+  ) | python3 ./import_showtimes.py
   IFS="${IFS_BACKUP}"
 fi
 
