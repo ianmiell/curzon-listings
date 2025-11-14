@@ -46,7 +46,7 @@ else
   (
     for l in $out
     do
-      echo $l | xargs
+      echo $l | tr -d "'" | xargs
     done
   ) | python3 ./import_showtimes.py
   IFS="${IFS_BACKUP}"

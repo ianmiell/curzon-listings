@@ -42,37 +42,15 @@ echo "BY CINEMA THIS WEEKEND TODO"
 echo "================================="
 /home/linuxbrew/.linuxbrew/bin/sqlite3 "${DBFILE}" -cmd ".headers off" -cmd ".mode list" "$LOCATION_CTE
 SELECT
-   COALESCE(n.name, l.code) || char(10) || group_concat('  ' || f.title || ' | ' || strftime('%H:%M', fs.starts_at), char(10)) AS out
+   COALESCE(n.name, l.code) || char(10) || group_concat('  ' || f.title || ' | ' || strftime('%d/%m %H:%M', fs.starts_at), char(10)) AS out
    FROM film_showtime fs
    JOIN film     f ON f.title = fs.film_title
    JOIN location l ON l.code  = fs.location_code
    LEFT JOIN location_names n ON n.code = l.code
    WHERE
-  -- Only future showings
-  datetime(fs.starts_at) >= datetime('now', 'localtime')
-
-  -- Start of the relevant weekend
-  AND date(fs.starts_at) >= date(
-        'now','localtime',
-        CASE
-          WHEN strftime('%w','now','localtime') IN ('6','0')
-            THEN 'weekday 6'               -- already Sat/Sun → this Sat
-          ELSE 'next saturday'             -- otherwise → next Sat
-        END
-      )
-
-  -- End of weekend (end of Sunday)
-  AND date(fs.starts_at) <= date(
-        date(
-          'now','localtime',
-          CASE
-            WHEN strftime('%w','now','localtime') IN ('6','0')
-              THEN 'weekday 6'
-            ELSE 'next saturday'
-          END
-        ),
-        '+1 day'                           -- Sunday
-      )
+       datetime(fs.starts_at) >= datetime('now', 'localtime')       -- Only future showings
+   AND datetime(fs.starts_at) > date('now','localtime','weekday 5') -- after next friday
+   AND datetime(fs.starts_at) < date('now','localtime','weekday 1') -- before next monday
    GROUP BY COALESCE(n.name, l.code)
    ORDER BY COALESCE(n.name, l.code), min(fs.starts_at);" | column -t -s '|'
 
@@ -90,31 +68,9 @@ SELECT
    JOIN location l ON l.code = fs.location_code
    LEFT JOIN location_names n ON n.code = l.code
    WHERE
-     -- Only future showings
-  datetime(fs.starts_at) >= datetime('now', 'localtime')
-
-  -- Start of the relevant weekend
-  AND date(fs.starts_at) >= date(
-        'now','localtime',
-        CASE
-          WHEN strftime('%w','now','localtime') IN ('6','0')
-            THEN 'weekday 6'               -- already Sat/Sun → this Sat
-          ELSE 'next saturday'             -- otherwise → next Sat
-        END
-      )
-
-  -- End of weekend (end of Sunday)
-  AND date(fs.starts_at) <= date(
-        date(
-          'now','localtime',
-          CASE
-            WHEN strftime('%w','now','localtime') IN ('6','0')
-              THEN 'weekday 6'
-            ELSE 'next saturday'
-          END
-        ),
-        '+1 day'                           -- Sunday
-      )
+       datetime(fs.starts_at) >= datetime('now', 'localtime')       -- Only future showings
+   AND datetime(fs.starts_at) > date('now','localtime','weekday 5') -- after next friday
+   AND datetime(fs.starts_at) < date('now','localtime','weekday 1') -- before next monday
    GROUP BY f.title
    ORDER BY f.title, fs.starts_at;" | column -t -s '|'
 
@@ -175,4 +131,8 @@ SELECT
 # Folder needs write to be able to copy in imiell cron
 #sudo chmod a+w /var/www/ianmiell.com/curzon-listings
 
+echo "$OUTFILE written"
 cp curzon_listings.txt /var/www/ianmiell.com/curzon-listings
+echo "$OUTFILE copied"
+
+
