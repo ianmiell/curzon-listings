@@ -11,7 +11,7 @@ if [ -f "${DBFILE}" ] && [ "$(date -r "${DBFILE}" +%Y-%m-%d)" = ${TODAY} ] && [ 
 then
   :
 else
-  $NODE capture_curzon_headless.js
+  #$NODE capture_curzon_headless.js
   out=$(
     cat "${JSONFILE}" | jq -r '.bearerTokens[] | select(.key == "VistaOmnichannelComponents::browsing-domain-store") | .value' | jq -r '
       . as $doc |
@@ -46,7 +46,7 @@ else
   (
     for l in $out
     do
-      echo $l | tr -d "'" | xargs
+      echo $l | tr -d "'"
     done
   ) | python3 ./import_showtimes.py
   IFS="${IFS_BACKUP}"

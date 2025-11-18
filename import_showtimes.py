@@ -8,13 +8,13 @@ import argparse
 import sqlite3
 import subprocess
 import sys
+import os
 from pathlib import Path
 from typing import Iterable, List, Tuple
 
 
 ROOT = Path(__file__).resolve().parents[1]
-SCRIPT = ROOT / "curzon-listings.sh"
-DEFAULT_DB = ROOT / "curzon-showtimes.db"
+DEFAULT_DB = "curzon-showtimes.db"
 
 
 def parse_args() -> argparse.Namespace:
@@ -35,16 +35,8 @@ def parse_args() -> argparse.Namespace:
 
 
 def read_showtimes() -> List[str]:
-    if not sys.stdin.isatty():
-        return [line.strip() for line in sys.stdin.read().splitlines() if line.strip()]
+    return [line.strip() for line in sys.stdin.read().splitlines() if line.strip()]
 
-    result = subprocess.run(
-        ["bash", str(SCRIPT)],
-        capture_output=True,
-        text=True,
-        check=True,
-    )
-    return [line.strip() for line in result.stdout.splitlines() if line.strip()]
 
 
 def parse_line(line: str) -> Tuple[str, str, str]:
@@ -111,10 +103,11 @@ def insert_rows(
 
 def main() -> None:
     args = parse_args()
+    print("args.db =", repr(args.db))
+    print("cwd    =", os.getcwd())
+    print("db abs path =", Path(args.db).resolve())
     lines = read_showtimes()
-    print(lines)
     rows = [parse_line(line) for line in lines if (r := parse_line(line)) is not None]
-
     conn = sqlite3.connect(args.db)
     try:
         with conn:
