@@ -103,11 +103,11 @@ then
    echo
    echo
    echo "================================="
-   echo "BY CINEMA THIS WEEKEND TODO"
+   echo "BY CINEMA THIS WEEKEND"
    echo "================================="
    /home/linuxbrew/.linuxbrew/bin/sqlite3 "${DBFILE}" -cmd ".headers off" -cmd ".mode list" "$LOCATION_CTE
    SELECT
-      COALESCE(n.name, l.code) || char(10) || group_concat('  ' || f.title || ' | ' || strftime('%H:%M', fs.starts_at), char(10)) AS out
+      COALESCE(n.name, l.code) || char(10) || group_concat('  ' || f.title || ' | ' || strftime('%d/%m %H:%M', fs.starts_at), char(10)) AS out
       FROM film_showtime fs
       JOIN film     f ON f.title = fs.film_title
       JOIN location l ON l.code  = fs.location_code
