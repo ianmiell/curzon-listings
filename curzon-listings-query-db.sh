@@ -6,6 +6,7 @@ SQLITE_BIN="$(which sqlite3 || echo "/home/linuxbrew/.linuxbrew/bin/sqlite3")"
 
 DBFILE=curzon-showtimes.db
 OUTFILE=curzon_listings.txt
+
 LOCATION_CTE=$(cat <<'SQL'
 WITH location_names(code, name) AS (
   VALUES
@@ -21,14 +22,11 @@ SQL
 )
 
 (
-echo "================================="
-echo "VENUE GUIDE"
-echo "================================="
+echo -e "=================================\nVENUE GUIDE\n================================="
+echo -e "Soho:\n\tscreen 2 back is good"
+echo -e "Victoria:\n\tscreen 2 back a bit cramped, front looked ok"
 
-
-echo "================================="
-echo "BY FILM TODAY"
-echo "================================="
+echo -e "=================================\nBY FILM TODAY\n================================="
 $SQLITE_BIN "${DBFILE}" -cmd ".headers off" -cmd ".mode list" "$LOCATION_CTE
 SELECT
    f.title || char(10) || group_concat('  ' || strftime('%H:%M', fs.starts_at) || ' | ' || COALESCE(n.name, l.code), char(10)) AS out
@@ -45,12 +43,7 @@ SELECT
 # If it is Saturday, then just do tomorrow for the weekend
 if [ "$(date +%u)" -eq 6 ]
 then
-   echo
-   echo
-   echo
-   echo "================================="
-   echo "BY FILM TOMORROW"
-   echo "================================="
+   echo -e "\n\n\n=================================\nBY FILM TOMORROW\n================================="
    ${SQLITE_BIN} "${DBFILE}" -cmd ".headers off" -cmd ".mode list" "$LOCATION_CTE
    SELECT
       f.title || char(10) || group_concat('  ' || strftime('%d/%m %H:%M', fs.starts_at) || ' | ' || COALESCE(n.name, l.code), char(10)) AS out
@@ -64,12 +57,7 @@ then
       GROUP BY f.title
       ORDER BY f.title, fs.starts_at;" | column -t -s '|'
 
-   echo
-   echo
-   echo
-   echo "================================="
-   echo "BY CINEMA TOMORROW"
-   echo "================================="
+   echo -e "\n\n\n=================================\nBY CINEMA TOMORROW\n================================="
    ${SQLITE_BIN} "${DBFILE}" -cmd ".headers off" -cmd ".mode list" "$LOCATION_CTE
    SELECT
       COALESCE(n.name, l.code) || char(10) || group_concat('  ' || f.title || ' | ' || strftime('%H:%M', fs.starts_at), char(10)) AS out
@@ -86,12 +74,7 @@ then
 # If it's not Saturday, ask for the weekend
 elif [ "$(date +%u)" -lt 6 ]
 then
-   echo
-   echo
-   echo
-   echo "================================="
-   echo "BY FILM THIS WEEKEND"
-   echo "================================="
+   echo -e "\n\n\n=================================\nBY FILM THIS WEEKEND\n================================="
    ${SQLITE_BIN} "${DBFILE}" -cmd ".headers off" -cmd ".mode list" "$LOCATION_CTE
    SELECT
       f.title || char(10) || group_concat('  ' || strftime('%d/%m %H:%M', fs.starts_at) || ' | ' || COALESCE(n.name, l.code), char(10)) AS out
@@ -106,12 +89,16 @@ then
       GROUP BY f.title
       ORDER BY f.title, fs.starts_at;" | column -t -s '|'
 
+<<<<<<< HEAD
    echo
    echo
    echo
    echo "================================="
    echo "BY CINEMA THIS WEEKEND"
    echo "================================="
+=======
+   echo -e "\n\n\n=================================\nBY CINEMA THIS WEEKEND\n================================="
+>>>>>>> bf0df5d (latest)
    ${SQLITE_BIN} "${DBFILE}" -cmd ".headers off" -cmd ".mode list" "$LOCATION_CTE
    SELECT
       COALESCE(n.name, l.code) || char(10) || group_concat('  ' || f.title || ' | ' || strftime('%d/%m %H:%M', fs.starts_at), char(10)) AS out
@@ -127,12 +114,7 @@ then
       ORDER BY COALESCE(n.name, l.code), min(fs.starts_at);" | column -t -s '|'
 fi
 
-echo
-echo
-echo
-echo "================================="
-echo "BY CINEMA ALL TIME"
-echo "================================="
+echo -e "\n\n\n=================================\nBY CINEMA ALL TIME\n================================="
 ${SQLITE_BIN} "${DBFILE}" -cmd ".headers off" -cmd ".mode list" "$LOCATION_CTE
 SELECT
    COALESCE(n.name, l.code) || char(10) || group_concat('  ' || f.title || ' | ' || strftime('%d/%m %H:%M', fs.starts_at), char(10)) AS out
@@ -144,12 +126,7 @@ SELECT
    GROUP BY COALESCE(n.name, l.code)
    ORDER BY COALESCE(n.name, l.code), min(fs.starts_at);" | column -t -s '|'
 
-echo
-echo
-echo
-echo "================================="
-echo "BY FILM ALL TIME"
-echo "================================="
+echo -e "\n\n\n=================================\nBY FILM ALL TIME\n================================="
 ${SQLITE_BIN} "${DBFILE}" -cmd ".headers off" -cmd ".mode list" "$LOCATION_CTE
 SELECT
    f.title || char(10) || group_concat('  ' || strftime('%d/%m %H:%M', fs.starts_at) || ' | ' || COALESCE(n.name, l.code), char(10)) AS out
@@ -161,12 +138,7 @@ SELECT
    GROUP BY f.title
    ORDER BY f.title, fs.starts_at;" | column -t -s '|'
 
-echo
-echo
-echo
-echo "================================="
-echo "BY CINEMA ALL TIME"
-echo "================================="
+echo -e "\n\n\n=================================\nBY CINEMA ALL TIME\n================================="
 ${SQLITE_BIN} "${DBFILE}" -cmd ".headers off" -cmd ".mode list" "$LOCATION_CTE
 SELECT
    COALESCE(n.name, l.code) || char(10) || group_concat('  ' || f.title || ' | ' || strftime('%d/%m %H:%M', fs.starts_at), char(10)) AS out
@@ -185,5 +157,3 @@ SELECT
 echo "$OUTFILE written"
 cp curzon_listings.txt /var/www/ianmiell.com/curzon-listings
 echo "$OUTFILE copied"
-
-
