@@ -2,6 +2,8 @@
 
 cd $(dirname ${BASH_SOURCE[0]})
 
+SQLITE_BIN="$(which sqlite3 || echo "/home/linuxbrew/.linuxbrew/bin/sqlite3")"
+
 DBFILE=curzon-showtimes.db
 OUTFILE=curzon_listings.txt
 LOCATION_CTE=$(cat <<'SQL'
@@ -27,7 +29,7 @@ echo "================================="
 echo "================================="
 echo "BY FILM TODAY"
 echo "================================="
-/home/linuxbrew/.linuxbrew/bin/sqlite3 "${DBFILE}" -cmd ".headers off" -cmd ".mode list" "$LOCATION_CTE
+$SQLITE_BIN "${DBFILE}" -cmd ".headers off" -cmd ".mode list" "$LOCATION_CTE
 SELECT
    f.title || char(10) || group_concat('  ' || strftime('%H:%M', fs.starts_at) || ' | ' || COALESCE(n.name, l.code), char(10)) AS out
    FROM film_showtime fs
@@ -49,7 +51,7 @@ then
    echo "================================="
    echo "BY FILM TOMORROW"
    echo "================================="
-   /home/linuxbrew/.linuxbrew/bin/sqlite3 "${DBFILE}" -cmd ".headers off" -cmd ".mode list" "$LOCATION_CTE
+   ${SQLITE_BIN} "${DBFILE}" -cmd ".headers off" -cmd ".mode list" "$LOCATION_CTE
    SELECT
       f.title || char(10) || group_concat('  ' || strftime('%d/%m %H:%M', fs.starts_at) || ' | ' || COALESCE(n.name, l.code), char(10)) AS out
       FROM film_showtime fs
@@ -68,7 +70,7 @@ then
    echo "================================="
    echo "BY CINEMA TOMORROW"
    echo "================================="
-   /home/linuxbrew/.linuxbrew/bin/sqlite3 "${DBFILE}" -cmd ".headers off" -cmd ".mode list" "$LOCATION_CTE
+   ${SQLITE_BIN} "${DBFILE}" -cmd ".headers off" -cmd ".mode list" "$LOCATION_CTE
    SELECT
       COALESCE(n.name, l.code) || char(10) || group_concat('  ' || f.title || ' | ' || strftime('%H:%M', fs.starts_at), char(10)) AS out
       FROM film_showtime fs
@@ -90,7 +92,7 @@ then
    echo "================================="
    echo "BY FILM THIS WEEKEND"
    echo "================================="
-   /home/linuxbrew/.linuxbrew/bin/sqlite3 "${DBFILE}" -cmd ".headers off" -cmd ".mode list" "$LOCATION_CTE
+   ${SQLITE_BIN} "${DBFILE}" -cmd ".headers off" -cmd ".mode list" "$LOCATION_CTE
    SELECT
       f.title || char(10) || group_concat('  ' || strftime('%d/%m %H:%M', fs.starts_at) || ' | ' || COALESCE(n.name, l.code), char(10)) AS out
       FROM film_showtime fs
@@ -110,7 +112,7 @@ then
    echo "================================="
    echo "BY CINEMA THIS WEEKEND"
    echo "================================="
-   /home/linuxbrew/.linuxbrew/bin/sqlite3 "${DBFILE}" -cmd ".headers off" -cmd ".mode list" "$LOCATION_CTE
+   ${SQLITE_BIN} "${DBFILE}" -cmd ".headers off" -cmd ".mode list" "$LOCATION_CTE
    SELECT
       COALESCE(n.name, l.code) || char(10) || group_concat('  ' || f.title || ' | ' || strftime('%d/%m %H:%M', fs.starts_at), char(10)) AS out
       FROM film_showtime fs
@@ -131,7 +133,7 @@ echo
 echo "================================="
 echo "BY CINEMA ALL TIME"
 echo "================================="
-/home/linuxbrew/.linuxbrew/bin/sqlite3 "${DBFILE}" -cmd ".headers off" -cmd ".mode list" "$LOCATION_CTE
+${SQLITE_BIN} "${DBFILE}" -cmd ".headers off" -cmd ".mode list" "$LOCATION_CTE
 SELECT
    COALESCE(n.name, l.code) || char(10) || group_concat('  ' || f.title || ' | ' || strftime('%d/%m %H:%M', fs.starts_at), char(10)) AS out
    FROM film_showtime fs
@@ -148,7 +150,7 @@ echo
 echo "================================="
 echo "BY FILM ALL TIME"
 echo "================================="
-/home/linuxbrew/.linuxbrew/bin/sqlite3 "${DBFILE}" -cmd ".headers off" -cmd ".mode list" "$LOCATION_CTE
+${SQLITE_BIN} "${DBFILE}" -cmd ".headers off" -cmd ".mode list" "$LOCATION_CTE
 SELECT
    f.title || char(10) || group_concat('  ' || strftime('%d/%m %H:%M', fs.starts_at) || ' | ' || COALESCE(n.name, l.code), char(10)) AS out
    FROM film_showtime fs
@@ -165,7 +167,7 @@ echo
 echo "================================="
 echo "BY CINEMA ALL TIME"
 echo "================================="
-/home/linuxbrew/.linuxbrew/bin/sqlite3 "${DBFILE}" -cmd ".headers off" -cmd ".mode list" "$LOCATION_CTE
+${SQLITE_BIN} "${DBFILE}" -cmd ".headers off" -cmd ".mode list" "$LOCATION_CTE
 SELECT
    COALESCE(n.name, l.code) || char(10) || group_concat('  ' || f.title || ' | ' || strftime('%d/%m %H:%M', fs.starts_at), char(10)) AS out
    FROM film_showtime fs
