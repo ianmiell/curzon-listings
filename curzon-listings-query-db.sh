@@ -20,6 +20,11 @@ SQL
 
 (
 echo "================================="
+echo "VENUE GUIDE"
+echo "================================="
+
+
+echo "================================="
 echo "BY FILM TODAY"
 echo "================================="
 /home/linuxbrew/.linuxbrew/bin/sqlite3 "${DBFILE}" -cmd ".headers off" -cmd ".mode list" "$LOCATION_CTE

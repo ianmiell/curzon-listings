@@ -1,720 +1,123 @@
 =================================
 BY FILM TODAY
 =================================
-Alpha                     
-  20:30                    Aldgate
-  20:40                    Bloomsbury
-  20:00                    Camden
-  20:20                    Hoxton
-  21:00                    Soho
-  20:15                    Victoria
-Bugonia                   
-  20:10                    Bloomsbury
-  21:20                    Camden
-  20:40                    Hoxton
-  21:15                    Soho
-Die My Love               
-  20:30                    Bloomsbury
-  20:40                    Camden
-DocHouse: Predators       
-  20:20                    Bloomsbury
-Frankenstein              
-  20:40                    Soho
-Left-Handed Girl          
-  21:20                    Aldgate
-  21:10                    Bloomsbury
-  21:30                    Hoxton
-One Battle After Another  
-  19:30                    Victoria
-Palestine 36              
-  21:00                    Bloomsbury
-The Choral                
-  20:45                    Victoria
-The Running Man           
-  21:00                    Aldgate
-  21:00                    Camden
-  20:30                    Victoria
-
-
-
-=================================
-BY FILM THIS WEEKEND
-=================================
-Alpha                                             
-  21/11 15:20                                      Camden
-  23/11 14:50                                      Camden
-  21/11 14:00                                      Soho
-  23/11 15:00                                      Soho
-Bugonia                                           
-  21/11 14:40                                      Aldgate
-  22/11 14:40                                      Aldgate
-  22/11 21:15                                      Aldgate
-  23/11 14:20                                      Aldgate
-  23/11 21:00                                      Aldgate
-  21/11 14:50                                      Bloomsbury
-  21/11 20:20                                      Bloomsbury
-  22/11 14:50                                      Bloomsbury
-  23/11 20:50                                      Bloomsbury
-  21/11 12:20                                      Camden
-  21/11 17:10                                      Camden
-  23/11 12:10                                      Camden
-  23/11 16:40                                      Camden
-  21/11 15:45                                      Hoxton
-  21/11 18:30                                      Hoxton
-  22/11 13:00                                      Hoxton
-  22/11 18:30                                      Hoxton
-  22/11 20:50                                      Hoxton
-  23/11 15:20                                      Hoxton
-  23/11 18:15                                      Hoxton
-  23/11 20:00                                      Hoxton
-  21/11 21:10                                      Soho
-  22/11 17:30                                      Soho
-  23/11 14:00                                      Soho
-  21/11 14:15                                      Victoria
-  22/11 14:15                                      Victoria
-  22/11 21:00                                      Victoria
-  23/11 13:45                                      Victoria
-Die My Love                                       
-  23/11 14:00                                      Aldgate
-  21/11 12:30                                      Bloomsbury
-  21/11 15:10                                      Bloomsbury
-  21/11 20:40                                      Bloomsbury
-  22/11 15:10                                      Bloomsbury
-  22/11 17:30                                      Bloomsbury
-  23/11 11:30                                      Bloomsbury
-  23/11 14:20                                      Bloomsbury
-  23/11 20:00                                      Bloomsbury
-  21/11 15:00                                      Camden
-  21/11 21:10                                      Camden
-  23/11 14:30                                      Camden
-  23/11 20:40                                      Camden
-  21/11 14:20                                      Hoxton
-  21/11 17:10                                      Hoxton
-  22/11 14:00                                      Hoxton
-  22/11 17:15                                      Hoxton
-  23/11 11:20                                      Hoxton
-  23/11 17:00                                      Hoxton
-  21/11 15:15                                      Soho
-  22/11 14:20                                      Soho
-  23/11 11:00                                      Soho
-DocHouse: Central Park                            
-  22/11 14:30                                      Bloomsbury
-DocHouse: Predators                               
-  22/11 21:10                                      Bloomsbury
-  23/11 13:30                                      Bloomsbury
-DocHouse: Seeds                                   
-  22/11 18:10                                      Bloomsbury
-DocHouse: Testimony                               
-  21/11 18:20                                      Bloomsbury
-  23/11 15:30                                      Bloomsbury
-DocHouse: The Propagandist                        
-  21/11 20:30                                      Bloomsbury
-  23/11 17:40                                      Bloomsbury
-DocHouse: Tony Foster: Painting at the Edge       
-  23/11 19:50                                      Bloomsbury
-Dragonfly                                         
-  21/11 17:00                                      Bloomsbury
-  23/11 16:40                                      Bloomsbury
-Frankenstein                                      
-  21/11 19:50                                      Camden
-  23/11 19:20                                      Camden
-  21/11 11:50                                      Soho
-  21/11 18:00                                      Soho
-  22/11 14:40                                      Soho
-  22/11 20:40                                      Soho
-  23/11 20:10                                      Soho
-Game                                              
-  21/11 12:20                                      Bloomsbury
-  21/11 19:15                                      Bloomsbury
-  22/11 11:00                                      Bloomsbury
-  22/11 18:50                                      Bloomsbury
-  23/11 13:40                                      Bloomsbury
-  23/11 19:00                                      Bloomsbury
-Jay Kelly                                         
-  21/11 11:30                                      Aldgate
-  21/11 21:10                                      Aldgate
-  22/11 11:30                                      Aldgate
-  22/11 20:50                                      Aldgate
-  23/11 11:30                                      Aldgate
-  23/11 20:40                                      Aldgate
-  21/11 12:00                                      Bloomsbury
-  21/11 17:30                                      Bloomsbury
-  22/11 12:00                                      Bloomsbury
-  22/11 20:10                                      Bloomsbury
-  23/11 12:10                                      Bloomsbury
-  23/11 17:00                                      Bloomsbury
-  21/11 12:00                                      Camden
-  21/11 20:10                                      Camden
-  23/11 11:30                                      Camden
-  23/11 19:40                                      Camden
-  21/11 11:00                                      Soho
-  22/11 11:00                                      Soho
-  22/11 21:00                                      Soho
-  23/11 12:00                                      Soho
-  23/11 21:00                                      Soho
-  21/11 11:15                                      Victoria
-  21/11 17:00                                      Victoria
-  22/11 11:15                                      Victoria
-  22/11 17:00                                      Victoria
-  23/11 11:30                                      Victoria
-  23/11 16:30                                      Victoria
-Kids Club: Lilo & Stitch                          
-  22/11 10:30                                      Camden
-  22/11 10:30                                      Hoxton
-LDNDOCS 2025: CINEMA KAWAKEB                      
-  23/11 16:30                                      Bloomsbury
-LDNDOCS 2025: COME SEE ME IN THE GOOD LIGHT       
-  21/11 18:00                                      Bloomsbury
-LDNDOCS 2025: KING HAMLET                         
-  22/11 20:30                                      Bloomsbury
-LDNDOCS 2025: PALESTINE THROUGH ARCHIVE - SHORTS  
-  22/11 16:30                                      Bloomsbury
-LDNDOCS 2025: STILLER & MEARA: NOTHING IS LOST    
-  22/11 14:00                                      Bloomsbury
-LDNDOCS 2025: THE BEND IN THE RIVER               
-  22/11 11:45                                      Bloomsbury
-LDNDOCS 2025: THE LAST DIVE                       
-  22/11 18:20                                      Bloomsbury
-LDNDOCS 2025: THE TALE OF SILYAN                  
-  23/11 18:30                                      Bloomsbury
-LDNDOCS 2025: VACANCES                            
-  23/11 11:45                                      Bloomsbury
-LDNDOCS 2025: YANUNI                              
-  23/11 14:00                                      Bloomsbury
-LPFF 2025: The Mission                            
-  23/11 17:40                                      Soho
-Left-Handed Girl                                  
-  21/11 12:50                                      Bloomsbury
-  21/11 21:15                                      Bloomsbury
-  22/11 11:10                                      Bloomsbury
-  22/11 21:00                                      Bloomsbury
-  23/11 11:00                                      Bloomsbury
-  23/11 21:10                                      Bloomsbury
-  21/11 11:50                                      Hoxton
-  21/11 21:20                                      Hoxton
-  22/11 11:10                                      Hoxton
-  22/11 21:15                                      Hoxton
-  23/11 12:40                                      Hoxton
-  23/11 21:00                                      Hoxton
-Met Opera 2025-26: Arabella                       
-  22/11 18:00                                      Bloomsbury
-  22/11 18:00                                      Mayfair
-Nuremberg                                         
-  21/11 14:00                                      Mayfair
-  22/11 13:40                                      Mayfair
-  23/11 11:30                                      Mayfair
-  23/11 17:40                                      Mayfair
-One Battle After Another                          
-  21/11 15:40                                      Aldgate
-  22/11 15:40                                      Aldgate
-  21/11 14:00                                      Victoria
-  22/11 20:00                                      Victoria
-  23/11 19:30                                      Victoria
-Palestine 36                                      
-  21/11 15:20                                      Bloomsbury
-  21/11 17:50                                      Bloomsbury
-  21/11 21:00                                      Bloomsbury
-  22/11 13:10                                      Bloomsbury
-  22/11 15:50                                      Bloomsbury
-  22/11 18:30                                      Bloomsbury
-  23/11 11:10                                      Bloomsbury
-  23/11 15:40                                      Bloomsbury
-  23/11 17:30                                      Bloomsbury
-  21/11 11:15                                      Camden
-  21/11 14:10                                      Camden
-  23/11 13:40                                      Camden
-  21/11 13:00                                      Hoxton
-  22/11 15:45                                      Hoxton
-  23/11 14:00                                      Hoxton
-  21/11 11:00                                      Mayfair
-  23/11 14:45                                      Mayfair
-  21/11 11:00                                      Victoria
-  22/11 12:30                                      Victoria
-The Choral                                        
-  22/11 11:00                                      Mayfair
-  23/11 21:00                                      Mayfair
-  21/11 11:45                                      Victoria
-  21/11 14:30                                      Victoria
-  21/11 20:00                                      Victoria
-  22/11 10:45                                      Victoria
-  22/11 15:15                                      Victoria
-  22/11 18:00                                      Victoria
-  23/11 11:15                                      Victoria
-  23/11 15:15                                      Victoria
-  23/11 18:00                                      Victoria
-The Ice Tower                                     
-  21/11 14:20                                      Bloomsbury
-  21/11 20:50                                      Bloomsbury
-  22/11 13:40                                      Bloomsbury
-  22/11 21:20                                      Bloomsbury
-  23/11 13:50                                      Bloomsbury
-  23/11 20:10                                      Bloomsbury
-The Mastermind                                    
-  21/11 13:10                                      Bloomsbury
-  21/11 15:40                                      Bloomsbury
-  21/11 18:10                                      Bloomsbury
-  22/11 12:40                                      Bloomsbury
-  22/11 16:20                                      Bloomsbury
-  23/11 15:00                                      Bloomsbury
-  23/11 18:20                                      Bloomsbury
-  23/11 21:00                                      Bloomsbury
-The Running Man                                   
-  21/11 12:40                                      Aldgate
-  21/11 17:40                                      Aldgate
-  22/11 12:40                                      Aldgate
-  22/11 17:40                                      Aldgate
-  23/11 10:40                                      Aldgate
-  23/11 17:30                                      Aldgate
-  23/11 20:45                                      Victoria
-The Stringer: The Man Who Took the Photo          
-  21/11 11:00                                      Camden
-  21/11 17:50                                      Camden
-  23/11 11:15                                      Camden
-  23/11 17:20                                      Camden
-Wicked: For Good                                  
-  21/11 10:50                                      Aldgate
-  21/11 11:50                                      Aldgate
-  21/11 14:00                                      Aldgate
-  21/11 15:00                                      Aldgate
-  21/11 17:10                                      Aldgate
-  21/11 18:10                                      Aldgate
-  21/11 19:15                                      Aldgate
-  21/11 20:20                                      Aldgate
-  21/11 20:40                                      Aldgate
-  22/11 10:50                                      Aldgate
-  22/11 11:50                                      Aldgate
-  22/11 14:00                                      Aldgate
-  22/11 15:00                                      Aldgate
-  22/11 17:10                                      Aldgate
-  22/11 18:10                                      Aldgate
-  22/11 19:15                                      Aldgate
-  22/11 20:20                                      Aldgate
-  23/11 10:20                                      Aldgate
-  23/11 11:00                                      Aldgate
-  23/11 13:40                                      Aldgate
-  23/11 14:40                                      Aldgate
-  23/11 17:10                                      Aldgate
-  23/11 17:50                                      Aldgate
-  23/11 18:30                                      Aldgate
-  23/11 20:20                                      Aldgate
-  21/11 11:30                                      Camden
-  21/11 13:30                                      Camden
-  21/11 14:30                                      Camden
-  21/11 16:30                                      Camden
-  21/11 17:30                                      Camden
-  21/11 18:10                                      Camden
-  21/11 19:30                                      Camden
-  21/11 20:30                                      Camden
-  22/11 11:30                                      Camden
-  22/11 13:30                                      Camden
-  22/11 16:30                                      Camden
-  22/11 19:30                                      Camden
-  23/11 11:00                                      Camden
-  23/11 12:30                                      Camden
-  23/11 14:00                                      Camden
-  23/11 15:30                                      Camden
-  23/11 17:00                                      Camden
-  23/11 17:40                                      Camden
-  23/11 18:30                                      Camden
-  23/11 20:00                                      Camden
-  21/11 11:30                                      Hoxton
-  21/11 14:40                                      Hoxton
-  21/11 17:50                                      Hoxton
-  21/11 20:00                                      Hoxton
-  21/11 21:00                                      Hoxton
-  22/11 11:30                                      Hoxton
-  22/11 14:40                                      Hoxton
-  22/11 17:50                                      Hoxton
-  22/11 20:15                                      Hoxton
-  23/11 11:10                                      Hoxton
-  23/11 14:20                                      Hoxton
-  23/11 17:30                                      Hoxton
-  23/11 20:40                                      Hoxton
-  21/11 11:15                                      Mayfair
-  21/11 14:20                                      Mayfair
-  21/11 17:30                                      Mayfair
-  21/11 20:40                                      Mayfair
-  22/11 11:15                                      Mayfair
-  22/11 14:20                                      Mayfair
-  22/11 17:00                                      Mayfair
-  22/11 20:15                                      Mayfair
-  23/11 11:00                                      Mayfair
-  23/11 14:10                                      Mayfair
-  23/11 17:20                                      Mayfair
-  23/11 20:30                                      Mayfair
-  21/11 11:30                                      Soho
-  21/11 14:40                                      Soho
-  21/11 17:45                                      Soho
-  21/11 20:20                                      Soho
-  21/11 20:50                                      Soho
-  22/11 11:30                                      Soho
-  22/11 13:45                                      Soho
-  22/11 17:00                                      Soho
-  22/11 18:00                                      Soho
-  22/11 20:15                                      Soho
-  23/11 11:20                                      Soho
-  23/11 14:30                                      Soho
-  23/11 17:00                                      Soho
-  23/11 18:00                                      Soho
-  23/11 20:30                                      Soho
-  21/11 11:30                                      Victoria
-  21/11 12:00                                      Victoria
-  21/11 14:30                                      Victoria
-  21/11 15:00                                      Victoria
-  21/11 17:15                                      Victoria
-  21/11 17:30                                      Victoria
-  21/11 17:45                                      Victoria
-  21/11 18:00                                      Victoria
-  21/11 20:15                                      Victoria
-  21/11 20:45                                      Victoria
-  21/11 21:00                                      Victoria
-  22/11 11:30                                      Victoria
-  22/11 13:30                                      Victoria
-  22/11 14:30                                      Victoria
-  22/11 14:45                                      Victoria
-  22/11 16:30                                      Victoria
-  22/11 17:30                                      Victoria
-  22/11 17:45                                      Victoria
-  22/11 19:30                                      Victoria
-  22/11 20:30                                      Victoria
-  22/11 20:45                                      Victoria
-  23/11 11:00                                      Victoria
-  23/11 12:15                                      Victoria
-  23/11 13:00                                      Victoria
-  23/11 14:00                                      Victoria
-  23/11 14:30                                      Victoria
-  23/11 16:00                                      Victoria
-  23/11 17:00                                      Victoria
-  23/11 17:30                                      Victoria
-  23/11 19:00                                      Victoria
-  23/11 20:00                                      Victoria
-  23/11 20:30                                      Victoria
-
-
-
-=================================
-BY CINEMA THIS WEEKEND
-=================================
-Aldgate                                              
-  Wicked: For Good                                    21/11 10:50
-  Jay Kelly                                           21/11 11:30
-  Wicked: For Good                                    21/11 11:50
-  The Running Man                                     21/11 12:40
-  Wicked: For Good                                    21/11 14:00
-  Bugonia                                             21/11 14:40
-  Wicked: For Good                                    21/11 15:00
-  One Battle After Another                            21/11 15:40
-  Wicked: For Good                                    21/11 17:10
-  The Running Man                                     21/11 17:40
-  Wicked: For Good                                    21/11 18:10
-  Wicked: For Good                                    21/11 19:15
-  Wicked: For Good                                    21/11 20:20
-  Wicked: For Good                                    21/11 20:40
-  Jay Kelly                                           21/11 21:10
-  Wicked: For Good                                    22/11 10:50
-  Jay Kelly                                           22/11 11:30
-  Wicked: For Good                                    22/11 11:50
-  The Running Man                                     22/11 12:40
-  Wicked: For Good                                    22/11 14:00
-  Bugonia                                             22/11 14:40
-  Wicked: For Good                                    22/11 15:00
-  One Battle After Another                            22/11 15:40
-  Wicked: For Good                                    22/11 17:10
-  The Running Man                                     22/11 17:40
-  Wicked: For Good                                    22/11 18:10
-  Wicked: For Good                                    22/11 19:15
-  Wicked: For Good                                    22/11 20:20
-  Jay Kelly                                           22/11 20:50
-  Bugonia                                             22/11 21:15
-  Wicked: For Good                                    23/11 10:20
-  The Running Man                                     23/11 10:40
-  Wicked: For Good                                    23/11 11:00
-  Jay Kelly                                           23/11 11:30
-  Wicked: For Good                                    23/11 13:40
-  Die My Love                                         23/11 14:00
-  Bugonia                                             23/11 14:20
-  Wicked: For Good                                    23/11 14:40
-  Wicked: For Good                                    23/11 17:10
-  The Running Man                                     23/11 17:30
-  Wicked: For Good                                    23/11 17:50
-  Wicked: For Good                                    23/11 18:30
-  Wicked: For Good                                    23/11 20:20
-  Jay Kelly                                           23/11 20:40
-  Bugonia                                             23/11 21:00
-Bloomsbury                                           
-  Jay Kelly                                           21/11 12:00
-  Game                                                21/11 12:20
-  Die My Love                                         21/11 12:30
-  Left-Handed Girl                                    21/11 12:50
-  The Mastermind                                      21/11 13:10
-  The Ice Tower                                       21/11 14:20
-  Bugonia                                             21/11 14:50
-  Die My Love                                         21/11 15:10
-  Palestine 36                                        21/11 15:20
-  The Mastermind                                      21/11 15:40
-  Dragonfly                                           21/11 17:00
-  Jay Kelly                                           21/11 17:30
-  Palestine 36                                        21/11 17:50
-  LDNDOCS 2025: COME SEE ME IN THE GOOD LIGHT         21/11 18:00
-  The Mastermind                                      21/11 18:10
-  DocHouse: Testimony                                 21/11 18:20
-  Game                                                21/11 19:15
-  Bugonia                                             21/11 20:20
-  DocHouse: The Propagandist                          21/11 20:30
-  Die My Love                                         21/11 20:40
-  The Ice Tower                                       21/11 20:50
-  Palestine 36                                        21/11 21:00
-  Left-Handed Girl                                    21/11 21:15
-  Game                                                22/11 11:00
-  Left-Handed Girl                                    22/11 11:10
-  LDNDOCS 2025: THE BEND IN THE RIVER                 22/11 11:45
-  Jay Kelly                                           22/11 12:00
-  The Mastermind                                      22/11 12:40
-  Palestine 36                                        22/11 13:10
-  The Ice Tower                                       22/11 13:40
-  LDNDOCS 2025: STILLER & MEARA: NOTHING IS LOST      22/11 14:00
-  DocHouse: Central Park                              22/11 14:30
-  Bugonia                                             22/11 14:50
-  Die My Love                                         22/11 15:10
-  Palestine 36                                        22/11 15:50
-  The Mastermind                                      22/11 16:20
-  LDNDOCS 2025: PALESTINE THROUGH ARCHIVE - SHORTS    22/11 16:30
-  Die My Love                                         22/11 17:30
-  Met Opera 2025-26: Arabella                         22/11 18:00
-  DocHouse: Seeds                                     22/11 18:10
-  LDNDOCS 2025: THE LAST DIVE                         22/11 18:20
-  Palestine 36                                        22/11 18:30
-  Game                                                22/11 18:50
-  Jay Kelly                                           22/11 20:10
-  LDNDOCS 2025: KING HAMLET                           22/11 20:30
-  Left-Handed Girl                                    22/11 21:00
-  DocHouse: Predators                                 22/11 21:10
-  The Ice Tower                                       22/11 21:20
-  Left-Handed Girl                                    23/11 11:00
-  Palestine 36                                        23/11 11:10
-  Die My Love                                         23/11 11:30
-  LDNDOCS 2025: VACANCES                              23/11 11:45
-  Jay Kelly                                           23/11 12:10
-  DocHouse: Predators                                 23/11 13:30
-  Game                                                23/11 13:40
-  The Ice Tower                                       23/11 13:50
-  LDNDOCS 2025: YANUNI                                23/11 14:00
-  Die My Love                                         23/11 14:20
-  The Mastermind                                      23/11 15:00
-  DocHouse: Testimony                                 23/11 15:30
-  Palestine 36                                        23/11 15:40
-  LDNDOCS 2025: CINEMA KAWAKEB                        23/11 16:30
-  Dragonfly                                           23/11 16:40
-  Jay Kelly                                           23/11 17:00
-  Palestine 36                                        23/11 17:30
-  DocHouse: The Propagandist                          23/11 17:40
-  The Mastermind                                      23/11 18:20
-  LDNDOCS 2025: THE TALE OF SILYAN                    23/11 18:30
-  Game                                                23/11 19:00
-  DocHouse: Tony Foster: Painting at the Edge         23/11 19:50
-  Die My Love                                         23/11 20:00
-  The Ice Tower                                       23/11 20:10
-  Bugonia                                             23/11 20:50
-  The Mastermind                                      23/11 21:00
-  Left-Handed Girl                                    23/11 21:10
-Camden                                               
-  The Stringer: The Man Who Took the Photo            21/11 11:00
-  Palestine 36                                        21/11 11:15
-  Wicked: For Good                                    21/11 11:30
-  Jay Kelly                                           21/11 12:00
-  Bugonia                                             21/11 12:20
-  Wicked: For Good                                    21/11 13:30
-  Palestine 36                                        21/11 14:10
-  Wicked: For Good                                    21/11 14:30
-  Die My Love                                         21/11 15:00
-  Alpha                                               21/11 15:20
-  Wicked: For Good                                    21/11 16:30
-  Bugonia                                             21/11 17:10
-  Wicked: For Good                                    21/11 17:30
-  The Stringer: The Man Who Took the Photo            21/11 17:50
-  Wicked: For Good                                    21/11 18:10
-  Wicked: For Good                                    21/11 19:30
-  Frankenstein                                        21/11 19:50
-  Jay Kelly                                           21/11 20:10
-  Wicked: For Good                                    21/11 20:30
-  Die My Love                                         21/11 21:10
-  Kids Club: Lilo & Stitch                            22/11 10:30
-  Wicked: For Good                                    22/11 11:30
-  Wicked: For Good                                    22/11 13:30
-  Wicked: For Good                                    22/11 16:30
-  Wicked: For Good                                    22/11 19:30
-  Wicked: For Good                                    23/11 11:00
-  The Stringer: The Man Who Took the Photo            23/11 11:15
-  Jay Kelly                                           23/11 11:30
-  Bugonia                                             23/11 12:10
-  Wicked: For Good                                    23/11 12:30
-  Palestine 36                                        23/11 13:40
-  Wicked: For Good                                    23/11 14:00
-  Die My Love                                         23/11 14:30
-  Alpha                                               23/11 14:50
-  Wicked: For Good                                    23/11 15:30
-  Bugonia                                             23/11 16:40
-  Wicked: For Good                                    23/11 17:00
-  The Stringer: The Man Who Took the Photo            23/11 17:20
-  Wicked: For Good                                    23/11 17:40
-  Wicked: For Good                                    23/11 18:30
-  Frankenstein                                        23/11 19:20
-  Jay Kelly                                           23/11 19:40
-  Wicked: For Good                                    23/11 20:00
-  Die My Love                                         23/11 20:40
-Hoxton                                               
-  Wicked: For Good                                    21/11 11:30
-  Left-Handed Girl                                    21/11 11:50
-  Palestine 36                                        21/11 13:00
-  Die My Love                                         21/11 14:20
-  Wicked: For Good                                    21/11 14:40
-  Bugonia                                             21/11 15:45
-  Die My Love                                         21/11 17:10
-  Wicked: For Good                                    21/11 17:50
-  Bugonia                                             21/11 18:30
-  Wicked: For Good                                    21/11 20:00
-  Wicked: For Good                                    21/11 21:00
-  Left-Handed Girl                                    21/11 21:20
-  Kids Club: Lilo & Stitch                            22/11 10:30
-  Left-Handed Girl                                    22/11 11:10
-  Wicked: For Good                                    22/11 11:30
-  Bugonia                                             22/11 13:00
-  Die My Love                                         22/11 14:00
-  Wicked: For Good                                    22/11 14:40
-  Palestine 36                                        22/11 15:45
-  Die My Love                                         22/11 17:15
-  Wicked: For Good                                    22/11 17:50
-  Bugonia                                             22/11 18:30
-  Wicked: For Good                                    22/11 20:15
-  Bugonia                                             22/11 20:50
-  Left-Handed Girl                                    22/11 21:15
-  Wicked: For Good                                    23/11 11:10
-  Die My Love                                         23/11 11:20
-  Left-Handed Girl                                    23/11 12:40
-  Palestine 36                                        23/11 14:00
-  Wicked: For Good                                    23/11 14:20
-  Bugonia                                             23/11 15:20
-  Die My Love                                         23/11 17:00
-  Wicked: For Good                                    23/11 17:30
-  Bugonia                                             23/11 18:15
-  Bugonia                                             23/11 20:00
-  Wicked: For Good                                    23/11 20:40
-  Left-Handed Girl                                    23/11 21:00
-Mayfair                                              
-  Palestine 36                                        21/11 11:00
-  Wicked: For Good                                    21/11 11:15
-  Nuremberg                                           21/11 14:00
-  Wicked: For Good                                    21/11 14:20
-  Wicked: For Good                                    21/11 17:30
-  Wicked: For Good                                    21/11 20:40
-  The Choral                                          22/11 11:00
-  Wicked: For Good                                    22/11 11:15
-  Nuremberg                                           22/11 13:40
-  Wicked: For Good                                    22/11 14:20
-  Wicked: For Good                                    22/11 17:00
-  Met Opera 2025-26: Arabella                         22/11 18:00
-  Wicked: For Good                                    22/11 20:15
-  Wicked: For Good                                    23/11 11:00
-  Nuremberg                                           23/11 11:30
-  Wicked: For Good                                    23/11 14:10
-  Palestine 36                                        23/11 14:45
-  Wicked: For Good                                    23/11 17:20
-  Nuremberg                                           23/11 17:40
-  Wicked: For Good                                    23/11 20:30
-  The Choral                                          23/11 21:00
-Soho                                                 
-  Jay Kelly                                           21/11 11:00
-  Wicked: For Good                                    21/11 11:30
-  Frankenstein                                        21/11 11:50
-  Alpha                                               21/11 14:00
-  Wicked: For Good                                    21/11 14:40
-  Die My Love                                         21/11 15:15
-  Wicked: For Good                                    21/11 17:45
-  Frankenstein                                        21/11 18:00
-  Wicked: For Good                                    21/11 20:20
-  Wicked: For Good                                    21/11 20:50
-  Bugonia                                             21/11 21:10
-  Jay Kelly                                           22/11 11:00
-  Wicked: For Good                                    22/11 11:30
-  Wicked: For Good                                    22/11 13:45
-  Die My Love                                         22/11 14:20
-  Frankenstein                                        22/11 14:40
-  Wicked: For Good                                    22/11 17:00
-  Bugonia                                             22/11 17:30
-  Wicked: For Good                                    22/11 18:00
-  Wicked: For Good                                    22/11 20:15
-  Frankenstein                                        22/11 20:40
-  Jay Kelly                                           22/11 21:00
-  Die My Love                                         23/11 11:00
-  Wicked: For Good                                    23/11 11:20
-  Jay Kelly                                           23/11 12:00
-  Bugonia                                             23/11 14:00
-  Wicked: For Good                                    23/11 14:30
-  Alpha                                               23/11 15:00
-  Wicked: For Good                                    23/11 17:00
-  LPFF 2025: The Mission                              23/11 17:40
-  Wicked: For Good                                    23/11 18:00
-  Frankenstein                                        23/11 20:10
-  Wicked: For Good                                    23/11 20:30
-  Jay Kelly                                           23/11 21:00
-Victoria                                             
-  Palestine 36                                        21/11 11:00
-  Jay Kelly                                           21/11 11:15
-  Wicked: For Good                                    21/11 11:30
-  The Choral                                          21/11 11:45
-  Wicked: For Good                                    21/11 12:00
-  One Battle After Another                            21/11 14:00
-  Bugonia                                             21/11 14:15
-  The Choral                                          21/11 14:30
-  Wicked: For Good                                    21/11 14:30
-  Wicked: For Good                                    21/11 15:00
-  Jay Kelly                                           21/11 17:00
-  Wicked: For Good                                    21/11 17:15
-  Wicked: For Good                                    21/11 17:30
-  Wicked: For Good                                    21/11 17:45
-  Wicked: For Good                                    21/11 18:00
-  The Choral                                          21/11 20:00
-  Wicked: For Good                                    21/11 20:15
-  Wicked: For Good                                    21/11 20:45
-  Wicked: For Good                                    21/11 21:00
-  The Choral                                          22/11 10:45
-  Jay Kelly                                           22/11 11:15
-  Wicked: For Good                                    22/11 11:30
-  Palestine 36                                        22/11 12:30
-  Wicked: For Good                                    22/11 13:30
-  Bugonia                                             22/11 14:15
-  Wicked: For Good                                    22/11 14:30
-  Wicked: For Good                                    22/11 14:45
-  The Choral                                          22/11 15:15
-  Wicked: For Good                                    22/11 16:30
-  Jay Kelly                                           22/11 17:00
-  Wicked: For Good                                    22/11 17:30
-  Wicked: For Good                                    22/11 17:45
-  The Choral                                          22/11 18:00
-  Wicked: For Good                                    22/11 19:30
-  One Battle After Another                            22/11 20:00
-  Wicked: For Good                                    22/11 20:30
-  Wicked: For Good                                    22/11 20:45
-  Bugonia                                             22/11 21:00
-  Wicked: For Good                                    23/11 11:00
-  The Choral                                          23/11 11:15
-  Jay Kelly                                           23/11 11:30
-  Wicked: For Good                                    23/11 12:15
-  Wicked: For Good                                    23/11 13:00
-  Bugonia                                             23/11 13:45
-  Wicked: For Good                                    23/11 14:00
-  Wicked: For Good                                    23/11 14:30
-  The Choral                                          23/11 15:15
-  Wicked: For Good                                    23/11 16:00
-  Jay Kelly                                           23/11 16:30
-  Wicked: For Good                                    23/11 17:00
-  Wicked: For Good                                    23/11 17:30
-  The Choral                                          23/11 18:00
-  Wicked: For Good                                    23/11 19:00
-  One Battle After Another                            23/11 19:30
-  Wicked: For Good                                    23/11 20:00
-  Wicked: For Good                                    23/11 20:30
-  The Running Man                                     23/11 20:45
+Alpha                                        
+  14:50                                       Camden
+  15:00                                       Soho
+Bugonia                                      
+  14:20                                       Aldgate
+  21:00                                       Aldgate
+  20:50                                       Bloomsbury
+  12:10                                       Camden
+  16:40                                       Camden
+  15:20                                       Hoxton
+  18:15                                       Hoxton
+  20:00                                       Hoxton
+  14:00                                       Soho
+  13:45                                       Victoria
+Die My Love                                  
+  14:00                                       Aldgate
+  14:20                                       Bloomsbury
+  20:00                                       Bloomsbury
+  14:30                                       Camden
+  20:40                                       Camden
+  17:00                                       Hoxton
+DocHouse: Predators                          
+  13:30                                       Bloomsbury
+DocHouse: Testimony                          
+  15:30                                       Bloomsbury
+DocHouse: The Propagandist                   
+  17:40                                       Bloomsbury
+DocHouse: Tony Foster: Painting at the Edge  
+  19:50                                       Bloomsbury
+Dragonfly                                    
+  16:40                                       Bloomsbury
+Frankenstein                                 
+  19:20                                       Camden
+  20:10                                       Soho
+Game                                         
+  13:40                                       Bloomsbury
+  19:00                                       Bloomsbury
+Jay Kelly                                    
+  20:40                                       Aldgate
+  12:10                                       Bloomsbury
+  17:00                                       Bloomsbury
+  19:40                                       Camden
+  12:00                                       Soho
+  21:00                                       Soho
+  16:30                                       Victoria
+LDNDOCS 2025: CINEMA KAWAKEB                 
+  16:30                                       Bloomsbury
+LDNDOCS 2025: THE TALE OF SILYAN             
+  18:30                                       Bloomsbury
+LDNDOCS 2025: YANUNI                         
+  14:00                                       Bloomsbury
+LPFF 2025: The Mission                       
+  17:40                                       Soho
+Left-Handed Girl                             
+  21:10                                       Bloomsbury
+  12:40                                       Hoxton
+  21:00                                       Hoxton
+Nuremberg                                    
+  17:40                                       Mayfair
+One Battle After Another                     
+  19:30                                       Victoria
+Palestine 36                                 
+  15:40                                       Bloomsbury
+  17:30                                       Bloomsbury
+  13:40                                       Camden
+  14:00                                       Hoxton
+  14:45                                       Mayfair
+The Choral                                   
+  21:00                                       Mayfair
+  15:15                                       Victoria
+  18:00                                       Victoria
+The Ice Tower                                
+  13:50                                       Bloomsbury
+  20:10                                       Bloomsbury
+The Mastermind                               
+  15:00                                       Bloomsbury
+  18:20                                       Bloomsbury
+  21:00                                       Bloomsbury
+The Running Man                              
+  17:30                                       Aldgate
+  20:45                                       Victoria
+The Stringer: The Man Who Took the Photo     
+  17:20                                       Camden
+Wicked: For Good                             
+  13:40                                       Aldgate
+  14:40                                       Aldgate
+  17:10                                       Aldgate
+  17:50                                       Aldgate
+  18:30                                       Aldgate
+  20:20                                       Aldgate
+  12:30                                       Camden
+  14:00                                       Camden
+  15:30                                       Camden
+  17:00                                       Camden
+  17:40                                       Camden
+  18:30                                       Camden
+  20:00                                       Camden
+  14:20                                       Hoxton
+  17:30                                       Hoxton
+  20:40                                       Hoxton
+  14:10                                       Mayfair
+  17:20                                       Mayfair
+  20:30                                       Mayfair
+  14:30                                       Soho
+  17:00                                       Soho
+  18:00                                       Soho
+  20:30                                       Soho
+  12:15                                       Victoria
+  13:00                                       Victoria
+  14:00                                       Victoria
+  14:30                                       Victoria
+  16:00                                       Victoria
+  17:00                                       Victoria
+  17:30                                       Victoria
+  19:00                                       Victoria
+  20:00                                       Victoria
+  20:30                                       Victoria
 
 
 
@@ -722,51 +125,6 @@ Victoria
 BY CINEMA ALL TIME
 =================================
 Aldgate                                               
-  Wicked: For Good                                     21/11 10:50
-  Jay Kelly                                            21/11 11:30
-  Wicked: For Good                                     21/11 11:50
-  The Running Man                                      21/11 12:40
-  Wicked: For Good                                     21/11 14:00
-  Bugonia                                              21/11 14:40
-  Wicked: For Good                                     21/11 15:00
-  One Battle After Another                             21/11 15:40
-  Wicked: For Good                                     21/11 17:10
-  The Running Man                                      21/11 17:40
-  Wicked: For Good                                     21/11 18:10
-  Wicked: For Good                                     21/11 19:15
-  Wicked: For Good                                     21/11 20:20
-  Wicked: For Good                                     21/11 20:40
-  Jay Kelly                                            21/11 21:10
-  Wicked: For Good                                     22/11 10:50
-  Jay Kelly                                            22/11 11:30
-  Wicked: For Good                                     22/11 11:50
-  The Running Man                                      22/11 12:40
-  Wicked: For Good                                     22/11 14:00
-  Bugonia                                              22/11 14:40
-  Wicked: For Good                                     22/11 15:00
-  One Battle After Another                             22/11 15:40
-  Wicked: For Good                                     22/11 17:10
-  The Running Man                                      22/11 17:40
-  Wicked: For Good                                     22/11 18:10
-  Wicked: For Good                                     22/11 19:15
-  Wicked: For Good                                     22/11 20:20
-  Jay Kelly                                            22/11 20:50
-  Bugonia                                              22/11 21:15
-  Wicked: For Good                                     23/11 10:20
-  The Running Man                                      23/11 10:40
-  Wicked: For Good                                     23/11 11:00
-  Jay Kelly                                            23/11 11:30
-  Wicked: For Good                                     23/11 13:40
-  Die My Love                                          23/11 14:00
-  Bugonia                                              23/11 14:20
-  Wicked: For Good                                     23/11 14:40
-  Wicked: For Good                                     23/11 17:10
-  The Running Man                                      23/11 17:30
-  Wicked: For Good                                     23/11 17:50
-  Wicked: For Good                                     23/11 18:30
-  Wicked: For Good                                     23/11 20:20
-  Jay Kelly                                            23/11 20:40
-  Bugonia                                              23/11 21:00
   Wicked: For Good                                     24/11 10:50
   Jay Kelly                                            24/11 11:30
   Wicked: For Good                                     24/11 11:50
@@ -901,81 +259,6 @@ Aldgate
   Film Club: Sunset Boulevard                          31/12 15:00
   National Theatre Live: Hamlet                        22/01 19:00
 Bloomsbury                                            
-  Jay Kelly                                            21/11 12:00
-  Game                                                 21/11 12:20
-  Die My Love                                          21/11 12:30
-  Left-Handed Girl                                     21/11 12:50
-  The Mastermind                                       21/11 13:10
-  The Ice Tower                                        21/11 14:20
-  Bugonia                                              21/11 14:50
-  Die My Love                                          21/11 15:10
-  Palestine 36                                         21/11 15:20
-  The Mastermind                                       21/11 15:40
-  Dragonfly                                            21/11 17:00
-  Jay Kelly                                            21/11 17:30
-  Palestine 36                                         21/11 17:50
-  LDNDOCS 2025: COME SEE ME IN THE GOOD LIGHT          21/11 18:00
-  The Mastermind                                       21/11 18:10
-  DocHouse: Testimony                                  21/11 18:20
-  Game                                                 21/11 19:15
-  Bugonia                                              21/11 20:20
-  DocHouse: The Propagandist                           21/11 20:30
-  Die My Love                                          21/11 20:40
-  The Ice Tower                                        21/11 20:50
-  Palestine 36                                         21/11 21:00
-  Left-Handed Girl                                     21/11 21:15
-  Game                                                 22/11 11:00
-  Left-Handed Girl                                     22/11 11:10
-  LDNDOCS 2025: THE BEND IN THE RIVER                  22/11 11:45
-  Jay Kelly                                            22/11 12:00
-  The Mastermind                                       22/11 12:40
-  Palestine 36                                         22/11 13:10
-  The Ice Tower                                        22/11 13:40
-  LDNDOCS 2025: STILLER & MEARA: NOTHING IS LOST       22/11 14:00
-  DocHouse: Central Park                               22/11 14:30
-  Bugonia                                              22/11 14:50
-  Die My Love                                          22/11 15:10
-  Palestine 36                                         22/11 15:50
-  The Mastermind                                       22/11 16:20
-  LDNDOCS 2025: PALESTINE THROUGH ARCHIVE - SHORTS     22/11 16:30
-  Die My Love                                          22/11 17:30
-  Met Opera 2025-26: Arabella                          22/11 18:00
-  DocHouse: Seeds                                      22/11 18:10
-  LDNDOCS 2025: THE LAST DIVE                          22/11 18:20
-  Palestine 36                                         22/11 18:30
-  Game                                                 22/11 18:50
-  Jay Kelly                                            22/11 20:10
-  LDNDOCS 2025: KING HAMLET                            22/11 20:30
-  Left-Handed Girl                                     22/11 21:00
-  DocHouse: Predators                                  22/11 21:10
-  The Ice Tower                                        22/11 21:20
-  Left-Handed Girl                                     23/11 11:00
-  Palestine 36                                         23/11 11:10
-  Die My Love                                          23/11 11:30
-  LDNDOCS 2025: VACANCES                               23/11 11:45
-  Jay Kelly                                            23/11 12:10
-  DocHouse: Predators                                  23/11 13:30
-  Game                                                 23/11 13:40
-  The Ice Tower                                        23/11 13:50
-  LDNDOCS 2025: YANUNI                                 23/11 14:00
-  Die My Love                                          23/11 14:20
-  The Mastermind                                       23/11 15:00
-  DocHouse: Testimony                                  23/11 15:30
-  Palestine 36                                         23/11 15:40
-  LDNDOCS 2025: CINEMA KAWAKEB                         23/11 16:30
-  Dragonfly                                            23/11 16:40
-  Jay Kelly                                            23/11 17:00
-  Palestine 36                                         23/11 17:30
-  DocHouse: The Propagandist                           23/11 17:40
-  The Mastermind                                       23/11 18:20
-  LDNDOCS 2025: THE TALE OF SILYAN                     23/11 18:30
-  Game                                                 23/11 19:00
-  DocHouse: Tony Foster: Painting at the Edge          23/11 19:50
-  Die My Love                                          23/11 20:00
-  The Ice Tower                                        23/11 20:10
-  Bugonia                                              23/11 20:50
-  The Mastermind                                       23/11 21:00
-  Left-Handed Girl                                     23/11 21:10
   Game                                                 24/11 11:00
   Left-Handed Girl                                     24/11 11:40
   Palestine 36                                         24/11 12:10
@@ -1165,50 +448,6 @@ Bloomsbury
   Met Opera 2025-26: Eugene Onegin                     05/05 17:00
   Met Opera 2026: El Último Sueño de Frida y Diego     30/05 17:00
 Camden                                                
-  The Stringer: The Man Who Took the Photo             21/11 11:00
-  Palestine 36                                         21/11 11:15
-  Wicked: For Good                                     21/11 11:30
-  Jay Kelly                                            21/11 12:00
-  Bugonia                                              21/11 12:20
-  Wicked: For Good                                     21/11 13:30
-  Palestine 36                                         21/11 14:10
-  Wicked: For Good                                     21/11 14:30
-  Die My Love                                          21/11 15:00
-  Alpha                                                21/11 15:20
-  Wicked: For Good                                     21/11 16:30
-  Bugonia                                              21/11 17:10
-  Wicked: For Good                                     21/11 17:30
-  The Stringer: The Man Who Took the Photo             21/11 17:50
-  Wicked: For Good                                     21/11 18:10
-  Wicked: For Good                                     21/11 19:30
-  Frankenstein                                         21/11 19:50
-  Jay Kelly                                            21/11 20:10
-  Wicked: For Good                                     21/11 20:30
-  Die My Love                                          21/11 21:10
-  Kids Club: Lilo & Stitch                             22/11 10:30
-  Wicked: For Good                                     22/11 11:30
-  Wicked: For Good                                     22/11 13:30
-  Wicked: For Good                                     22/11 16:30
-  Wicked: For Good                                     22/11 19:30
-  Wicked: For Good                                     23/11 11:00
-  The Stringer: The Man Who Took the Photo             23/11 11:15
-  Jay Kelly                                            23/11 11:30
-  Bugonia                                              23/11 12:10
-  Wicked: For Good                                     23/11 12:30
-  Palestine 36                                         23/11 13:40
-  Wicked: For Good                                     23/11 14:00
-  Die My Love                                          23/11 14:30
-  Alpha                                                23/11 14:50
-  Wicked: For Good                                     23/11 15:30
-  Bugonia                                              23/11 16:40
-  Wicked: For Good                                     23/11 17:00
-  The Stringer: The Man Who Took the Photo             23/11 17:20
-  Wicked: For Good                                     23/11 17:40
-  Wicked: For Good                                     23/11 18:30
-  Frankenstein                                         23/11 19:20
-  Jay Kelly                                            23/11 19:40
-  Wicked: For Good                                     23/11 20:00
-  Die My Love                                          23/11 20:40
   Wicked: For Good                                     24/11 11:30
   The Stringer: The Man Who Took the Photo             24/11 11:45
   Jay Kelly                                            24/11 12:00
@@ -1363,43 +602,6 @@ Camden
   Film Club: Sunset Boulevard                          31/12 15:00
   National Theatre Live: Hamlet                        22/01 19:00
 Hoxton                                                
-  Wicked: For Good                                     21/11 11:30
-  Left-Handed Girl                                     21/11 11:50
-  Palestine 36                                         21/11 13:00
-  Die My Love                                          21/11 14:20
-  Wicked: For Good                                     21/11 14:40
-  Bugonia                                              21/11 15:45
-  Die My Love                                          21/11 17:10
-  Wicked: For Good                                     21/11 17:50
-  Bugonia                                              21/11 18:30
-  Wicked: For Good                                     21/11 20:00
-  Wicked: For Good                                     21/11 21:00
-  Left-Handed Girl                                     21/11 21:20
-  Kids Club: Lilo & Stitch                             22/11 10:30
-  Left-Handed Girl                                     22/11 11:10
-  Wicked: For Good                                     22/11 11:30
-  Bugonia                                              22/11 13:00
-  Die My Love                                          22/11 14:00
-  Wicked: For Good                                     22/11 14:40
-  Palestine 36                                         22/11 15:45
-  Die My Love                                          22/11 17:15
-  Wicked: For Good                                     22/11 17:50
-  Bugonia                                              22/11 18:30
-  Wicked: For Good                                     22/11 20:15
-  Bugonia                                              22/11 20:50
-  Left-Handed Girl                                     22/11 21:15
-  Wicked: For Good                                     23/11 11:10
-  Die My Love                                          23/11 11:20
-  Left-Handed Girl                                     23/11 12:40
-  Palestine 36                                         23/11 14:00
-  Wicked: For Good                                     23/11 14:20
-  Bugonia                                              23/11 15:20
-  Die My Love                                          23/11 17:00
-  Wicked: For Good                                     23/11 17:30
-  Bugonia                                              23/11 18:15
-  Bugonia                                              23/11 20:00
-  Wicked: For Good                                     23/11 20:40
-  Left-Handed Girl                                     23/11 21:00
   Left-Handed Girl                                     24/11 11:45
   Die My Love                                          24/11 12:00
   Wicked: For Good                                     24/11 12:20
@@ -1482,27 +684,6 @@ Hoxton
   Kids Club: The Polar Express                         27/12 10:30
   Film Club: Wild at Heart                             28/12 14:00
 Mayfair                                               
-  Palestine 36                                         21/11 11:00
-  Wicked: For Good                                     21/11 11:15
-  Nuremberg                                            21/11 14:00
-  Wicked: For Good                                     21/11 14:20
-  Wicked: For Good                                     21/11 17:30
-  Wicked: For Good                                     21/11 20:40
-  The Choral                                           22/11 11:00
-  Wicked: For Good                                     22/11 11:15
-  Nuremberg                                            22/11 13:40
-  Wicked: For Good                                     22/11 14:20
-  Wicked: For Good                                     22/11 17:00
-  Met Opera 2025-26: Arabella                          22/11 18:00
-  Wicked: For Good                                     22/11 20:15
-  Wicked: For Good                                     23/11 11:00
-  Nuremberg                                            23/11 11:30
-  Wicked: For Good                                     23/11 14:10
-  Palestine 36                                         23/11 14:45
-  Wicked: For Good                                     23/11 17:20
-  Nuremberg                                            23/11 17:40
-  Wicked: For Good                                     23/11 20:30
-  The Choral                                           23/11 21:00
   The Choral                                           24/11 11:15
   Wicked: For Good                                     24/11 11:30
   Nuremberg                                            24/11 14:00
@@ -1555,40 +736,6 @@ Mayfair
   Avatar: Fire and Ash                                 23/12 15:00
   Avatar: Fire and Ash                                 23/12 19:15
 Soho                                                  
-  Jay Kelly                                            21/11 11:00
-  Wicked: For Good                                     21/11 11:30
-  Frankenstein                                         21/11 11:50
-  Alpha                                                21/11 14:00
-  Wicked: For Good                                     21/11 14:40
-  Die My Love                                          21/11 15:15
-  Wicked: For Good                                     21/11 17:45
-  Frankenstein                                         21/11 18:00
-  Wicked: For Good                                     21/11 20:20
-  Wicked: For Good                                     21/11 20:50
-  Bugonia                                              21/11 21:10
-  Jay Kelly                                            22/11 11:00
-  Wicked: For Good                                     22/11 11:30
-  Wicked: For Good                                     22/11 13:45
-  Die My Love                                          22/11 14:20
-  Frankenstein                                         22/11 14:40
-  Wicked: For Good                                     22/11 17:00
-  Bugonia                                              22/11 17:30
-  Wicked: For Good                                     22/11 18:00
-  Wicked: For Good                                     22/11 20:15
-  Frankenstein                                         22/11 20:40
-  Jay Kelly                                            22/11 21:00
-  Die My Love                                          23/11 11:00
-  Wicked: For Good                                     23/11 11:20
-  Jay Kelly                                            23/11 12:00
-  Bugonia                                              23/11 14:00
-  Wicked: For Good                                     23/11 14:30
-  Alpha                                                23/11 15:00
-  Wicked: For Good                                     23/11 17:00
-  LPFF 2025: The Mission                               23/11 17:40
-  Wicked: For Good                                     23/11 18:00
-  Frankenstein                                         23/11 20:10
-  Wicked: For Good                                     23/11 20:30
-  Jay Kelly                                            23/11 21:00
   Bugonia                                              24/11 11:20
   Wicked: For Good                                     24/11 11:40
   Jay Kelly                                            24/11 12:00
@@ -1657,63 +804,6 @@ Soho
   Sentimental Value                                    22/12 18:00
   Film Club: Lost Highway                              27/12 15:00
 Victoria                                              
-  Palestine 36                                         21/11 11:00
-  Jay Kelly                                            21/11 11:15
-  Wicked: For Good                                     21/11 11:30
-  The Choral                                           21/11 11:45
-  Wicked: For Good                                     21/11 12:00
-  One Battle After Another                             21/11 14:00
-  Bugonia                                              21/11 14:15
-  The Choral                                           21/11 14:30
-  Wicked: For Good                                     21/11 14:30
-  Wicked: For Good                                     21/11 15:00
-  Jay Kelly                                            21/11 17:00
-  Wicked: For Good                                     21/11 17:15
-  Wicked: For Good                                     21/11 17:30
-  Wicked: For Good                                     21/11 17:45
-  Wicked: For Good                                     21/11 18:00
-  The Choral                                           21/11 20:00
-  Wicked: For Good                                     21/11 20:15
-  Wicked: For Good                                     21/11 20:45
-  Wicked: For Good                                     21/11 21:00
-  The Choral                                           22/11 10:45
-  Jay Kelly                                            22/11 11:15
-  Wicked: For Good                                     22/11 11:30
-  Palestine 36                                         22/11 12:30
-  Wicked: For Good                                     22/11 13:30
-  Bugonia                                              22/11 14:15
-  Wicked: For Good                                     22/11 14:30
-  Wicked: For Good                                     22/11 14:45
-  The Choral                                           22/11 15:15
-  Wicked: For Good                                     22/11 16:30
-  Jay Kelly                                            22/11 17:00
-  Wicked: For Good                                     22/11 17:30
-  Wicked: For Good                                     22/11 17:45
-  The Choral                                           22/11 18:00
-  Wicked: For Good                                     22/11 19:30
-  One Battle After Another                             22/11 20:00
-  Wicked: For Good                                     22/11 20:30
-  Wicked: For Good                                     22/11 20:45
-  Bugonia                                              22/11 21:00
-  Wicked: For Good                                     23/11 11:00
-  The Choral                                           23/11 11:15
-  Jay Kelly                                            23/11 11:30
-  Wicked: For Good                                     23/11 12:15
-  Wicked: For Good                                     23/11 13:00
-  Bugonia                                              23/11 13:45
-  Wicked: For Good                                     23/11 14:00
-  Wicked: For Good                                     23/11 14:30
-  The Choral                                           23/11 15:15
-  Wicked: For Good                                     23/11 16:00
-  Jay Kelly                                            23/11 16:30
-  Wicked: For Good                                     23/11 17:00
-  Wicked: For Good                                     23/11 17:30
-  The Choral                                           23/11 18:00
-  Wicked: For Good                                     23/11 19:00
-  One Battle After Another                             23/11 19:30
-  Wicked: For Good                                     23/11 20:00
-  Wicked: For Good                                     23/11 20:30
-  The Running Man                                      23/11 20:45
   Jay Kelly                                            24/11 11:15
   The Choral                                           24/11 11:30
   Wicked: For Good                                     24/11 12:00
@@ -1918,14 +1008,10 @@ Victoria
 BY FILM ALL TIME
 =================================
 Alpha                                              
-  21/11 15:20                                       Camden
-  23/11 14:50                                       Camden
   24/11 15:20                                       Camden
   25/11 15:30                                       Camden
   26/11 13:20                                       Camden
   27/11 13:20                                       Camden
-  21/11 14:00                                       Soho
-  23/11 15:00                                       Soho
   24/11 20:40                                       Soho
   25/11 15:15                                       Soho
   26/11 20:40                                       Soho
@@ -2058,11 +1144,6 @@ Avatar: Fire and Ash 3D
   24/12 12:30                                       Victoria
   24/12 16:30                                       Victoria
 Bugonia                                            
-  21/11 14:40                                       Aldgate
-  22/11 14:40                                       Aldgate
-  22/11 21:15                                       Aldgate
-  23/11 14:20                                       Aldgate
-  23/11 21:00                                       Aldgate
   24/11 14:40                                       Aldgate
   24/11 21:15                                       Aldgate
   25/11 13:15                                       Aldgate
@@ -2071,33 +1152,17 @@ Bugonia
   26/11 21:10                                       Aldgate
   27/11 10:40                                       Aldgate
   27/11 21:10                                       Aldgate
-  21/11 14:50                                       Bloomsbury
-  21/11 20:20                                       Bloomsbury
-  22/11 14:50                                       Bloomsbury
-  23/11 20:50                                       Bloomsbury
   24/11 15:20                                       Bloomsbury
   25/11 14:50                                       Bloomsbury
   25/11 20:20                                       Bloomsbury
   26/11 15:10                                       Bloomsbury
   27/11 15:10                                       Bloomsbury
   27/11 20:50                                       Bloomsbury
-  21/11 12:20                                       Camden
-  21/11 17:10                                       Camden
-  23/11 12:10                                       Camden
-  23/11 16:40                                       Camden
   24/11 12:30                                       Camden
   24/11 17:00                                       Camden
   25/11 14:10                                       Camden
   26/11 15:20                                       Camden
   27/11 15:20                                       Camden
-  21/11 15:45                                       Hoxton
-  21/11 18:30                                       Hoxton
-  22/11 13:00                                       Hoxton
-  22/11 18:30                                       Hoxton
-  22/11 20:50                                       Hoxton
-  23/11 15:20                                       Hoxton
-  23/11 18:15                                       Hoxton
-  23/11 20:00                                       Hoxton
   24/11 15:30                                       Hoxton
   24/11 18:20                                       Hoxton
   24/11 21:10                                       Hoxton
@@ -2107,9 +1172,6 @@ Bugonia
   26/11 18:00                                       Hoxton
   27/11 12:20                                       Hoxton
   27/11 18:00                                       Hoxton
-  21/11 21:10                                       Soho
-  22/11 17:30                                       Soho
-  23/11 14:00                                       Soho
   24/11 11:20                                       Soho
   24/11 21:15                                       Soho
   25/11 11:20                                       Soho
@@ -2117,24 +1179,11 @@ Bugonia
   26/11 18:20                                       Soho
   27/11 15:00                                       Soho
   27/11 21:15                                       Soho
-  21/11 14:15                                       Victoria
-  22/11 14:15                                       Victoria
-  22/11 21:00                                       Victoria
-  23/11 13:45                                       Victoria
   24/11 14:15                                       Victoria
   24/11 21:15                                       Victoria
   25/11 14:15                                       Victoria
   26/11 11:45                                       Victoria
 Die My Love                                        
-  23/11 14:00                                       Aldgate
-  21/11 12:30                                       Bloomsbury
-  21/11 15:10                                       Bloomsbury
-  21/11 20:40                                       Bloomsbury
-  22/11 15:10                                       Bloomsbury
-  22/11 17:30                                       Bloomsbury
-  23/11 11:30                                       Bloomsbury
-  23/11 14:20                                       Bloomsbury
-  23/11 20:00                                       Bloomsbury
   24/11 12:30                                       Bloomsbury
   24/11 15:10                                       Bloomsbury
   24/11 18:10                                       Bloomsbury
@@ -2144,10 +1193,6 @@ Die My Love
   26/11 14:20                                       Bloomsbury
   26/11 21:10                                       Bloomsbury
   27/11 12:30                                       Bloomsbury
-  21/11 15:00                                       Camden
-  21/11 21:10                                       Camden
-  23/11 14:30                                       Camden
-  23/11 20:40                                       Camden
   24/11 15:00                                       Camden
   24/11 21:10                                       Camden
   25/11 21:15                                       Camden
@@ -2155,28 +1200,17 @@ Die My Love
   26/11 20:50                                       Camden
   27/11 15:00                                       Camden
   27/11 20:50                                       Camden
-  21/11 14:20                                       Hoxton
-  21/11 17:10                                       Hoxton
-  22/11 14:00                                       Hoxton
-  22/11 17:15                                       Hoxton
-  23/11 11:20                                       Hoxton
-  23/11 17:00                                       Hoxton
   24/11 12:00                                       Hoxton
   24/11 20:50                                       Hoxton
   25/11 15:00                                       Hoxton
   25/11 17:50                                       Hoxton
   26/11 14:20                                       Hoxton
   27/11 14:20                                       Hoxton
-  21/11 15:15                                       Soho
-  22/11 14:20                                       Soho
-  23/11 11:00                                       Soho
   24/11 15:15                                       Soho
   25/11 21:15                                       Soho
   26/11 14:45                                       Soho
 DocHouse: Aspen                                    
   06/12 14:30                                       Bloomsbury
-DocHouse: Central Park                             
-  22/11 14:30                                       Bloomsbury
 DocHouse: Coexistence, My Ass                      
   25/11 18:20                                       Bloomsbury
 DocHouse: Colossal Wreck                           
@@ -2219,8 +1253,6 @@ DocHouse: Menus-Plaisirs
 DocHouse: National Gallery                         
   04/01 14:00                                       Bloomsbury
 DocHouse: Predators                                
-  22/11 21:10                                       Bloomsbury
-  23/11 13:30                                       Bloomsbury
   24/11 20:30                                       Bloomsbury
   26/11 21:00                                       Bloomsbury
   27/11 15:00                                       Bloomsbury
@@ -2235,21 +1267,15 @@ DocHouse: Public Housing
   14/12 14:30                                       Bloomsbury
 DocHouse: Rhino                                    
   07/12 13:45                                       Bloomsbury
-DocHouse: Seeds                                    
-  22/11 18:10                                       Bloomsbury
 DocHouse: Still Pushing Pineapples                 
   26/11 18:20                                       Bloomsbury
 DocHouse: Taylor                                   
   03/12 18:20                                       Bloomsbury
 DocHouse: Testimony                                
-  21/11 18:20                                       Bloomsbury
-  23/11 15:30                                       Bloomsbury
   25/11 20:50                                       Bloomsbury
   26/11 15:00                                       Bloomsbury
   27/11 18:10                                       Bloomsbury
 DocHouse: The Propagandist                         
-  21/11 20:30                                       Bloomsbury
-  23/11 17:40                                       Bloomsbury
   24/11 18:20                                       Bloomsbury
   25/11 15:00                                       Bloomsbury
   27/11 20:30                                       Bloomsbury
@@ -2263,11 +1289,8 @@ DocHouse: The Tale of Silyan
 DocHouse: The Voice of Hind Rajab                  
   29/11 20:00                                       Bloomsbury
 DocHouse: Tony Foster: Painting at the Edge        
-  23/11 19:50                                       Bloomsbury
   24/11 15:00                                       Bloomsbury
 Dragonfly                                          
-  21/11 17:00                                       Bloomsbury
-  23/11 16:40                                       Bloomsbury
   24/11 16:45                                       Bloomsbury
   25/11 16:30                                       Bloomsbury
   26/11 17:00                                       Bloomsbury
@@ -2333,15 +1356,8 @@ Film Club: Wild at Heart
   10/12 18:00                                       Camden
   28/12 14:00                                       Hoxton
 Frankenstein                                       
-  21/11 19:50                                       Camden
-  23/11 19:20                                       Camden
   24/11 19:50                                       Camden
   25/11 19:50                                       Camden
-  21/11 11:50                                       Soho
-  21/11 18:00                                       Soho
-  22/11 14:40                                       Soho
-  22/11 20:40                                       Soho
-  23/11 20:10                                       Soho
   24/11 14:15                                       Soho
   25/11 14:15                                       Soho
   25/11 17:50                                       Soho
@@ -2349,12 +1365,6 @@ Frankenstein
   27/11 11:00                                       Soho
   27/11 17:20                                       Soho
 Game                                               
-  21/11 12:20                                       Bloomsbury
-  21/11 19:15                                       Bloomsbury
-  22/11 11:00                                       Bloomsbury
-  22/11 18:50                                       Bloomsbury
-  23/11 13:40                                       Bloomsbury
-  23/11 19:00                                       Bloomsbury
   24/11 11:00                                       Bloomsbury
   24/11 19:00                                       Bloomsbury
   25/11 13:30                                       Bloomsbury
@@ -2369,12 +1379,6 @@ It Was Just An Accident
   02/12 18:20                                       Hoxton
   02/12 18:20                                       Soho
 Jay Kelly                                          
-  21/11 11:30                                       Aldgate
-  21/11 21:10                                       Aldgate
-  22/11 11:30                                       Aldgate
-  22/11 20:50                                       Aldgate
-  23/11 11:30                                       Aldgate
-  23/11 20:40                                       Aldgate
   24/11 11:30                                       Aldgate
   24/11 20:50                                       Aldgate
   25/11 11:30                                       Aldgate
@@ -2383,12 +1387,6 @@ Jay Kelly
   26/11 20:50                                       Aldgate
   27/11 11:40                                       Aldgate
   27/11 20:50                                       Aldgate
-  21/11 12:00                                       Bloomsbury
-  21/11 17:30                                       Bloomsbury
-  22/11 12:00                                       Bloomsbury
-  22/11 20:10                                       Bloomsbury
-  23/11 12:10                                       Bloomsbury
-  23/11 17:00                                       Bloomsbury
   24/11 12:20                                       Bloomsbury
   24/11 20:50                                       Bloomsbury
   25/11 12:00                                       Bloomsbury
@@ -2397,10 +1395,6 @@ Jay Kelly
   26/11 20:40                                       Bloomsbury
   27/11 11:10                                       Bloomsbury
   27/11 18:30                                       Bloomsbury
-  21/11 12:00                                       Camden
-  21/11 20:10                                       Camden
-  23/11 11:30                                       Camden
-  23/11 19:40                                       Camden
   24/11 12:00                                       Camden
   24/11 20:50                                       Camden
   25/11 12:00                                       Camden
@@ -2409,11 +1403,6 @@ Jay Kelly
   26/11 17:10                                       Camden
   27/11 11:15                                       Camden
   27/11 17:10                                       Camden
-  21/11 11:00                                       Soho
-  22/11 11:00                                       Soho
-  22/11 21:00                                       Soho
-  23/11 12:00                                       Soho
-  23/11 21:00                                       Soho
   24/11 12:00                                       Soho
   24/11 18:20                                       Soho
   25/11 12:00                                       Soho
@@ -2422,12 +1411,6 @@ Jay Kelly
   26/11 17:40                                       Soho
   27/11 12:00                                       Soho
   27/11 21:00                                       Soho
-  21/11 11:15                                       Victoria
-  21/11 17:00                                       Victoria
-  22/11 11:15                                       Victoria
-  22/11 17:00                                       Victoria
-  23/11 11:30                                       Victoria
-  23/11 16:30                                       Victoria
   24/11 11:15                                       Victoria
   24/11 17:00                                       Victoria
   25/11 17:00                                       Victoria
@@ -2446,9 +1429,6 @@ Kids Club: Home Alone
 Kids Club: How the Grinch Stole Christmas          
   06/12 10:30                                       Camden
   06/12 10:30                                       Hoxton
-Kids Club: Lilo & Stitch                           
-  22/11 10:30                                       Camden
-  22/11 10:30                                       Hoxton
 Kids Club: Pets on a Train                         
   29/11 10:30                                       Camden
   29/11 10:30                                       Hoxton
@@ -2458,40 +1438,13 @@ Kids Club: The Polar Express
 LAtalante (4K Re-release)                          
   30/12 11:00                                       Camden
   30/12 11:00                                       Victoria
-LDNDOCS 2025: CINEMA KAWAKEB                       
-  23/11 16:30                                       Bloomsbury
-LDNDOCS 2025: COME SEE ME IN THE GOOD LIGHT        
-  21/11 18:00                                       Bloomsbury
-LDNDOCS 2025: KING HAMLET                          
-  22/11 20:30                                       Bloomsbury
-LDNDOCS 2025: PALESTINE THROUGH ARCHIVE - SHORTS   
-  22/11 16:30                                       Bloomsbury
-LDNDOCS 2025: STILLER & MEARA: NOTHING IS LOST     
-  22/11 14:00                                       Bloomsbury
-LDNDOCS 2025: THE BEND IN THE RIVER                
-  22/11 11:45                                       Bloomsbury
-LDNDOCS 2025: THE LAST DIVE                        
-  22/11 18:20                                       Bloomsbury
-LDNDOCS 2025: THE TALE OF SILYAN                   
-  23/11 18:30                                       Bloomsbury
-LDNDOCS 2025: VACANCES                             
-  23/11 11:45                                       Bloomsbury
-LDNDOCS 2025: YANUNI                               
-  23/11 14:00                                       Bloomsbury
 LPFF 2025: Fragments of Life (Shorts)              
   26/11 18:20                                       Hoxton
 LPFF 2025: The Jacket                              
   27/11 18:20                                       Hoxton
 LPFF 2025: The Mission                             
   25/11 18:00                                       Mayfair
-  23/11 17:40                                       Soho
 Left-Handed Girl                                   
-  21/11 12:50                                       Bloomsbury
-  21/11 21:15                                       Bloomsbury
-  22/11 11:10                                       Bloomsbury
-  22/11 21:00                                       Bloomsbury
-  23/11 11:00                                       Bloomsbury
-  23/11 21:10                                       Bloomsbury
   24/11 11:40                                       Bloomsbury
   24/11 20:40                                       Bloomsbury
   25/11 11:00                                       Bloomsbury
@@ -2500,12 +1453,6 @@ Left-Handed Girl
   26/11 21:20                                       Bloomsbury
   27/11 11:00                                       Bloomsbury
   27/11 21:00                                       Bloomsbury
-  21/11 11:50                                       Hoxton
-  21/11 21:20                                       Hoxton
-  22/11 11:10                                       Hoxton
-  22/11 21:15                                       Hoxton
-  23/11 12:40                                       Hoxton
-  23/11 21:00                                       Hoxton
   24/11 11:45                                       Hoxton
   24/11 17:20                                       Hoxton
   25/11 12:15                                       Hoxton
@@ -2518,9 +1465,6 @@ Met Opera 2025-26: Andrea Chénier
   13/12 18:00                                       Bloomsbury
   13/12 18:00                                       Mayfair
   13/12 18:00                                       Victoria
-Met Opera 2025-26: Arabella                        
-  22/11 18:00                                       Bloomsbury
-  22/11 18:00                                       Mayfair
 Met Opera 2025-26: Eugene Onegin                   
   02/05 17:00                                       Bloomsbury
   05/05 17:00                                       Bloomsbury
@@ -2550,10 +1494,6 @@ National Theatre Live: The Fifth Step
   27/11 17:30                                       Victoria
   27/11 18:20                                       Victoria
 Nuremberg                                          
-  21/11 14:00                                       Mayfair
-  22/11 13:40                                       Mayfair
-  23/11 11:30                                       Mayfair
-  23/11 17:40                                       Mayfair
   24/11 14:00                                       Mayfair
   24/11 20:15                                       Mayfair
   25/11 14:00                                       Mayfair
@@ -2561,14 +1501,9 @@ Nuremberg
   26/11 14:00                                       Mayfair
   27/11 14:15                                       Mayfair
 One Battle After Another                           
-  21/11 15:40                                       Aldgate
-  22/11 15:40                                       Aldgate
   24/11 15:40                                       Aldgate
   25/11 16:00                                       Aldgate
   26/11 16:20                                       Aldgate
-  21/11 14:00                                       Victoria
-  22/11 20:00                                       Victoria
-  23/11 19:30                                       Victoria
   24/11 14:15                                       Victoria
   24/11 20:00                                       Victoria
   25/11 15:15                                       Victoria
@@ -2576,15 +1511,6 @@ One Battle After Another
   26/11 14:30                                       Victoria
   27/11 20:30                                       Victoria
 Palestine 36                                       
-  21/11 15:20                                       Bloomsbury
-  21/11 17:50                                       Bloomsbury
-  21/11 21:00                                       Bloomsbury
-  22/11 13:10                                       Bloomsbury
-  22/11 15:50                                       Bloomsbury
-  22/11 18:30                                       Bloomsbury
-  23/11 11:10                                       Bloomsbury
-  23/11 15:40                                       Bloomsbury
-  23/11 17:30                                       Bloomsbury
   24/11 12:10                                       Bloomsbury
   24/11 14:50                                       Bloomsbury
   24/11 17:50                                       Bloomsbury
@@ -2597,27 +1523,17 @@ Palestine 36
   27/11 12:00                                       Bloomsbury
   27/11 15:40                                       Bloomsbury
   27/11 17:20                                       Bloomsbury
-  21/11 11:15                                       Camden
-  21/11 14:10                                       Camden
-  23/11 13:40                                       Camden
   24/11 14:10                                       Camden
   24/11 17:50                                       Camden
   25/11 15:00                                       Camden
   26/11 12:30                                       Camden
   27/11 12:30                                       Camden
-  21/11 13:00                                       Hoxton
-  22/11 15:45                                       Hoxton
-  23/11 14:00                                       Hoxton
   24/11 14:30                                       Hoxton
-  21/11 11:00                                       Mayfair
-  23/11 14:45                                       Mayfair
   24/11 17:20                                       Mayfair
   25/11 11:15                                       Mayfair
   26/11 11:15                                       Mayfair
   27/11 11:20                                       Mayfair
   12/12 18:00                                       Mayfair
-  21/11 11:00                                       Victoria
-  22/11 12:30                                       Victoria
   24/11 12:30                                       Victoria
   25/11 12:30                                       Victoria
   26/11 10:45                                       Victoria
@@ -2695,20 +1611,9 @@ Sentimental Value
 THE CURE: THE SHOW OF A LOST WORLD                 
   11/12 18:00                                       Victoria
 The Choral                                         
-  22/11 11:00                                       Mayfair
-  23/11 21:00                                       Mayfair
   24/11 11:15                                       Mayfair
   26/11 21:20                                       Mayfair
   27/11 21:20                                       Mayfair
-  21/11 11:45                                       Victoria
-  21/11 14:30                                       Victoria
-  21/11 20:00                                       Victoria
-  22/11 10:45                                       Victoria
-  22/11 15:15                                       Victoria
-  22/11 18:00                                       Victoria
-  23/11 11:15                                       Victoria
-  23/11 15:15                                       Victoria
-  23/11 18:00                                       Victoria
   24/11 11:30                                       Victoria
   24/11 15:15                                       Victoria
   24/11 17:45                                       Victoria
@@ -2724,12 +1629,6 @@ The House of Mirth (Re-release)
   25/11 11:00                                       Camden
   25/11 11:00                                       Victoria
 The Ice Tower                                      
-  21/11 14:20                                       Bloomsbury
-  21/11 20:50                                       Bloomsbury
-  22/11 13:40                                       Bloomsbury
-  22/11 21:20                                       Bloomsbury
-  23/11 13:50                                       Bloomsbury
-  23/11 20:10                                       Bloomsbury
   24/11 14:10                                       Bloomsbury
   24/11 21:15                                       Bloomsbury
   25/11 13:50                                       Bloomsbury
@@ -2739,14 +1638,6 @@ The Ice Tower
   27/11 14:00                                       Bloomsbury
   27/11 20:00                                       Bloomsbury
 The Mastermind                                     
-  21/11 13:10                                       Bloomsbury
-  21/11 15:40                                       Bloomsbury
-  21/11 18:10                                       Bloomsbury
-  22/11 12:40                                       Bloomsbury
-  22/11 16:20                                       Bloomsbury
-  23/11 15:00                                       Bloomsbury
-  23/11 18:20                                       Bloomsbury
-  23/11 21:00                                       Bloomsbury
   24/11 13:00                                       Bloomsbury
   24/11 15:30                                       Bloomsbury
   24/11 21:00                                       Bloomsbury
@@ -2757,12 +1648,6 @@ The Mastermind
   27/11 14:50                                       Bloomsbury
   27/11 21:20                                       Bloomsbury
 The Running Man                                    
-  21/11 12:40                                       Aldgate
-  21/11 17:40                                       Aldgate
-  22/11 12:40                                       Aldgate
-  22/11 17:40                                       Aldgate
-  23/11 10:40                                       Aldgate
-  23/11 17:30                                       Aldgate
   24/11 12:40                                       Aldgate
   24/11 17:50                                       Aldgate
   25/11 14:40                                       Aldgate
@@ -2771,14 +1656,9 @@ The Running Man
   26/11 17:40                                       Aldgate
   27/11 15:20                                       Aldgate
   27/11 17:00                                       Aldgate
-  23/11 20:45                                       Victoria
   24/11 20:30                                       Victoria
   25/11 20:30                                       Victoria
 The Stringer: The Man Who Took the Photo           
-  21/11 11:00                                       Camden
-  21/11 17:50                                       Camden
-  23/11 11:15                                       Camden
-  23/11 17:20                                       Camden
   24/11 11:45                                       Camden
   24/11 17:15                                       Camden
   25/11 11:45                                       Camden
@@ -2871,31 +1751,6 @@ Wake Up Dead Man: A Knives Out Mystery
   04/12 18:15                                       Victoria
   04/12 20:15                                       Victoria
 Wicked: For Good                                   
-  21/11 10:50                                       Aldgate
-  21/11 11:50                                       Aldgate
-  21/11 14:00                                       Aldgate
-  21/11 15:00                                       Aldgate
-  21/11 17:10                                       Aldgate
-  21/11 18:10                                       Aldgate
-  21/11 19:15                                       Aldgate
-  21/11 20:20                                       Aldgate
-  21/11 20:40                                       Aldgate
-  22/11 10:50                                       Aldgate
-  22/11 11:50                                       Aldgate
-  22/11 14:00                                       Aldgate
-  22/11 15:00                                       Aldgate
-  22/11 17:10                                       Aldgate
-  22/11 18:10                                       Aldgate
-  22/11 19:15                                       Aldgate
-  22/11 20:20                                       Aldgate
-  23/11 10:20                                       Aldgate
-  23/11 11:00                                       Aldgate
-  23/11 13:40                                       Aldgate
-  23/11 14:40                                       Aldgate
-  23/11 17:10                                       Aldgate
-  23/11 17:50                                       Aldgate
-  23/11 18:30                                       Aldgate
-  23/11 20:20                                       Aldgate
   24/11 10:50                                       Aldgate
   24/11 11:50                                       Aldgate
   24/11 14:00                                       Aldgate
@@ -2953,26 +1808,6 @@ Wicked: For Good
   04/12 14:40                                       Aldgate
   04/12 17:40                                       Aldgate
   04/12 20:40                                       Aldgate
-  21/11 11:30                                       Camden
-  21/11 13:30                                       Camden
-  21/11 14:30                                       Camden
-  21/11 16:30                                       Camden
-  21/11 17:30                                       Camden
-  21/11 18:10                                       Camden
-  21/11 19:30                                       Camden
-  21/11 20:30                                       Camden
-  22/11 11:30                                       Camden
-  22/11 13:30                                       Camden
-  22/11 16:30                                       Camden
-  22/11 19:30                                       Camden
-  23/11 11:00                                       Camden
-  23/11 12:30                                       Camden
-  23/11 14:00                                       Camden
-  23/11 15:30                                       Camden
-  23/11 17:00                                       Camden
-  23/11 17:40                                       Camden
-  23/11 18:30                                       Camden
-  23/11 20:00                                       Camden
   24/11 11:30                                       Camden
   24/11 14:30                                       Camden
   24/11 17:30                                       Camden
@@ -3019,19 +1854,6 @@ Wicked: For Good
   04/12 14:30                                       Camden
   04/12 17:30                                       Camden
   04/12 20:30                                       Camden
-  21/11 11:30                                       Hoxton
-  21/11 14:40                                       Hoxton
-  21/11 17:50                                       Hoxton
-  21/11 20:00                                       Hoxton
-  21/11 21:00                                       Hoxton
-  22/11 11:30                                       Hoxton
-  22/11 14:40                                       Hoxton
-  22/11 17:50                                       Hoxton
-  22/11 20:15                                       Hoxton
-  23/11 11:10                                       Hoxton
-  23/11 14:20                                       Hoxton
-  23/11 17:30                                       Hoxton
-  23/11 20:40                                       Hoxton
   24/11 12:20                                       Hoxton
   24/11 14:50                                       Hoxton
   24/11 17:50                                       Hoxton
@@ -3048,18 +1870,6 @@ Wicked: For Good
   27/11 15:10                                       Hoxton
   27/11 17:15                                       Hoxton
   27/11 20:20                                       Hoxton
-  21/11 11:15                                       Mayfair
-  21/11 14:20                                       Mayfair
-  21/11 17:30                                       Mayfair
-  21/11 20:40                                       Mayfair
-  22/11 11:15                                       Mayfair
-  22/11 14:20                                       Mayfair
-  22/11 17:00                                       Mayfair
-  22/11 20:15                                       Mayfair
-  23/11 11:00                                       Mayfair
-  23/11 14:10                                       Mayfair
-  23/11 17:20                                       Mayfair
-  23/11 20:30                                       Mayfair
   24/11 11:30                                       Mayfair
   24/11 14:30                                       Mayfair
   24/11 17:40                                       Mayfair
@@ -3076,21 +1886,6 @@ Wicked: For Good
   27/11 14:45                                       Mayfair
   27/11 17:40                                       Mayfair
   27/11 20:50                                       Mayfair
-  21/11 11:30                                       Soho
-  21/11 14:40                                       Soho
-  21/11 17:45                                       Soho
-  21/11 20:20                                       Soho
-  21/11 20:50                                       Soho
-  22/11 11:30                                       Soho
-  22/11 13:45                                       Soho
-  22/11 17:00                                       Soho
-  22/11 18:00                                       Soho
-  22/11 20:15                                       Soho
-  23/11 11:20                                       Soho
-  23/11 14:30                                       Soho
-  23/11 17:00                                       Soho
-  23/11 18:00                                       Soho
-  23/11 20:30                                       Soho
   24/11 11:40                                       Soho
   24/11 14:45                                       Soho
   24/11 17:30                                       Soho
@@ -3107,38 +1902,6 @@ Wicked: For Good
   27/11 14:40                                       Soho
   27/11 17:40                                       Soho
   27/11 20:40                                       Soho
-  21/11 11:30                                       Victoria
-  21/11 12:00                                       Victoria
-  21/11 14:30                                       Victoria
-  21/11 15:00                                       Victoria
-  21/11 17:15                                       Victoria
-  21/11 17:30                                       Victoria
-  21/11 17:45                                       Victoria
-  21/11 18:00                                       Victoria
-  21/11 20:15                                       Victoria
-  21/11 20:45                                       Victoria
-  21/11 21:00                                       Victoria
-  22/11 11:30                                       Victoria
-  22/11 13:30                                       Victoria
-  22/11 14:30                                       Victoria
-  22/11 14:45                                       Victoria
-  22/11 16:30                                       Victoria
-  22/11 17:30                                       Victoria
-  22/11 17:45                                       Victoria
-  22/11 19:30                                       Victoria
-  22/11 20:30                                       Victoria
-  22/11 20:45                                       Victoria
-  23/11 11:00                                       Victoria
-  23/11 12:15                                       Victoria
-  23/11 13:00                                       Victoria
-  23/11 14:00                                       Victoria
-  23/11 14:30                                       Victoria
-  23/11 16:00                                       Victoria
-  23/11 17:00                                       Victoria
-  23/11 17:30                                       Victoria
-  23/11 19:00                                       Victoria
-  23/11 20:00                                       Victoria
-  23/11 20:30                                       Victoria
   24/11 12:00                                       Victoria
   24/11 13:30                                       Victoria
   24/11 15:00                                       Victoria
@@ -3229,51 +1992,6 @@ Zootropolis 2
 BY CINEMA ALL TIME
 =================================
 Aldgate                                               
-  Wicked: For Good                                     21/11 10:50
-  Jay Kelly                                            21/11 11:30
-  Wicked: For Good                                     21/11 11:50
-  The Running Man                                      21/11 12:40
-  Wicked: For Good                                     21/11 14:00
-  Bugonia                                              21/11 14:40
-  Wicked: For Good                                     21/11 15:00
-  One Battle After Another                             21/11 15:40
-  Wicked: For Good                                     21/11 17:10
-  The Running Man                                      21/11 17:40
-  Wicked: For Good                                     21/11 18:10
-  Wicked: For Good                                     21/11 19:15
-  Wicked: For Good                                     21/11 20:20
-  Wicked: For Good                                     21/11 20:40
-  Jay Kelly                                            21/11 21:10
-  Wicked: For Good                                     22/11 10:50
-  Jay Kelly                                            22/11 11:30
-  Wicked: For Good                                     22/11 11:50
-  The Running Man                                      22/11 12:40
-  Wicked: For Good                                     22/11 14:00
-  Bugonia                                              22/11 14:40
-  Wicked: For Good                                     22/11 15:00
-  One Battle After Another                             22/11 15:40
-  Wicked: For Good                                     22/11 17:10
-  The Running Man                                      22/11 17:40
-  Wicked: For Good                                     22/11 18:10
-  Wicked: For Good                                     22/11 19:15
-  Wicked: For Good                                     22/11 20:20
-  Jay Kelly                                            22/11 20:50
-  Bugonia                                              22/11 21:15
-  Wicked: For Good                                     23/11 10:20
-  The Running Man                                      23/11 10:40
-  Wicked: For Good                                     23/11 11:00
-  Jay Kelly                                            23/11 11:30
-  Wicked: For Good                                     23/11 13:40
-  Die My Love                                          23/11 14:00
-  Bugonia                                              23/11 14:20
-  Wicked: For Good                                     23/11 14:40
-  Wicked: For Good                                     23/11 17:10
-  The Running Man                                      23/11 17:30
-  Wicked: For Good                                     23/11 17:50
-  Wicked: For Good                                     23/11 18:30
-  Wicked: For Good                                     23/11 20:20
-  Jay Kelly                                            23/11 20:40
-  Bugonia                                              23/11 21:00
   Wicked: For Good                                     24/11 10:50
   Jay Kelly                                            24/11 11:30
   Wicked: For Good                                     24/11 11:50
@@ -3408,81 +2126,6 @@ Aldgate
   Film Club: Sunset Boulevard                          31/12 15:00
   National Theatre Live: Hamlet                        22/01 19:00
 Bloomsbury                                            
-  Jay Kelly                                            21/11 12:00
-  Game                                                 21/11 12:20
-  Die My Love                                          21/11 12:30
-  Left-Handed Girl                                     21/11 12:50
-  The Mastermind                                       21/11 13:10
-  The Ice Tower                                        21/11 14:20
-  Bugonia                                              21/11 14:50
-  Die My Love                                          21/11 15:10
-  Palestine 36                                         21/11 15:20
-  The Mastermind                                       21/11 15:40
-  Dragonfly                                            21/11 17:00
-  Jay Kelly                                            21/11 17:30
-  Palestine 36                                         21/11 17:50
-  LDNDOCS 2025: COME SEE ME IN THE GOOD LIGHT          21/11 18:00
-  The Mastermind                                       21/11 18:10
-  DocHouse: Testimony                                  21/11 18:20
-  Game                                                 21/11 19:15
-  Bugonia                                              21/11 20:20
-  DocHouse: The Propagandist                           21/11 20:30
-  Die My Love                                          21/11 20:40
-  The Ice Tower                                        21/11 20:50
-  Palestine 36                                         21/11 21:00
-  Left-Handed Girl                                     21/11 21:15
-  Game                                                 22/11 11:00
-  Left-Handed Girl                                     22/11 11:10
-  LDNDOCS 2025: THE BEND IN THE RIVER                  22/11 11:45
-  Jay Kelly                                            22/11 12:00
-  The Mastermind                                       22/11 12:40
-  Palestine 36                                         22/11 13:10
-  The Ice Tower                                        22/11 13:40
-  LDNDOCS 2025: STILLER & MEARA: NOTHING IS LOST       22/11 14:00
-  DocHouse: Central Park                               22/11 14:30
-  Bugonia                                              22/11 14:50
-  Die My Love                                          22/11 15:10
-  Palestine 36                                         22/11 15:50
-  The Mastermind                                       22/11 16:20
-  LDNDOCS 2025: PALESTINE THROUGH ARCHIVE - SHORTS     22/11 16:30
-  Die My Love                                          22/11 17:30
-  Met Opera 2025-26: Arabella                          22/11 18:00
-  DocHouse: Seeds                                      22/11 18:10
-  LDNDOCS 2025: THE LAST DIVE                          22/11 18:20
-  Palestine 36                                         22/11 18:30
-  Game                                                 22/11 18:50
-  Jay Kelly                                            22/11 20:10
-  LDNDOCS 2025: KING HAMLET                            22/11 20:30
-  Left-Handed Girl                                     22/11 21:00
-  DocHouse: Predators                                  22/11 21:10
-  The Ice Tower                                        22/11 21:20
-  Left-Handed Girl                                     23/11 11:00
-  Palestine 36                                         23/11 11:10
-  Die My Love                                          23/11 11:30
-  LDNDOCS 2025: VACANCES                               23/11 11:45
-  Jay Kelly                                            23/11 12:10
-  DocHouse: Predators                                  23/11 13:30
-  Game                                                 23/11 13:40
-  The Ice Tower                                        23/11 13:50
-  LDNDOCS 2025: YANUNI                                 23/11 14:00
-  Die My Love                                          23/11 14:20
-  The Mastermind                                       23/11 15:00
-  DocHouse: Testimony                                  23/11 15:30
-  Palestine 36                                         23/11 15:40
-  LDNDOCS 2025: CINEMA KAWAKEB                         23/11 16:30
-  Dragonfly                                            23/11 16:40
-  Jay Kelly                                            23/11 17:00
-  Palestine 36                                         23/11 17:30
-  DocHouse: The Propagandist                           23/11 17:40
-  The Mastermind                                       23/11 18:20
-  LDNDOCS 2025: THE TALE OF SILYAN                     23/11 18:30
-  Game                                                 23/11 19:00
-  DocHouse: Tony Foster: Painting at the Edge          23/11 19:50
-  Die My Love                                          23/11 20:00
-  The Ice Tower                                        23/11 20:10
-  Bugonia                                              23/11 20:50
-  The Mastermind                                       23/11 21:00
-  Left-Handed Girl                                     23/11 21:10
   Game                                                 24/11 11:00
   Left-Handed Girl                                     24/11 11:40
   Palestine 36                                         24/11 12:10
@@ -3672,50 +2315,6 @@ Bloomsbury
   Met Opera 2025-26: Eugene Onegin                     05/05 17:00
   Met Opera 2026: El Último Sueño de Frida y Diego     30/05 17:00
 Camden                                                
-  The Stringer: The Man Who Took the Photo             21/11 11:00
-  Palestine 36                                         21/11 11:15
-  Wicked: For Good                                     21/11 11:30
-  Jay Kelly                                            21/11 12:00
-  Bugonia                                              21/11 12:20
-  Wicked: For Good                                     21/11 13:30
-  Palestine 36                                         21/11 14:10
-  Wicked: For Good                                     21/11 14:30
-  Die My Love                                          21/11 15:00
-  Alpha                                                21/11 15:20
-  Wicked: For Good                                     21/11 16:30
-  Bugonia                                              21/11 17:10
-  Wicked: For Good                                     21/11 17:30
-  The Stringer: The Man Who Took the Photo             21/11 17:50
-  Wicked: For Good                                     21/11 18:10
-  Wicked: For Good                                     21/11 19:30
-  Frankenstein                                         21/11 19:50
-  Jay Kelly                                            21/11 20:10
-  Wicked: For Good                                     21/11 20:30
-  Die My Love                                          21/11 21:10
-  Kids Club: Lilo & Stitch                             22/11 10:30
-  Wicked: For Good                                     22/11 11:30
-  Wicked: For Good                                     22/11 13:30
-  Wicked: For Good                                     22/11 16:30
-  Wicked: For Good                                     22/11 19:30
-  Wicked: For Good                                     23/11 11:00
-  The Stringer: The Man Who Took the Photo             23/11 11:15
-  Jay Kelly                                            23/11 11:30
-  Bugonia                                              23/11 12:10
-  Wicked: For Good                                     23/11 12:30
-  Palestine 36                                         23/11 13:40
-  Wicked: For Good                                     23/11 14:00
-  Die My Love                                          23/11 14:30
-  Alpha                                                23/11 14:50
-  Wicked: For Good                                     23/11 15:30
-  Bugonia                                              23/11 16:40
-  Wicked: For Good                                     23/11 17:00
-  The Stringer: The Man Who Took the Photo             23/11 17:20
-  Wicked: For Good                                     23/11 17:40
-  Wicked: For Good                                     23/11 18:30
-  Frankenstein                                         23/11 19:20
-  Jay Kelly                                            23/11 19:40
-  Wicked: For Good                                     23/11 20:00
-  Die My Love                                          23/11 20:40
   Wicked: For Good                                     24/11 11:30
   The Stringer: The Man Who Took the Photo             24/11 11:45
   Jay Kelly                                            24/11 12:00
@@ -3870,43 +2469,6 @@ Camden
   Film Club: Sunset Boulevard                          31/12 15:00
   National Theatre Live: Hamlet                        22/01 19:00
 Hoxton                                                
-  Wicked: For Good                                     21/11 11:30
-  Left-Handed Girl                                     21/11 11:50
-  Palestine 36                                         21/11 13:00
-  Die My Love                                          21/11 14:20
-  Wicked: For Good                                     21/11 14:40
-  Bugonia                                              21/11 15:45
-  Die My Love                                          21/11 17:10
-  Wicked: For Good                                     21/11 17:50
-  Bugonia                                              21/11 18:30
-  Wicked: For Good                                     21/11 20:00
-  Wicked: For Good                                     21/11 21:00
-  Left-Handed Girl                                     21/11 21:20
-  Kids Club: Lilo & Stitch                             22/11 10:30
-  Left-Handed Girl                                     22/11 11:10
-  Wicked: For Good                                     22/11 11:30
-  Bugonia                                              22/11 13:00
-  Die My Love                                          22/11 14:00
-  Wicked: For Good                                     22/11 14:40
-  Palestine 36                                         22/11 15:45
-  Die My Love                                          22/11 17:15
-  Wicked: For Good                                     22/11 17:50
-  Bugonia                                              22/11 18:30
-  Wicked: For Good                                     22/11 20:15
-  Bugonia                                              22/11 20:50
-  Left-Handed Girl                                     22/11 21:15
-  Wicked: For Good                                     23/11 11:10
-  Die My Love                                          23/11 11:20
-  Left-Handed Girl                                     23/11 12:40
-  Palestine 36                                         23/11 14:00
-  Wicked: For Good                                     23/11 14:20
-  Bugonia                                              23/11 15:20
-  Die My Love                                          23/11 17:00
-  Wicked: For Good                                     23/11 17:30
-  Bugonia                                              23/11 18:15
-  Bugonia                                              23/11 20:00
-  Wicked: For Good                                     23/11 20:40
-  Left-Handed Girl                                     23/11 21:00
   Left-Handed Girl                                     24/11 11:45
   Die My Love                                          24/11 12:00
   Wicked: For Good                                     24/11 12:20
@@ -3989,27 +2551,6 @@ Hoxton
   Kids Club: The Polar Express                         27/12 10:30
   Film Club: Wild at Heart                             28/12 14:00
 Mayfair                                               
-  Palestine 36                                         21/11 11:00
-  Wicked: For Good                                     21/11 11:15
-  Nuremberg                                            21/11 14:00
-  Wicked: For Good                                     21/11 14:20
-  Wicked: For Good                                     21/11 17:30
-  Wicked: For Good                                     21/11 20:40
-  The Choral                                           22/11 11:00
-  Wicked: For Good                                     22/11 11:15
-  Nuremberg                                            22/11 13:40
-  Wicked: For Good                                     22/11 14:20
-  Wicked: For Good                                     22/11 17:00
-  Met Opera 2025-26: Arabella                          22/11 18:00
-  Wicked: For Good                                     22/11 20:15
-  Wicked: For Good                                     23/11 11:00
-  Nuremberg                                            23/11 11:30
-  Wicked: For Good                                     23/11 14:10
-  Palestine 36                                         23/11 14:45
-  Wicked: For Good                                     23/11 17:20
-  Nuremberg                                            23/11 17:40
-  Wicked: For Good                                     23/11 20:30
-  The Choral                                           23/11 21:00
   The Choral                                           24/11 11:15
   Wicked: For Good                                     24/11 11:30
   Nuremberg                                            24/11 14:00
@@ -4062,40 +2603,6 @@ Mayfair
   Avatar: Fire and Ash                                 23/12 15:00
   Avatar: Fire and Ash                                 23/12 19:15
 Soho                                                  
-  Jay Kelly                                            21/11 11:00
-  Wicked: For Good                                     21/11 11:30
-  Frankenstein                                         21/11 11:50
-  Alpha                                                21/11 14:00
-  Wicked: For Good                                     21/11 14:40
-  Die My Love                                          21/11 15:15
-  Wicked: For Good                                     21/11 17:45
-  Frankenstein                                         21/11 18:00
-  Wicked: For Good                                     21/11 20:20
-  Wicked: For Good                                     21/11 20:50
-  Bugonia                                              21/11 21:10
-  Jay Kelly                                            22/11 11:00
-  Wicked: For Good                                     22/11 11:30
-  Wicked: For Good                                     22/11 13:45
-  Die My Love                                          22/11 14:20
-  Frankenstein                                         22/11 14:40
-  Wicked: For Good                                     22/11 17:00
-  Bugonia                                              22/11 17:30
-  Wicked: For Good                                     22/11 18:00
-  Wicked: For Good                                     22/11 20:15
-  Frankenstein                                         22/11 20:40
-  Jay Kelly                                            22/11 21:00
-  Die My Love                                          23/11 11:00
-  Wicked: For Good                                     23/11 11:20
-  Jay Kelly                                            23/11 12:00
-  Bugonia                                              23/11 14:00
-  Wicked: For Good                                     23/11 14:30
-  Alpha                                                23/11 15:00
-  Wicked: For Good                                     23/11 17:00
-  LPFF 2025: The Mission                               23/11 17:40
-  Wicked: For Good                                     23/11 18:00
-  Frankenstein                                         23/11 20:10
-  Wicked: For Good                                     23/11 20:30
-  Jay Kelly                                            23/11 21:00
   Bugonia                                              24/11 11:20
   Wicked: For Good                                     24/11 11:40
   Jay Kelly                                            24/11 12:00
@@ -4164,63 +2671,6 @@ Soho
   Sentimental Value                                    22/12 18:00
   Film Club: Lost Highway                              27/12 15:00
 Victoria                                              
-  Palestine 36                                         21/11 11:00
-  Jay Kelly                                            21/11 11:15
-  Wicked: For Good                                     21/11 11:30
-  The Choral                                           21/11 11:45
-  Wicked: For Good                                     21/11 12:00
-  One Battle After Another                             21/11 14:00
-  Bugonia                                              21/11 14:15
-  The Choral                                           21/11 14:30
-  Wicked: For Good                                     21/11 14:30
-  Wicked: For Good                                     21/11 15:00
-  Jay Kelly                                            21/11 17:00
-  Wicked: For Good                                     21/11 17:15
-  Wicked: For Good                                     21/11 17:30
-  Wicked: For Good                                     21/11 17:45
-  Wicked: For Good                                     21/11 18:00
-  The Choral                                           21/11 20:00
-  Wicked: For Good                                     21/11 20:15
-  Wicked: For Good                                     21/11 20:45
-  Wicked: For Good                                     21/11 21:00
-  The Choral                                           22/11 10:45
-  Jay Kelly                                            22/11 11:15
-  Wicked: For Good                                     22/11 11:30
-  Palestine 36                                         22/11 12:30
-  Wicked: For Good                                     22/11 13:30
-  Bugonia                                              22/11 14:15
-  Wicked: For Good                                     22/11 14:30
-  Wicked: For Good                                     22/11 14:45
-  The Choral                                           22/11 15:15
-  Wicked: For Good                                     22/11 16:30
-  Jay Kelly                                            22/11 17:00
-  Wicked: For Good                                     22/11 17:30
-  Wicked: For Good                                     22/11 17:45
-  The Choral                                           22/11 18:00
-  Wicked: For Good                                     22/11 19:30
-  One Battle After Another                             22/11 20:00
-  Wicked: For Good                                     22/11 20:30
-  Wicked: For Good                                     22/11 20:45
-  Bugonia                                              22/11 21:00
-  Wicked: For Good                                     23/11 11:00
-  The Choral                                           23/11 11:15
-  Jay Kelly                                            23/11 11:30
-  Wicked: For Good                                     23/11 12:15
-  Wicked: For Good                                     23/11 13:00
-  Bugonia                                              23/11 13:45
-  Wicked: For Good                                     23/11 14:00
-  Wicked: For Good                                     23/11 14:30
-  The Choral                                           23/11 15:15
-  Wicked: For Good                                     23/11 16:00
-  Jay Kelly                                            23/11 16:30
-  Wicked: For Good                                     23/11 17:00
-  Wicked: For Good                                     23/11 17:30
-  The Choral                                           23/11 18:00
-  Wicked: For Good                                     23/11 19:00
-  One Battle After Another                             23/11 19:30
-  Wicked: For Good                                     23/11 20:00
-  Wicked: For Good                                     23/11 20:30
-  The Running Man                                      23/11 20:45
   Jay Kelly                                            24/11 11:15
   The Choral                                           24/11 11:30
   Wicked: For Good                                     24/11 12:00
