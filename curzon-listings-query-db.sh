@@ -65,7 +65,7 @@ then
       LEFT JOIN location_names n ON n.code = l.code
       WHERE
       datetime(fs.starts_at) >= datetime('now', 'localtime') -- Only future showings
-      AND date(fs.starts_at) < date('now', 'localtime', 'weekday 1') -- before monday
+      AND date(fs.starts_at) < date('now', 'localtime', 'weekday 0') -- before monday
       GROUP BY f.title
       ORDER BY f.title, fs.starts_at;" | column -t -s '|'
 
@@ -79,9 +79,9 @@ then
       LEFT JOIN location_names n ON n.code = l.code
       WHERE
           datetime(fs.starts_at) >= datetime('now', 'localtime') -- Only future showings
-      AND date(fs.starts_at) < date('now', 'localtime', 'weekday 1') -- before monday
+      AND date(fs.starts_at) < date('now', 'localtime', 'weekday 0') -- before monday
       GROUP BY COALESCE(n.name, l.code)
-      ORDER BY COALESCE(n.name, l.code), min(fs.starts_at);" | column -t -s '|'
+      ORDER BY COALESCE(n.name, l.code), fs.starts_at;" | column -t -s '|'
 
 # If it's not Saturday, ask for the weekend
 elif [ "$(date +%u)" -lt 6 ]
@@ -95,9 +95,9 @@ then
       JOIN location l ON l.code = fs.location_code
       LEFT JOIN location_names n ON n.code = l.code
       WHERE
-          datetime(fs.starts_at) >= datetime('now', 'localtime')       -- Only future showings
+         datetime(fs.starts_at) >= datetime('now', 'localtime')       -- Only future showings
       AND datetime(fs.starts_at) > date('now','localtime','weekday 5') -- after next friday
-      AND datetime(fs.starts_at) < date('now','localtime','weekday 1') -- before next monday
+      AND datetime(fs.starts_at) < date('now','localtime','weekday 0') -- before next monday
       GROUP BY f.title
       ORDER BY f.title, fs.starts_at;" | column -t -s '|'
 
@@ -112,7 +112,7 @@ then
       WHERE
           datetime(fs.starts_at) >= datetime('now', 'localtime')       -- Only future showings
       AND datetime(fs.starts_at) > date('now','localtime','weekday 5') -- after next friday
-      AND datetime(fs.starts_at) < date('now','localtime','weekday 1') -- before next monday
+      AND datetime(fs.starts_at) < date('now','localtime','weekday 0') -- before next monday
       GROUP BY COALESCE(n.name, l.code)
       ORDER BY COALESCE(n.name, l.code), min(fs.starts_at);" | column -t -s '|'
 fi

@@ -8,8 +8,6 @@ Victoria:
 =================================
 BY FILM TODAY
 =================================
-Alpha             
-  20:40            Soho
 Bugonia           
   21:15            Aldgate
   21:10            Hoxton
@@ -22,8 +20,6 @@ Jay Kelly
   20:50            Aldgate
   20:50            Bloomsbury
   20:50            Camden
-Left-Handed Girl  
-  20:40            Bloomsbury
 The Ice Tower     
   21:15            Bloomsbury
 The Mastermind    
@@ -39,7 +35,6 @@ Aldgate
   Jay Kelly           20:50
   Bugonia             21:15
 Bloomsbury           
-  Left-Handed Girl    20:40
   Jay Kelly           20:50
   The Mastermind      21:00
   The Ice Tower       21:15
@@ -52,7 +47,6 @@ Hoxton
 Mayfair              
   Wicked: For Good    20:50
 Soho                 
-  Alpha               20:40
   Wicked: For Good    21:00
   Bugonia             21:15
 Victoria             
@@ -64,12 +58,158 @@ Victoria
 =================================
 BY FILM THIS WEEKEND
 =================================
+DocHouse: Fiume O Morte!                         
+  28/11 18:10                                     Bloomsbury
+DocHouse: LMFF: MORIA SIX                        
+  29/11 15:30                                     Bloomsbury
+DocHouse: LMFF: Shorts Competition               
+  29/11 18:10                                     Bloomsbury
+DocHouse: The Voice of Hind Rajab                
+  29/11 20:00                                     Bloomsbury
+Film Club: The Elephant Man                      
+  29/11 14:15                                     Mayfair
+Kids Club: Pets on a Train                       
+  29/11 10:30                                     Camden
+  29/11 10:30                                     Hoxton
+National Theatre Live: The Fifth Step            
+  29/11 16:00                                     Bloomsbury
+RFF 2025: Forest of the Hanged (4K Restoration)  
+  29/11 17:40                                     Soho
+RFF 2025: Housekeeping for Beginners             
+  28/11 18:00                                     Soho
+The Voice of Hind Rajab                          
+  29/11 17:50                                     Camden
+  29/11 18:40                                     Hoxton
+  29/11 15:40                                     Soho
+Wake Up Dead Man: A Knives Out Mystery           
+  28/11 21:00                                     Aldgate
+  29/11 21:00                                     Aldgate
+  28/11 18:00                                     Bloomsbury
+  28/11 20:40                                     Bloomsbury
+  29/11 18:00                                     Bloomsbury
+  29/11 20:20                                     Bloomsbury
+  28/11 18:10                                     Camden
+  28/11 20:10                                     Camden
+  29/11 18:10                                     Camden
+  29/11 20:10                                     Camden
+  28/11 18:00                                     Hoxton
+  29/11 18:00                                     Hoxton
+  28/11 14:40                                     Soho
+  28/11 20:30                                     Soho
+  28/11 18:15                                     Victoria
+  28/11 20:15                                     Victoria
+  29/11 17:30                                     Victoria
+  29/11 20:45                                     Victoria
+Wicked: For Good                                 
+  28/11 11:40                                     Aldgate
+  28/11 14:40                                     Aldgate
+  28/11 17:40                                     Aldgate
+  28/11 20:40                                     Aldgate
+  29/11 11:10                                     Aldgate
+  29/11 14:10                                     Aldgate
+  29/11 17:40                                     Aldgate
+  29/11 20:40                                     Aldgate
+  28/11 11:30                                     Camden
+  28/11 14:30                                     Camden
+  28/11 17:30                                     Camden
+  28/11 20:30                                     Camden
+  29/11 11:30                                     Camden
+  29/11 14:30                                     Camden
+  29/11 17:30                                     Camden
+  29/11 20:30                                     Camden
+  28/11 12:00                                     Victoria
+  28/11 15:00                                     Victoria
+  28/11 18:00                                     Victoria
+  28/11 21:00                                     Victoria
+  29/11 11:00                                     Victoria
+  29/11 14:00                                     Victoria
+  29/11 17:00                                     Victoria
+  29/11 20:00                                     Victoria
+Zootropolis 2                                    
+  28/11 12:00                                     Victoria
+  28/11 15:45                                     Victoria
+  28/11 17:45                                     Victoria
+  28/11 21:15                                     Victoria
+  29/11 12:15                                     Victoria
+  29/11 15:00                                     Victoria
+  29/11 17:15                                     Victoria
+  29/11 21:15                                     Victoria
 
 
 
 =================================
 BY CINEMA THIS WEEKEND
 =================================
+Aldgate                                             
+  Wicked: For Good                                   28/11 11:40
+  Wicked: For Good                                   28/11 14:40
+  Wicked: For Good                                   28/11 17:40
+  Wicked: For Good                                   28/11 20:40
+  Wake Up Dead Man: A Knives Out Mystery             28/11 21:00
+  Wicked: For Good                                   29/11 11:10
+  Wicked: For Good                                   29/11 14:10
+  Wicked: For Good                                   29/11 17:40
+  Wicked: For Good                                   29/11 20:40
+  Wake Up Dead Man: A Knives Out Mystery             29/11 21:00
+Bloomsbury                                          
+  Wake Up Dead Man: A Knives Out Mystery             28/11 18:00
+  DocHouse: Fiume O Morte!                           28/11 18:10
+  Wake Up Dead Man: A Knives Out Mystery             28/11 20:40
+  DocHouse: LMFF: MORIA SIX                          29/11 15:30
+  National Theatre Live: The Fifth Step              29/11 16:00
+  Wake Up Dead Man: A Knives Out Mystery             29/11 18:00
+  DocHouse: LMFF: Shorts Competition                 29/11 18:10
+  DocHouse: The Voice of Hind Rajab                  29/11 20:00
+  Wake Up Dead Man: A Knives Out Mystery             29/11 20:20
+Camden                                              
+  Wicked: For Good                                   28/11 11:30
+  Wicked: For Good                                   28/11 14:30
+  Wicked: For Good                                   28/11 17:30
+  Wake Up Dead Man: A Knives Out Mystery             28/11 18:10
+  Wake Up Dead Man: A Knives Out Mystery             28/11 20:10
+  Wicked: For Good                                   28/11 20:30
+  Kids Club: Pets on a Train                         29/11 10:30
+  Wicked: For Good                                   29/11 11:30
+  Wicked: For Good                                   29/11 14:30
+  Wicked: For Good                                   29/11 17:30
+  The Voice of Hind Rajab                            29/11 17:50
+  Wake Up Dead Man: A Knives Out Mystery             29/11 18:10
+  Wake Up Dead Man: A Knives Out Mystery             29/11 20:10
+  Wicked: For Good                                   29/11 20:30
+Hoxton                                              
+  Wake Up Dead Man: A Knives Out Mystery             28/11 18:00
+  Kids Club: Pets on a Train                         29/11 10:30
+  Wake Up Dead Man: A Knives Out Mystery             29/11 18:00
+  The Voice of Hind Rajab                            29/11 18:40
+Mayfair                                             
+  Film Club: The Elephant Man                        29/11 14:15
+Soho                                                
+  Wake Up Dead Man: A Knives Out Mystery             28/11 14:40
+  RFF 2025: Housekeeping for Beginners               28/11 18:00
+  Wake Up Dead Man: A Knives Out Mystery             28/11 20:30
+  The Voice of Hind Rajab                            29/11 15:40
+  RFF 2025: Forest of the Hanged (4K Restoration)    29/11 17:40
+Victoria                                            
+  Wicked: For Good                                   28/11 12:00
+  Zootropolis 2                                      28/11 12:00
+  Wicked: For Good                                   28/11 15:00
+  Zootropolis 2                                      28/11 15:45
+  Zootropolis 2                                      28/11 17:45
+  Wicked: For Good                                   28/11 18:00
+  Wake Up Dead Man: A Knives Out Mystery             28/11 18:15
+  Wake Up Dead Man: A Knives Out Mystery             28/11 20:15
+  Wicked: For Good                                   28/11 21:00
+  Zootropolis 2                                      28/11 21:15
+  Wicked: For Good                                   29/11 11:00
+  Zootropolis 2                                      29/11 12:15
+  Wicked: For Good                                   29/11 14:00
+  Zootropolis 2                                      29/11 15:00
+  Wicked: For Good                                   29/11 17:00
+  Zootropolis 2                                      29/11 17:15
+  Wake Up Dead Man: A Knives Out Mystery             29/11 17:30
+  Wicked: For Good                                   29/11 20:00
+  Wake Up Dead Man: A Knives Out Mystery             29/11 20:45
+  Zootropolis 2                                      29/11 21:15
 
 
 
