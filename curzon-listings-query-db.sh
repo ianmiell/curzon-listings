@@ -39,6 +39,18 @@ SELECT
    GROUP BY f.title
    ORDER BY f.title, fs.starts_at;" | column -t -s '|'
 
+echo -e "=================================\nBY CINEMA TODAY\n================================="
+${SQLITE_BIN} "${DBFILE}" -cmd ".headers off" -cmd ".mode list" "$LOCATION_CTE
+SELECT
+  COALESCE(n.name, l.code) || char(10) || group_concat('  ' || f.title || ' | ' || strftime('%H:%M', fs.starts_at), char(10)) AS out
+  FROM film_showtime fs
+  JOIN film     f ON f.title = fs.film_title
+  JOIN location l ON l.code  = fs.location_code
+  LEFT JOIN location_names n ON n.code = l.code
+  WHERE date(fs.starts_at) = date('now', 'localtime')
+  AND datetime(fs.starts_at) >= datetime('now', 'localtime')
+  GROUP BY COALESCE(n.name, l.code)
+  ORDER BY COALESCE(n.name, l.code), min(fs.starts_at);" | column -t -s '|'
 
 # If it is Saturday, then just do tomorrow for the weekend
 if [ "$(date +%u)" -eq 6 ]
@@ -89,16 +101,7 @@ then
       GROUP BY f.title
       ORDER BY f.title, fs.starts_at;" | column -t -s '|'
 
-<<<<<<< HEAD
-   echo
-   echo
-   echo
-   echo "================================="
-   echo "BY CINEMA THIS WEEKEND"
-   echo "================================="
-=======
    echo -e "\n\n\n=================================\nBY CINEMA THIS WEEKEND\n================================="
->>>>>>> bf0df5d (latest)
    ${SQLITE_BIN} "${DBFILE}" -cmd ".headers off" -cmd ".mode list" "$LOCATION_CTE
    SELECT
       COALESCE(n.name, l.code) || char(10) || group_concat('  ' || f.title || ' | ' || strftime('%d/%m %H:%M', fs.starts_at), char(10)) AS out
