@@ -3,213 +3,146 @@ VENUE GUIDE
 =================================
 Soho:
 	screen 2 back is good
+	screen 3 front good, back bad
 Victoria:
 	screen 2 back a bit cramped, front looked ok
+Hoxton:
+	screen 1 back good
 =================================
 BY FILM TODAY
 =================================
-Bugonia           
-  21:15            Aldgate
-  21:10            Hoxton
-  21:15            Soho
-  21:15            Victoria
-Die My Love       
-  21:10            Camden
-  20:50            Hoxton
-Jay Kelly         
-  20:50            Aldgate
-  20:50            Bloomsbury
-  20:50            Camden
-The Ice Tower     
-  21:15            Bloomsbury
-The Mastermind    
-  21:00            Bloomsbury
-Wicked: For Good  
-  20:50            Mayfair
-  21:00            Soho
-  21:00            Victoria
+Film Club: Mulholland Drive  
+  18:00                       Mayfair
 =================================
 BY CINEMA TODAY
 =================================
-Aldgate              
-  Jay Kelly           20:50
-  Bugonia             21:15
-Bloomsbury           
-  Jay Kelly           20:50
-  The Mastermind      21:00
-  The Ice Tower       21:15
-Camden               
-  Jay Kelly           20:50
-  Die My Love         21:10
-Hoxton               
-  Die My Love         20:50
-  Bugonia             21:10
-Mayfair              
-  Wicked: For Good    20:50
-Soho                 
-  Wicked: For Good    21:00
-  Bugonia             21:15
-Victoria             
-  Wicked: For Good    21:00
-  Bugonia             21:15
+Mayfair                         
+  Film Club: Mulholland Drive    18:00
 
 
 
 =================================
 BY FILM THIS WEEKEND
 =================================
-DocHouse: Fiume O Morte!                         
-  28/11 18:10                                     Bloomsbury
-DocHouse: LMFF: MORIA SIX                        
-  29/11 15:30                                     Bloomsbury
-DocHouse: LMFF: Shorts Competition               
-  29/11 18:10                                     Bloomsbury
-DocHouse: The Voice of Hind Rajab                
-  29/11 20:00                                     Bloomsbury
-Film Club: The Elephant Man                      
-  29/11 14:15                                     Mayfair
-Kids Club: Pets on a Train                       
-  29/11 10:30                                     Camden
-  29/11 10:30                                     Hoxton
-National Theatre Live: The Fifth Step            
-  29/11 16:00                                     Bloomsbury
-RFF 2025: Forest of the Hanged (4K Restoration)  
-  29/11 17:40                                     Soho
-RFF 2025: Housekeeping for Beginners             
-  28/11 18:00                                     Soho
-The Voice of Hind Rajab                          
-  29/11 17:50                                     Camden
-  29/11 18:40                                     Hoxton
-  29/11 15:40                                     Soho
-Wake Up Dead Man: A Knives Out Mystery           
-  28/11 21:00                                     Aldgate
-  29/11 21:00                                     Aldgate
-  28/11 18:00                                     Bloomsbury
-  28/11 20:40                                     Bloomsbury
-  29/11 18:00                                     Bloomsbury
-  29/11 20:20                                     Bloomsbury
-  28/11 18:10                                     Camden
-  28/11 20:10                                     Camden
-  29/11 18:10                                     Camden
-  29/11 20:10                                     Camden
-  28/11 18:00                                     Hoxton
-  29/11 18:00                                     Hoxton
-  28/11 14:40                                     Soho
-  28/11 20:30                                     Soho
-  28/11 18:15                                     Victoria
-  28/11 20:15                                     Victoria
-  29/11 17:30                                     Victoria
-  29/11 20:45                                     Victoria
-Wicked: For Good                                 
-  28/11 11:40                                     Aldgate
-  28/11 14:40                                     Aldgate
-  28/11 17:40                                     Aldgate
-  28/11 20:40                                     Aldgate
-  29/11 11:10                                     Aldgate
-  29/11 14:10                                     Aldgate
-  29/11 17:40                                     Aldgate
-  29/11 20:40                                     Aldgate
-  28/11 11:30                                     Camden
-  28/11 14:30                                     Camden
-  28/11 17:30                                     Camden
-  28/11 20:30                                     Camden
-  29/11 11:30                                     Camden
-  29/11 14:30                                     Camden
-  29/11 17:30                                     Camden
-  29/11 20:30                                     Camden
-  28/11 12:00                                     Victoria
-  28/11 15:00                                     Victoria
-  28/11 18:00                                     Victoria
-  28/11 21:00                                     Victoria
-  29/11 11:00                                     Victoria
-  29/11 14:00                                     Victoria
-  29/11 17:00                                     Victoria
-  29/11 20:00                                     Victoria
-Zootropolis 2                                    
-  28/11 12:00                                     Victoria
-  28/11 15:45                                     Victoria
-  28/11 17:45                                     Victoria
-  28/11 21:15                                     Victoria
-  29/11 12:15                                     Victoria
-  29/11 15:00                                     Victoria
-  29/11 17:15                                     Victoria
-  29/11 21:15                                     Victoria
+Avatar: Fire and Ash                
+  19/12 11:00                        Aldgate
+  19/12 15:15                        Aldgate
+  19/12 19:30                        Aldgate
+  20/12 11:00                        Aldgate
+  20/12 15:15                        Aldgate
+  20/12 19:30                        Aldgate
+  19/12 11:00                        Bloomsbury
+  19/12 15:00                        Bloomsbury
+  19/12 19:10                        Bloomsbury
+  20/12 15:40                        Bloomsbury
+  20/12 19:45                        Bloomsbury
+  19/12 11:30                        Camden
+  19/12 15:30                        Camden
+  19/12 18:30                        Camden
+  19/12 19:30                        Camden
+  20/12 11:30                        Camden
+  20/12 15:30                        Camden
+  20/12 18:30                        Camden
+  20/12 19:30                        Camden
+  19/12 12:00                        Hoxton
+  19/12 16:00                        Hoxton
+  19/12 20:00                        Hoxton
+  20/12 11:20                        Hoxton
+  20/12 15:40                        Hoxton
+  20/12 20:00                        Hoxton
+  19/12 15:00                        Mayfair
+  19/12 19:15                        Mayfair
+  20/12 15:00                        Mayfair
+  20/12 19:15                        Mayfair
+  19/12 14:15                        Victoria
+  19/12 18:30                        Victoria
+  20/12 14:15                        Victoria
+  20/12 18:30                        Victoria
+Avatar: Fire and Ash 3D             
+  19/12 11:45                        Aldgate
+  19/12 16:00                        Aldgate
+  19/12 20:15                        Aldgate
+  20/12 11:45                        Aldgate
+  20/12 16:00                        Aldgate
+  20/12 20:15                        Aldgate
+  19/12 11:00                        Victoria
+  19/12 15:00                        Victoria
+  19/12 19:15                        Victoria
+  20/12 11:00                        Victoria
+  20/12 15:00                        Victoria
+  20/12 19:15                        Victoria
+Film Club: Its a Wonderful Life     
+  20/12 14:00                        Hoxton
+Film Club: Monsieur Hulots Holiday  
+  20/12 13:30                        Bloomsbury
+Film Club: Mulholland Drive         
+  20/12 14:00                        Soho
+Kids Club: Home Alone               
+  20/12 10:30                        Camden
+  20/12 10:30                        Hoxton
 
 
 
 =================================
 BY CINEMA THIS WEEKEND
 =================================
-Aldgate                                             
-  Wicked: For Good                                   28/11 11:40
-  Wicked: For Good                                   28/11 14:40
-  Wicked: For Good                                   28/11 17:40
-  Wicked: For Good                                   28/11 20:40
-  Wake Up Dead Man: A Knives Out Mystery             28/11 21:00
-  Wicked: For Good                                   29/11 11:10
-  Wicked: For Good                                   29/11 14:10
-  Wicked: For Good                                   29/11 17:40
-  Wicked: For Good                                   29/11 20:40
-  Wake Up Dead Man: A Knives Out Mystery             29/11 21:00
-Bloomsbury                                          
-  Wake Up Dead Man: A Knives Out Mystery             28/11 18:00
-  DocHouse: Fiume O Morte!                           28/11 18:10
-  Wake Up Dead Man: A Knives Out Mystery             28/11 20:40
-  DocHouse: LMFF: MORIA SIX                          29/11 15:30
-  National Theatre Live: The Fifth Step              29/11 16:00
-  Wake Up Dead Man: A Knives Out Mystery             29/11 18:00
-  DocHouse: LMFF: Shorts Competition                 29/11 18:10
-  DocHouse: The Voice of Hind Rajab                  29/11 20:00
-  Wake Up Dead Man: A Knives Out Mystery             29/11 20:20
-Camden                                              
-  Wicked: For Good                                   28/11 11:30
-  Wicked: For Good                                   28/11 14:30
-  Wicked: For Good                                   28/11 17:30
-  Wake Up Dead Man: A Knives Out Mystery             28/11 18:10
-  Wake Up Dead Man: A Knives Out Mystery             28/11 20:10
-  Wicked: For Good                                   28/11 20:30
-  Kids Club: Pets on a Train                         29/11 10:30
-  Wicked: For Good                                   29/11 11:30
-  Wicked: For Good                                   29/11 14:30
-  Wicked: For Good                                   29/11 17:30
-  The Voice of Hind Rajab                            29/11 17:50
-  Wake Up Dead Man: A Knives Out Mystery             29/11 18:10
-  Wake Up Dead Man: A Knives Out Mystery             29/11 20:10
-  Wicked: For Good                                   29/11 20:30
-Hoxton                                              
-  Wake Up Dead Man: A Knives Out Mystery             28/11 18:00
-  Kids Club: Pets on a Train                         29/11 10:30
-  Wake Up Dead Man: A Knives Out Mystery             29/11 18:00
-  The Voice of Hind Rajab                            29/11 18:40
-Mayfair                                             
-  Film Club: The Elephant Man                        29/11 14:15
-Soho                                                
-  Wake Up Dead Man: A Knives Out Mystery             28/11 14:40
-  RFF 2025: Housekeeping for Beginners               28/11 18:00
-  Wake Up Dead Man: A Knives Out Mystery             28/11 20:30
-  The Voice of Hind Rajab                            29/11 15:40
-  RFF 2025: Forest of the Hanged (4K Restoration)    29/11 17:40
-Victoria                                            
-  Wicked: For Good                                   28/11 12:00
-  Zootropolis 2                                      28/11 12:00
-  Wicked: For Good                                   28/11 15:00
-  Zootropolis 2                                      28/11 15:45
-  Zootropolis 2                                      28/11 17:45
-  Wicked: For Good                                   28/11 18:00
-  Wake Up Dead Man: A Knives Out Mystery             28/11 18:15
-  Wake Up Dead Man: A Knives Out Mystery             28/11 20:15
-  Wicked: For Good                                   28/11 21:00
-  Zootropolis 2                                      28/11 21:15
-  Wicked: For Good                                   29/11 11:00
-  Zootropolis 2                                      29/11 12:15
-  Wicked: For Good                                   29/11 14:00
-  Zootropolis 2                                      29/11 15:00
-  Wicked: For Good                                   29/11 17:00
-  Zootropolis 2                                      29/11 17:15
-  Wake Up Dead Man: A Knives Out Mystery             29/11 17:30
-  Wicked: For Good                                   29/11 20:00
-  Wake Up Dead Man: A Knives Out Mystery             29/11 20:45
-  Zootropolis 2                                      29/11 21:15
+Aldgate                                
+  Avatar: Fire and Ash                  19/12 11:00
+  Avatar: Fire and Ash 3D               19/12 11:45
+  Avatar: Fire and Ash                  19/12 15:15
+  Avatar: Fire and Ash 3D               19/12 16:00
+  Avatar: Fire and Ash                  19/12 19:30
+  Avatar: Fire and Ash 3D               19/12 20:15
+  Avatar: Fire and Ash                  20/12 11:00
+  Avatar: Fire and Ash 3D               20/12 11:45
+  Avatar: Fire and Ash                  20/12 15:15
+  Avatar: Fire and Ash 3D               20/12 16:00
+  Avatar: Fire and Ash                  20/12 19:30
+  Avatar: Fire and Ash 3D               20/12 20:15
+Bloomsbury                             
+  Avatar: Fire and Ash                  19/12 11:00
+  Avatar: Fire and Ash                  19/12 15:00
+  Avatar: Fire and Ash                  19/12 19:10
+  Film Club: Monsieur Hulots Holiday    20/12 13:30
+  Avatar: Fire and Ash                  20/12 15:40
+  Avatar: Fire and Ash                  20/12 19:45
+Camden                                 
+  Avatar: Fire and Ash                  19/12 11:30
+  Avatar: Fire and Ash                  19/12 15:30
+  Avatar: Fire and Ash                  19/12 18:30
+  Avatar: Fire and Ash                  19/12 19:30
+  Kids Club: Home Alone                 20/12 10:30
+  Avatar: Fire and Ash                  20/12 11:30
+  Avatar: Fire and Ash                  20/12 15:30
+  Avatar: Fire and Ash                  20/12 18:30
+  Avatar: Fire and Ash                  20/12 19:30
+Hoxton                                 
+  Avatar: Fire and Ash                  19/12 12:00
+  Avatar: Fire and Ash                  19/12 16:00
+  Avatar: Fire and Ash                  19/12 20:00
+  Kids Club: Home Alone                 20/12 10:30
+  Avatar: Fire and Ash                  20/12 11:20
+  Film Club: Its a Wonderful Life       20/12 14:00
+  Avatar: Fire and Ash                  20/12 15:40
+  Avatar: Fire and Ash                  20/12 20:00
+Mayfair                                
+  Avatar: Fire and Ash                  19/12 15:00
+  Avatar: Fire and Ash                  19/12 19:15
+  Avatar: Fire and Ash                  20/12 15:00
+  Avatar: Fire and Ash                  20/12 19:15
+Soho                                   
+  Film Club: Mulholland Drive           20/12 14:00
+Victoria                               
+  Avatar: Fire and Ash 3D               19/12 11:00
+  Avatar: Fire and Ash                  19/12 14:15
+  Avatar: Fire and Ash 3D               19/12 15:00
+  Avatar: Fire and Ash                  19/12 18:30
+  Avatar: Fire and Ash 3D               19/12 19:15
+  Avatar: Fire and Ash 3D               20/12 11:00
+  Avatar: Fire and Ash                  20/12 14:15
+  Avatar: Fire and Ash 3D               20/12 15:00
+  Avatar: Fire and Ash                  20/12 18:30
+  Avatar: Fire and Ash 3D               20/12 19:15
 
 
 
@@ -217,86 +150,6 @@ Victoria
 BY CINEMA ALL TIME
 =================================
 Aldgate                                               
-  Wicked: For Good                                     25/11 10:40
-  Private Hire Kids Screening                          25/11 11:00
-  Jay Kelly                                            25/11 11:30
-  Wicked: For Good                                     25/11 11:50
-  Bugonia                                              25/11 13:15
-  Wicked: For Good                                     25/11 14:00
-  The Running Man                                      25/11 14:40
-  Wicked: For Good                                     25/11 15:00
-  One Battle After Another                             25/11 16:00
-  Wicked: For Good                                     25/11 17:10
-  The Running Man                                      25/11 17:50
-  Wicked: For Good                                     25/11 18:10
-  Wicked: For Good                                     25/11 19:30
-  Wicked: For Good                                     25/11 20:20
-  Jay Kelly                                            25/11 20:50
-  Bugonia                                              25/11 21:15
-  Wicked: For Good                                     26/11 11:00
-  Jay Kelly                                            26/11 11:40
-  The Running Man                                      26/11 12:00
-  Wake Up Dead Man: A Knives Out Mystery               26/11 13:00
-  Wicked: For Good                                     26/11 14:00
-  Bugonia                                              26/11 14:40
-  Wicked: For Good                                     26/11 15:00
-  One Battle After Another                             26/11 16:20
-  Wicked: For Good                                     26/11 17:20
-  The Running Man                                      26/11 17:40
-  Wicked: For Good                                     26/11 18:00
-  Wake Up Dead Man: A Knives Out Mystery               26/11 20:00
-  Wicked: For Good                                     26/11 20:30
-  Jay Kelly                                            26/11 20:50
-  Bugonia                                              26/11 21:10
-  Bugonia                                              27/11 10:40
-  Wicked: For Good                                     27/11 11:00
-  Jay Kelly                                            27/11 11:40
-  Wicked: For Good                                     27/11 12:00
-  Wake Up Dead Man: A Knives Out Mystery               27/11 13:40
-  Wicked: For Good                                     27/11 14:00
-  Wicked: For Good                                     27/11 15:00
-  The Running Man                                      27/11 15:20
-  The Running Man                                      27/11 17:00
-  Wicked: For Good                                     27/11 17:20
-  Wicked: For Good                                     27/11 18:00
-  National Theatre Live: The Fifth Step                27/11 18:20
-  Wake Up Dead Man: A Knives Out Mystery               27/11 20:00
-  Wicked: For Good                                     27/11 20:30
-  Jay Kelly                                            27/11 20:50
-  Bugonia                                              27/11 21:10
-  Wicked: For Good                                     28/11 11:40
-  Wicked: For Good                                     28/11 14:40
-  Wicked: For Good                                     28/11 17:40
-  Wicked: For Good                                     28/11 20:40
-  Wake Up Dead Man: A Knives Out Mystery               28/11 21:00
-  Wicked: For Good                                     29/11 11:10
-  Wicked: For Good                                     29/11 14:10
-  Wicked: For Good                                     29/11 17:40
-  Wicked: For Good                                     29/11 20:40
-  Wake Up Dead Man: A Knives Out Mystery               29/11 21:00
-  Wicked: For Good                                     30/11 11:20
-  Wicked: For Good                                     30/11 14:20
-  Wicked: For Good                                     30/11 17:20
-  Wicked: For Good                                     30/11 20:20
-  Wake Up Dead Man: A Knives Out Mystery               30/11 20:40
-  Wicked: For Good                                     01/12 11:40
-  Wicked: For Good                                     01/12 14:40
-  Wicked: For Good                                     01/12 17:40
-  Wicked: For Good                                     01/12 20:40
-  Wake Up Dead Man: A Knives Out Mystery               01/12 21:00
-  Wicked: For Good                                     02/12 11:40
-  Wicked: For Good                                     02/12 14:40
-  Wicked: For Good                                     02/12 17:40
-  Wicked: For Good                                     02/12 20:40
-  Wicked: For Good                                     03/12 11:40
-  Wicked: For Good                                     03/12 14:40
-  Wicked: For Good                                     03/12 17:40
-  Wicked: For Good                                     03/12 20:40
-  Wicked: For Good                                     04/12 11:40
-  Wicked: For Good                                     04/12 14:40
-  Wicked: For Good                                     04/12 17:40
-  Wicked: For Good                                     04/12 20:40
-  Film Club: Lost Highway                              09/12 18:00
   Film Club: The Elephant Man                          17/12 18:00
   Avatar: Fire and Ash                                 19/12 11:00
   Avatar: Fire and Ash 3D                              19/12 11:45
@@ -336,130 +189,6 @@ Aldgate
   Film Club: Sunset Boulevard                          31/12 15:00
   National Theatre Live: Hamlet                        22/01 19:00
 Bloomsbury                                            
-  Left-Handed Girl                                     25/11 11:00
-  Die My Love                                          25/11 11:10
-  The Mastermind                                       25/11 11:40
-  Jay Kelly                                            25/11 12:00
-  Palestine 36                                         25/11 12:40
-  Game                                                 25/11 13:30
-  The Ice Tower                                        25/11 13:50
-  The Mastermind                                       25/11 14:10
-  Bugonia                                              25/11 14:50
-  DocHouse: The Propagandist                           25/11 15:00
-  Palestine 36                                         25/11 15:20
-  Die My Love                                          25/11 15:30
-  Dragonfly                                            25/11 16:30
-  The Mastermind                                       25/11 16:40
-  Jay Kelly                                            25/11 17:30
-  Palestine 36                                         25/11 18:10
-  DocHouse: Coexistence, My Ass                        25/11 18:20
-  Game                                                 25/11 19:00
-  RBO Cinema Season 2025-26: Cinderella                25/11 19:15
-  Bugonia                                              25/11 20:20
-  DocHouse: Testimony                                  25/11 20:50
-  Die My Love                                          25/11 21:00
-  Left-Handed Girl                                     25/11 21:10
-  The Ice Tower                                        25/11 21:20
-  Left-Handed Girl                                     26/11 11:00
-  Wake Up Dead Man: A Knives Out Mystery               26/11 11:30
-  The Ice Tower                                        26/11 11:45
-  Jay Kelly                                            26/11 12:20
-  Palestine 36                                         26/11 12:40
-  Game                                                 26/11 13:30
-  Die My Love                                          26/11 14:20
-  Wake Up Dead Man: A Knives Out Mystery               26/11 14:30
-  DocHouse: Testimony                                  26/11 15:00
-  Bugonia                                              26/11 15:10
-  Palestine 36                                         26/11 15:20
-  The Mastermind                                       26/11 15:30
-  Dragonfly                                            26/11 17:00
-  Wake Up Dead Man: A Knives Out Mystery               26/11 17:50
-  Palestine 36                                         26/11 18:00
-  Pillion                                              26/11 18:10
-  DocHouse: Still Pushing Pineapples                   26/11 18:20
-  Game                                                 26/11 19:15
-  The Ice Tower                                        26/11 20:30
-  Jay Kelly                                            26/11 20:40
-  Wake Up Dead Man: A Knives Out Mystery               26/11 20:50
-  DocHouse: Predators                                  26/11 21:00
-  Die My Love                                          26/11 21:10
-  Left-Handed Girl                                     26/11 21:20
-  Left-Handed Girl                                     27/11 11:00
-  Jay Kelly                                            27/11 11:10
-  Palestine 36                                         27/11 12:00
-  Wake Up Dead Man: A Knives Out Mystery               27/11 12:10
-  Die My Love                                          27/11 12:30
-  Game                                                 27/11 13:30
-  The Ice Tower                                        27/11 14:00
-  The Mastermind                                       27/11 14:50
-  DocHouse: Predators                                  27/11 15:00
-  Bugonia                                              27/11 15:10
-  Wake Up Dead Man: A Knives Out Mystery               27/11 15:20
-  Palestine 36                                         27/11 15:40
-  Dragonfly                                            27/11 16:45
-  Palestine 36                                         27/11 17:20
-  Wake Up Dead Man: A Knives Out Mystery               27/11 17:50
-  DocHouse: Testimony                                  27/11 18:10
-  National Theatre Live: The Fifth Step                27/11 18:20
-  Jay Kelly                                            27/11 18:30
-  Game                                                 27/11 19:00
-  The Ice Tower                                        27/11 20:00
-  Wake Up Dead Man: A Knives Out Mystery               27/11 20:15
-  DocHouse: The Propagandist                           27/11 20:30
-  Bugonia                                              27/11 20:50
-  Left-Handed Girl                                     27/11 21:00
-  The Mastermind                                       27/11 21:20
-  Wake Up Dead Man: A Knives Out Mystery               28/11 18:00
-  DocHouse: Fiume O Morte!                             28/11 18:10
-  Wake Up Dead Man: A Knives Out Mystery               28/11 20:40
-  DocHouse: LMFF: MORIA SIX                            29/11 15:30
-  National Theatre Live: The Fifth Step                29/11 16:00
-  Wake Up Dead Man: A Knives Out Mystery               29/11 18:00
-  DocHouse: LMFF: Shorts Competition                   29/11 18:10
-  DocHouse: The Voice of Hind Rajab                    29/11 20:00
-  Wake Up Dead Man: A Knives Out Mystery               29/11 20:20
-  DocHouse: Fiume O Morte!                             30/11 14:00
-  Film Club: Twin Peaks: Fire Walk with Me             30/11 14:30
-  DocHouse: Hacking Hate                               30/11 16:10
-  Wake Up Dead Man: A Knives Out Mystery               30/11 17:30
-  Wake Up Dead Man: A Knives Out Mystery               30/11 19:50
-  Wake Up Dead Man: A Knives Out Mystery               01/12 18:00
-  Wake Up Dead Man: A Knives Out Mystery               02/12 18:00
-  DocHouse: Fiume O Morte!                             02/12 18:10
-  DocHouse: Hacking Hate                               02/12 20:20
-  DocHouse: Hacking Hate                               03/12 16:00
-  Wake Up Dead Man: A Knives Out Mystery               03/12 18:00
-  DocHouse: Taylor                                     03/12 18:20
-  It Was Just An Accident                              04/12 11:00
-  Wake Up Dead Man: A Knives Out Mystery               04/12 18:00
-  DocHouse: Hacking Hate                               04/12 18:20
-  DocHouse: Fiume O Morte!                             04/12 20:10
-  Peter Hujar’s Day                                    05/12 18:00
-  DocHouse: Cover-Up                                   05/12 18:20
-  DocHouse: Folktales                                  05/12 20:40
-  DocHouse: Aspen                                      06/12 14:30
-  DocHouse: Folktales                                  06/12 18:00
-  DocHouse: Cover-Up                                   06/12 20:10
-  DocHouse: Rhino                                      07/12 13:45
-  Film Club: The Short Films of David Lynch            07/12 14:00
-  DocHouse: Folktales                                  07/12 15:30
-  DocHouse: Cover-Up                                   07/12 17:40
-  DocHouse: Colossal Wreck                             08/12 18:20
-  DocHouse: Folktales                                  09/12 18:20
-  DocHouse: Cover-Up                                   09/12 20:30
-  DocHouse: Cover-Up                                   10/12 15:00
-  DocHouse: Made of Truth: Made of Us                  10/12 18:20
-  RBO Cinema Season 2025-26: The Nutcracker            10/12 19:15
-  DocHouse: Folktales                                  11/12 16:00
-  DocHouse: Cover-Up                                   11/12 18:20
-  DocHouse: The Tale of Silyan                         12/12 18:20
-  DocHouse: Prime Minister                             12/12 20:00
-  DocHouse: The Tale of Silyan                         13/12 16:30
-  Met Opera 2025-26: Andrea Chénier                    13/12 18:00
-  DocHouse: Prime Minister                             13/12 18:20
-  DocHouse: Prime Minister                             14/12 12:30
-  DocHouse: Public Housing                             14/12 14:30
-  DocHouse: The Tale of Silyan                         14/12 18:10
   DocHouse: The Tale of Silyan                         16/12 18:20
   DocHouse: Prime Minister                             16/12 20:00
   DocHouse: Prime Minister                             17/12 18:20
@@ -503,110 +232,6 @@ Bloomsbury
   Met Opera 2025-26: Eugene Onegin                     05/05 17:00
   Met Opera 2026: El Último Sueño de Frida y Diego     30/05 17:00
 Camden                                                
-  The House of Mirth (Re-release)                      25/11 11:00
-  Wicked: For Good                                     25/11 11:30
-  The Stringer: The Man Who Took the Photo             25/11 11:45
-  Jay Kelly                                            25/11 12:00
-  Wicked: For Good                                     25/11 13:30
-  Bugonia                                              25/11 14:10
-  Wicked: For Good                                     25/11 14:30
-  Palestine 36                                         25/11 15:00
-  Alpha                                                25/11 15:30
-  Wicked: For Good                                     25/11 16:30
-  The Stringer: The Man Who Took the Photo             25/11 17:10
-  Wicked: For Good                                     25/11 17:30
-  Pillion                                              25/11 18:00
-  Wicked: For Good                                     25/11 18:20
-  Wicked: For Good                                     25/11 19:30
-  Frankenstein                                         25/11 19:50
-  Wicked: For Good                                     25/11 20:30
-  Jay Kelly                                            25/11 20:50
-  Die My Love                                          25/11 21:15
-  The Stringer: The Man Who Took the Photo             26/11 11:00
-  Jay Kelly                                            26/11 11:15
-  Wicked: For Good                                     26/11 11:30
-  Wake Up Dead Man: A Knives Out Mystery               26/11 12:00
-  Palestine 36                                         26/11 12:30
-  Alpha                                                26/11 13:20
-  Wake Up Dead Man: A Knives Out Mystery               26/11 14:10
-  Wicked: For Good                                     26/11 14:30
-  Die My Love                                          26/11 15:00
-  Bugonia                                              26/11 15:20
-  Wicked: For Good                                     26/11 16:10
-  Jay Kelly                                            26/11 17:10
-  Wicked: For Good                                     26/11 17:30
-  Wake Up Dead Man: A Knives Out Mystery               26/11 17:45
-  Pulling Focus: Triangle of Sadness                   26/11 18:00
-  Wicked: For Good                                     26/11 19:30
-  Wake Up Dead Man: A Knives Out Mystery               26/11 20:10
-  Wicked: For Good                                     26/11 20:30
-  Die My Love                                          26/11 20:50
-  The Stringer: The Man Who Took the Photo             26/11 21:10
-  The Stringer: The Man Who Took the Photo             27/11 11:00
-  Jay Kelly                                            27/11 11:15
-  Wicked: For Good                                     27/11 11:30
-  Wake Up Dead Man: A Knives Out Mystery               27/11 11:50
-  Palestine 36                                         27/11 12:30
-  Alpha                                                27/11 13:20
-  Wake Up Dead Man: A Knives Out Mystery               27/11 14:10
-  Wicked: For Good                                     27/11 14:30
-  Die My Love                                          27/11 15:00
-  Bugonia                                              27/11 15:20
-  Wicked: For Good                                     27/11 16:10
-  Jay Kelly                                            27/11 17:10
-  Wicked: For Good                                     27/11 17:30
-  Wake Up Dead Man: A Knives Out Mystery               27/11 17:50
-  National Theatre Live: The Fifth Step                27/11 18:20
-  Wicked: For Good                                     27/11 19:30
-  Wake Up Dead Man: A Knives Out Mystery               27/11 20:10
-  Wicked: For Good                                     27/11 20:30
-  Die My Love                                          27/11 20:50
-  The Stringer: The Man Who Took the Photo             27/11 21:10
-  Wicked: For Good                                     28/11 11:30
-  Wicked: For Good                                     28/11 14:30
-  Wicked: For Good                                     28/11 17:30
-  Wake Up Dead Man: A Knives Out Mystery               28/11 18:10
-  Wake Up Dead Man: A Knives Out Mystery               28/11 20:10
-  Wicked: For Good                                     28/11 20:30
-  Kids Club: Pets on a Train                           29/11 10:30
-  Wicked: For Good                                     29/11 11:30
-  Wicked: For Good                                     29/11 14:30
-  Wicked: For Good                                     29/11 17:30
-  The Voice of Hind Rajab                              29/11 17:50
-  Wake Up Dead Man: A Knives Out Mystery               29/11 18:10
-  Wake Up Dead Man: A Knives Out Mystery               29/11 20:10
-  Wicked: For Good                                     29/11 20:30
-  Wicked: For Good                                     30/11 11:00
-  Wicked: For Good                                     30/11 14:00
-  Wicked: For Good                                     30/11 17:00
-  National Theatre Live: The Fifth Step                30/11 17:20
-  Wake Up Dead Man: A Knives Out Mystery               30/11 17:40
-  Wake Up Dead Man: A Knives Out Mystery               30/11 19:40
-  Wicked: For Good                                     30/11 20:00
-  Wicked: For Good                                     03/12 11:30
-  Wicked: For Good                                     03/12 14:30
-  Wicked: For Good                                     03/12 17:30
-  Wake Up Dead Man: A Knives Out Mystery               03/12 18:10
-  Wake Up Dead Man: A Knives Out Mystery               03/12 20:10
-  Wicked: For Good                                     03/12 20:30
-  It Was Just An Accident                              03/12 21:00
-  Wicked: For Good                                     04/12 11:30
-  Wicked: For Good                                     04/12 14:30
-  Wicked: For Good                                     04/12 17:30
-  Wake Up Dead Man: A Knives Out Mystery               04/12 18:10
-  Wake Up Dead Man: A Knives Out Mystery               04/12 20:10
-  Wicked: For Good                                     04/12 20:30
-  Prime Minister                                       05/12 17:30
-  Kids Club: How the Grinch Stole Christmas            06/12 10:30
-  Prime Minister                                       06/12 17:30
-  Prime Minister                                       07/12 17:00
-  Prime Minister                                       08/12 17:30
-  Prime Minister                                       09/12 17:30
-  Prime Minister                                       10/12 17:30
-  Film Club: Wild at Heart                             10/12 18:00
-  Prime Minister                                       11/12 17:30
-  Kids Club: Elf                                       13/12 10:30
-  Film Club: The Wizard of Oz                          14/12 15:00
   Film Club: Lost Highway                              17/12 18:00
   Avatar: Fire and Ash                                 19/12 11:30
   Avatar: Fire and Ash                                 19/12 15:30
@@ -639,53 +264,6 @@ Camden
   Film Club: Sunset Boulevard                          31/12 15:00
   National Theatre Live: Hamlet                        22/01 19:00
 Hoxton                                                
-  Left-Handed Girl                                     25/11 12:15
-  Wicked: For Good                                     25/11 12:30
-  Wicked: For Good                                     25/11 14:00
-  Die My Love                                          25/11 15:00
-  Bugonia                                              25/11 15:30
-  Wicked: For Good                                     25/11 17:15
-  Die My Love                                          25/11 17:50
-  Bugonia                                              25/11 18:15
-  Wicked: For Good                                     25/11 20:20
-  Left-Handed Girl                                     25/11 20:40
-  Pillion                                              25/11 21:00
-  Left-Handed Girl                                     26/11 11:30
-  Wicked: For Good                                     26/11 11:45
-  Bugonia                                              26/11 12:20
-  Die My Love                                          26/11 14:20
-  Wake Up Dead Man: A Knives Out Mystery               26/11 14:50
-  Wicked: For Good                                     26/11 15:10
-  Wicked: For Good                                     26/11 17:15
-  Bugonia                                              26/11 18:00
-  LPFF 2025: Fragments of Life (Shorts)                26/11 18:20
-  Wicked: For Good                                     26/11 20:20
-  Wake Up Dead Man: A Knives Out Mystery               26/11 20:40
-  Left-Handed Girl                                     26/11 21:00
-  Left-Handed Girl                                     27/11 11:30
-  Wicked: For Good                                     27/11 11:45
-  Bugonia                                              27/11 12:20
-  Die My Love                                          27/11 14:20
-  Wake Up Dead Man: A Knives Out Mystery               27/11 14:50
-  Wicked: For Good                                     27/11 15:10
-  Wicked: For Good                                     27/11 17:15
-  Bugonia                                              27/11 18:00
-  LPFF 2025: The Jacket                                27/11 18:20
-  Wicked: For Good                                     27/11 20:20
-  Wake Up Dead Man: A Knives Out Mystery               27/11 20:40
-  Left-Handed Girl                                     27/11 21:00
-  Wake Up Dead Man: A Knives Out Mystery               28/11 18:00
-  Kids Club: Pets on a Train                           29/11 10:30
-  Wake Up Dead Man: A Knives Out Mystery               29/11 18:00
-  The Voice of Hind Rajab                              29/11 18:40
-  Film Club: Mulholland Drive                          30/11 14:00
-  Wake Up Dead Man: A Knives Out Mystery               30/11 17:40
-  Wake Up Dead Man: A Knives Out Mystery               01/12 18:00
-  It Was Just An Accident                              02/12 18:20
-  Kids Club: How the Grinch Stole Christmas            06/12 10:30
-  Film Club: Blue Velvet                               07/12 15:00
-  Kids Club: Elf                                       13/12 10:30
-  Film Club: Eraserhead                                14/12 15:00
   Avatar: Fire and Ash                                 19/12 12:00
   Avatar: Fire and Ash                                 19/12 16:00
   Avatar: Fire and Ash                                 19/12 20:00
@@ -709,36 +287,6 @@ Hoxton
   Kids Club: The Polar Express                         27/12 10:30
   Film Club: Wild at Heart                             28/12 14:00
 Mayfair                                               
-  Palestine 36                                         25/11 11:15
-  Wicked: For Good                                     25/11 11:30
-  Nuremberg                                            25/11 14:00
-  Wicked: For Good                                     25/11 14:40
-  Wicked: For Good                                     25/11 17:20
-  LPFF 2025: The Mission                               25/11 18:00
-  Nuremberg                                            25/11 20:30
-  Wicked: For Good                                     25/11 20:50
-  Palestine 36                                         26/11 11:15
-  Wicked: For Good                                     26/11 11:40
-  Nuremberg                                            26/11 14:00
-  Wicked: For Good                                     26/11 14:50
-  Wicked: For Good                                     26/11 17:20
-  Wicked: For Good                                     26/11 20:30
-  The Choral                                           26/11 21:20
-  Palestine 36                                         27/11 11:20
-  Wicked: For Good                                     27/11 11:40
-  Nuremberg                                            27/11 14:15
-  Wicked: For Good                                     27/11 14:45
-  Wicked: For Good                                     27/11 17:40
-  Wicked: For Good                                     27/11 20:50
-  The Choral                                           27/11 21:20
-  Film Club: The Elephant Man                          29/11 14:15
-  RBO Cinema Season 2025-26: Cinderella                30/11 14:00
-  Prime Minister                                       01/12 18:00
-  Film Club: The Wizard of Oz                          06/12 14:00
-  Palestine 36                                         12/12 18:00
-  Met Opera 2025-26: Andrea Chénier                    13/12 18:00
-  RBO Cinema Season 2025-26: The Nutcracker            14/12 14:00
-  Film Club: Mulholland Drive                          15/12 18:00
   Film Club: Monsieur Hulots Holiday                   16/12 18:00
   Film Club: Rear Window                               17/12 18:00
   Film Club: 8½                                        18/12 19:40
@@ -753,190 +301,12 @@ Mayfair
   Avatar: Fire and Ash                                 23/12 15:00
   Avatar: Fire and Ash                                 23/12 19:15
 Soho                                                  
-  Bugonia                                              25/11 11:20
-  Wicked: For Good                                     25/11 11:40
-  Jay Kelly                                            25/11 12:00
-  Frankenstein                                         25/11 14:15
-  Wicked: For Good                                     25/11 14:40
-  Alpha                                                25/11 15:15
-  Wicked: For Good                                     25/11 17:30
-  Frankenstein                                         25/11 17:50
-  Jay Kelly                                            25/11 18:15
-  Wicked: For Good                                     25/11 20:40
-  Bugonia                                              25/11 21:00
-  Die My Love                                          25/11 21:15
-  Wicked: For Good                                     26/11 11:00
-  Frankenstein                                         26/11 11:20
-  Jay Kelly                                            26/11 11:40
-  Wicked: For Good                                     26/11 14:15
-  Die My Love                                          26/11 14:45
-  Wicked: For Good                                     26/11 17:20
-  Jay Kelly                                            26/11 17:40
-  Bugonia                                              26/11 18:20
-  Alpha                                                26/11 20:40
-  Wicked: For Good                                     26/11 21:00
-  Frankenstein                                         27/11 11:00
-  Wicked: For Good                                     27/11 11:40
-  Jay Kelly                                            27/11 12:00
-  Alpha                                                27/11 14:20
-  Wicked: For Good                                     27/11 14:40
-  Bugonia                                              27/11 15:00
-  Frankenstein                                         27/11 17:20
-  Wicked: For Good                                     27/11 17:40
-  RFF 2025: Traffic                                    27/11 18:00
-  Wicked: For Good                                     27/11 20:40
-  Jay Kelly                                            27/11 21:00
-  Bugonia                                              27/11 21:15
-  Wake Up Dead Man: A Knives Out Mystery               28/11 14:40
-  RFF 2025: Housekeeping for Beginners                 28/11 18:00
-  Wake Up Dead Man: A Knives Out Mystery               28/11 20:30
-  The Voice of Hind Rajab                              29/11 15:40
-  RFF 2025: Forest of the Hanged (4K Restoration)      29/11 17:40
-  Wake Up Dead Man: A Knives Out Mystery               30/11 13:50
-  RFF 2025: The Spruce Forest                          30/11 14:20
-  RFF 2025: The Death of Mr Lazarescu                  30/11 17:00
-  Wake Up Dead Man: A Knives Out Mystery               30/11 20:20
-  RFF 2025: Kontinental 25                             01/12 18:00
-  It Was Just An Accident                              02/12 18:20
-  Plainclothes                                         04/12 18:00
-  Film Club: Eraserhead                                06/12 17:00
-  Zodiac Killer Project                                11/12 18:20
-  Senseless Things - Live at Shepherds Bush Empire!    13/12 18:00
-  Film Club: Blue Velvet                               14/12 15:00
   Khartoum                                             16/12 18:00
   Film Club: Mulholland Drive                          20/12 14:00
   Film Club: The Apartment                             21/12 14:00
   Sentimental Value                                    22/12 18:00
   Film Club: Lost Highway                              27/12 15:00
 Victoria                                              
-  The House of Mirth (Re-release)                      25/11 11:00
-  Wicked: For Good                                     25/11 12:00
-  The Choral                                           25/11 12:15
-  Palestine 36                                         25/11 12:30
-  Wicked: For Good                                     25/11 13:30
-  Bugonia                                              25/11 14:15
-  The Choral                                           25/11 15:00
-  Wicked: For Good                                     25/11 15:00
-  One Battle After Another                             25/11 15:15
-  Wicked: For Good                                     25/11 16:30
-  Jay Kelly                                            25/11 17:00
-  The Choral                                           25/11 17:45
-  Wicked: For Good                                     25/11 18:00
-  RBO Cinema Season 2025-26: Cinderella                25/11 19:15
-  Wicked: For Good                                     25/11 19:30
-  One Battle After Another                             25/11 20:00
-  The Running Man                                      25/11 20:30
-  Wicked: For Good                                     25/11 21:00
-  Palestine 36                                         26/11 10:45
-  Wake Up Dead Man: A Knives Out Mystery               26/11 11:00
-  Bugonia                                              26/11 11:45
-  Wicked: For Good                                     26/11 12:00
-  The Choral                                           26/11 12:15
-  Wicked: For Good                                     26/11 13:30
-  Wake Up Dead Man: A Knives Out Mystery               26/11 14:00
-  One Battle After Another                             26/11 14:30
-  Jay Kelly                                            26/11 14:45
-  Wicked: For Good                                     26/11 15:00
-  Wicked: For Good                                     26/11 16:30
-  Wake Up Dead Man: A Knives Out Mystery               26/11 17:00
-  The Choral                                           26/11 17:45
-  Wicked: For Good                                     26/11 18:00
-  Wicked: For Good                                     26/11 19:30
-  Wake Up Dead Man: A Knives Out Mystery               26/11 20:15
-  Jay Kelly                                            26/11 20:30
-  Wicked: For Good                                     26/11 21:00
-  Wake Up Dead Man: A Knives Out Mystery               27/11 11:00
-  Jay Kelly                                            27/11 11:15
-  Wicked: For Good                                     27/11 11:30
-  The Choral                                           27/11 12:15
-  Wicked: For Good                                     27/11 13:15
-  Wake Up Dead Man: A Knives Out Mystery               27/11 14:00
-  Wicked: For Good                                     27/11 14:15
-  The Choral                                           27/11 15:00
-  National Theatre Live: The Fifth Step                27/11 16:15
-  Wake Up Dead Man: A Knives Out Mystery               27/11 17:00
-  National Theatre Live: The Fifth Step                27/11 17:30
-  The Choral                                           27/11 17:45
-  Wicked: For Good                                     27/11 18:00
-  National Theatre Live: The Fifth Step                27/11 18:20
-  Wicked: For Good                                     27/11 19:30
-  Wake Up Dead Man: A Knives Out Mystery               27/11 20:00
-  Wicked: For Good                                     27/11 20:15
-  One Battle After Another                             27/11 20:30
-  Jay Kelly                                            27/11 21:00
-  Wicked: For Good                                     28/11 12:00
-  Zootropolis 2                                        28/11 12:00
-  Wicked: For Good                                     28/11 15:00
-  Zootropolis 2                                        28/11 15:45
-  Zootropolis 2                                        28/11 17:45
-  Wicked: For Good                                     28/11 18:00
-  Wake Up Dead Man: A Knives Out Mystery               28/11 18:15
-  Wake Up Dead Man: A Knives Out Mystery               28/11 20:15
-  Wicked: For Good                                     28/11 21:00
-  Zootropolis 2                                        28/11 21:15
-  Wicked: For Good                                     29/11 11:00
-  Zootropolis 2                                        29/11 12:15
-  Wicked: For Good                                     29/11 14:00
-  Zootropolis 2                                        29/11 15:00
-  Wicked: For Good                                     29/11 17:00
-  Zootropolis 2                                        29/11 17:15
-  Wake Up Dead Man: A Knives Out Mystery               29/11 17:30
-  Wicked: For Good                                     29/11 20:00
-  Wake Up Dead Man: A Knives Out Mystery               29/11 20:45
-  Zootropolis 2                                        29/11 21:15
-  Wicked: For Good                                     30/11 11:15
-  Zootropolis 2                                        30/11 11:30
-  RBO Cinema Season 2025-26: Cinderella                30/11 14:00
-  Wicked: For Good                                     30/11 14:15
-  Zootropolis 2                                        30/11 14:15
-  Wake Up Dead Man: A Knives Out Mystery               30/11 16:45
-  Zootropolis 2                                        30/11 17:00
-  Wicked: For Good                                     30/11 17:15
-  Zootropolis 2                                        30/11 19:30
-  Wake Up Dead Man: A Knives Out Mystery               30/11 20:00
-  Wicked: For Good                                     30/11 20:15
-  Wicked: For Good                                     01/12 12:00
-  Zootropolis 2                                        01/12 12:15
-  Wicked: For Good                                     01/12 15:00
-  Zootropolis 2                                        01/12 15:30
-  Wake Up Dead Man: A Knives Out Mystery               01/12 17:45
-  Wicked: For Good                                     01/12 18:00
-  Wake Up Dead Man: A Knives Out Mystery               01/12 20:45
-  Wicked: For Good                                     01/12 21:00
-  Zootropolis 2                                        01/12 21:15
-  Wicked: For Good                                     02/12 11:30
-  Zootropolis 2                                        02/12 12:00
-  Wicked: For Good                                     02/12 14:30
-  Zootropolis 2                                        02/12 15:30
-  Wicked: For Good                                     02/12 17:30
-  Zootropolis 2                                        02/12 17:45
-  Wake Up Dead Man: A Knives Out Mystery               02/12 18:00
-  Wake Up Dead Man: A Knives Out Mystery               02/12 20:15
-  Wicked: For Good                                     02/12 20:30
-  Zootropolis 2                                        02/12 21:00
-  Zootropolis 2                                        03/12 11:45
-  Zootropolis 2                                        03/12 15:45
-  Zootropolis 2                                        03/12 17:45
-  Wicked: For Good                                     03/12 18:00
-  Wake Up Dead Man: A Knives Out Mystery               03/12 18:15
-  Film Club: Mulholland Drive                          03/12 20:00
-  Wake Up Dead Man: A Knives Out Mystery               03/12 20:15
-  Wicked: For Good                                     03/12 21:00
-  Zootropolis 2                                        03/12 21:15
-  Zootropolis 2                                        04/12 11:45
-  Wicked: For Good                                     04/12 12:00
-  Wicked: For Good                                     04/12 15:00
-  Zootropolis 2                                        04/12 15:45
-  Zootropolis 2                                        04/12 17:45
-  Wicked: For Good                                     04/12 18:00
-  Wake Up Dead Man: A Knives Out Mystery               04/12 18:15
-  Wake Up Dead Man: A Knives Out Mystery               04/12 20:15
-  Wicked: For Good                                     04/12 21:00
-  Zootropolis 2                                        04/12 21:15
-  RBO Cinema Season 2025-26: The Nutcracker            10/12 19:15
-  THE CURE: THE SHOW OF A LOST WORLD                   11/12 18:00
-  Met Opera 2025-26: Andrea Chénier                    13/12 18:00
-  RBO Cinema Season 2025-26: The Nutcracker            14/12 14:00
   Film Club: Blue Velvet                               16/12 18:00
   Avatar: Fire and Ash 3D                              19/12 11:00
   Avatar: Fire and Ash                                 19/12 14:15
@@ -994,13 +364,6 @@ Victoria
 =================================
 BY FILM ALL TIME
 =================================
-Alpha                                              
-  25/11 15:30                                       Camden
-  26/11 13:20                                       Camden
-  27/11 13:20                                       Camden
-  25/11 15:15                                       Soho
-  26/11 20:40                                       Soho
-  27/11 14:20                                       Soho
 Avatar: Fire and Ash                               
   19/12 11:00                                       Aldgate
   19/12 15:15                                       Aldgate
@@ -1128,133 +491,22 @@ Avatar: Fire and Ash 3D
   23/12 19:15                                       Victoria
   24/12 12:30                                       Victoria
   24/12 16:30                                       Victoria
-Bugonia                                            
-  25/11 13:15                                       Aldgate
-  25/11 21:15                                       Aldgate
-  26/11 14:40                                       Aldgate
-  26/11 21:10                                       Aldgate
-  27/11 10:40                                       Aldgate
-  27/11 21:10                                       Aldgate
-  25/11 14:50                                       Bloomsbury
-  25/11 20:20                                       Bloomsbury
-  26/11 15:10                                       Bloomsbury
-  27/11 15:10                                       Bloomsbury
-  27/11 20:50                                       Bloomsbury
-  25/11 14:10                                       Camden
-  26/11 15:20                                       Camden
-  27/11 15:20                                       Camden
-  25/11 15:30                                       Hoxton
-  25/11 18:15                                       Hoxton
-  26/11 12:20                                       Hoxton
-  26/11 18:00                                       Hoxton
-  27/11 12:20                                       Hoxton
-  27/11 18:00                                       Hoxton
-  25/11 11:20                                       Soho
-  25/11 21:00                                       Soho
-  26/11 18:20                                       Soho
-  27/11 15:00                                       Soho
-  27/11 21:15                                       Soho
-  25/11 14:15                                       Victoria
-  26/11 11:45                                       Victoria
-Die My Love                                        
-  25/11 11:10                                       Bloomsbury
-  25/11 15:30                                       Bloomsbury
-  25/11 21:00                                       Bloomsbury
-  26/11 14:20                                       Bloomsbury
-  26/11 21:10                                       Bloomsbury
-  27/11 12:30                                       Bloomsbury
-  25/11 21:15                                       Camden
-  26/11 15:00                                       Camden
-  26/11 20:50                                       Camden
-  27/11 15:00                                       Camden
-  27/11 20:50                                       Camden
-  25/11 15:00                                       Hoxton
-  25/11 17:50                                       Hoxton
-  26/11 14:20                                       Hoxton
-  27/11 14:20                                       Hoxton
-  25/11 21:15                                       Soho
-  26/11 14:45                                       Soho
-DocHouse: Aspen                                    
-  06/12 14:30                                       Bloomsbury
-DocHouse: Coexistence, My Ass                      
-  25/11 18:20                                       Bloomsbury
-DocHouse: Colossal Wreck                           
-  08/12 18:20                                       Bloomsbury
-DocHouse: Cover-Up                                 
-  05/12 18:20                                       Bloomsbury
-  06/12 20:10                                       Bloomsbury
-  07/12 17:40                                       Bloomsbury
-  09/12 20:30                                       Bloomsbury
-  10/12 15:00                                       Bloomsbury
-  11/12 18:20                                       Bloomsbury
 DocHouse: Ex Libris - The New York Public Library  
   11/01 14:00                                       Bloomsbury
-DocHouse: Fiume O Morte!                           
-  28/11 18:10                                       Bloomsbury
-  30/11 14:00                                       Bloomsbury
-  02/12 18:10                                       Bloomsbury
-  04/12 20:10                                       Bloomsbury
-DocHouse: Folktales                                
-  05/12 20:40                                       Bloomsbury
-  06/12 18:00                                       Bloomsbury
-  07/12 15:30                                       Bloomsbury
-  09/12 18:20                                       Bloomsbury
-  11/12 16:00                                       Bloomsbury
-DocHouse: Hacking Hate                             
-  30/11 16:10                                       Bloomsbury
-  02/12 20:20                                       Bloomsbury
-  03/12 16:00                                       Bloomsbury
-  04/12 18:20                                       Bloomsbury
-DocHouse: LMFF: MORIA SIX                          
-  29/11 15:30                                       Bloomsbury
-DocHouse: LMFF: Shorts Competition                 
-  29/11 18:10                                       Bloomsbury
 DocHouse: La Danse: The Paris Opera Ballet         
   28/12 14:00                                       Bloomsbury
-DocHouse: Made of Truth: Made of Us                
-  10/12 18:20                                       Bloomsbury
 DocHouse: Menus-Plaisirs                           
   17/01 13:30                                       Bloomsbury
 DocHouse: National Gallery                         
   04/01 14:00                                       Bloomsbury
-DocHouse: Predators                                
-  26/11 21:00                                       Bloomsbury
-  27/11 15:00                                       Bloomsbury
 DocHouse: Prime Minister                           
-  12/12 20:00                                       Bloomsbury
-  13/12 18:20                                       Bloomsbury
-  14/12 12:30                                       Bloomsbury
   16/12 20:00                                       Bloomsbury
   17/12 18:20                                       Bloomsbury
   18/12 16:00                                       Bloomsbury
-DocHouse: Public Housing                           
-  14/12 14:30                                       Bloomsbury
-DocHouse: Rhino                                    
-  07/12 13:45                                       Bloomsbury
-DocHouse: Still Pushing Pineapples                 
-  26/11 18:20                                       Bloomsbury
-DocHouse: Taylor                                   
-  03/12 18:20                                       Bloomsbury
-DocHouse: Testimony                                
-  25/11 20:50                                       Bloomsbury
-  26/11 15:00                                       Bloomsbury
-  27/11 18:10                                       Bloomsbury
-DocHouse: The Propagandist                         
-  25/11 15:00                                       Bloomsbury
-  27/11 20:30                                       Bloomsbury
 DocHouse: The Tale of Silyan                       
-  12/12 18:20                                       Bloomsbury
-  13/12 16:30                                       Bloomsbury
-  14/12 18:10                                       Bloomsbury
   16/12 18:20                                       Bloomsbury
   17/12 20:20                                       Bloomsbury
   18/12 14:20                                       Bloomsbury
-DocHouse: The Voice of Hind Rajab                  
-  29/11 20:00                                       Bloomsbury
-Dragonfly                                          
-  25/11 16:30                                       Bloomsbury
-  26/11 17:00                                       Bloomsbury
-  27/11 16:45                                       Bloomsbury
 EXHIBITION ON SCREEN: Frida Kahlo 2026 Encore      
   15/05 17:00                                       Victoria
 EXHIBITION ON SCREEN: Turner & Constable           
@@ -1263,12 +515,7 @@ Film Club: 8½
   27/12 14:30                                       Bloomsbury
   18/12 19:40                                       Mayfair
 Film Club: Blue Velvet                             
-  07/12 15:00                                       Hoxton
-  14/12 15:00                                       Soho
   16/12 18:00                                       Victoria
-Film Club: Eraserhead                              
-  14/12 15:00                                       Hoxton
-  06/12 17:00                                       Soho
 Film Club: Inland Empire                           
   28/12 14:00                                       Bloomsbury
 Film Club: Its a Wonderful Life                    
@@ -1277,7 +524,6 @@ Film Club: Its a Wonderful Life
   20/12 14:00                                       Hoxton
   21/12 14:00                                       Victoria
 Film Club: Lost Highway                            
-  09/12 18:00                                       Aldgate
   17/12 18:00                                       Camden
   27/12 15:00                                       Soho
 Film Club: Mon Oncle                               
@@ -1287,10 +533,7 @@ Film Club: Monsieur Hulots Holiday
   16/12 18:00                                       Mayfair
 Film Club: Mulholland Drive                        
   21/12 12:30                                       Bloomsbury
-  30/11 14:00                                       Hoxton
-  15/12 18:00                                       Mayfair
   20/12 14:00                                       Soho
-  03/12 20:00                                       Victoria
 Film Club: Rear Window                             
   17/12 18:00                                       Mayfair
 Film Club: Sunset Boulevard                        
@@ -1303,110 +546,21 @@ Film Club: The Apartment
   24/12 15:00                                       Victoria
 Film Club: The Elephant Man                        
   17/12 18:00                                       Aldgate
-  29/11 14:15                                       Mayfair
-Film Club: The Short Films of David Lynch          
-  07/12 14:00                                       Bloomsbury
 Film Club: The Wizard of Oz                        
-  14/12 15:00                                       Camden
   21/12 15:00                                       Hoxton
-  06/12 14:00                                       Mayfair
-Film Club: Twin Peaks: Fire Walk with Me           
-  30/11 14:30                                       Bloomsbury
 Film Club: Wild at Heart                           
-  10/12 18:00                                       Camden
   28/12 14:00                                       Hoxton
-Frankenstein                                       
-  25/11 19:50                                       Camden
-  25/11 14:15                                       Soho
-  25/11 17:50                                       Soho
-  26/11 11:20                                       Soho
-  27/11 11:00                                       Soho
-  27/11 17:20                                       Soho
-Game                                               
-  25/11 13:30                                       Bloomsbury
-  25/11 19:00                                       Bloomsbury
-  26/11 13:30                                       Bloomsbury
-  26/11 19:15                                       Bloomsbury
-  27/11 13:30                                       Bloomsbury
-  27/11 19:00                                       Bloomsbury
-It Was Just An Accident                            
-  04/12 11:00                                       Bloomsbury
-  03/12 21:00                                       Camden
-  02/12 18:20                                       Hoxton
-  02/12 18:20                                       Soho
-Jay Kelly                                          
-  25/11 11:30                                       Aldgate
-  25/11 20:50                                       Aldgate
-  26/11 11:40                                       Aldgate
-  26/11 20:50                                       Aldgate
-  27/11 11:40                                       Aldgate
-  27/11 20:50                                       Aldgate
-  25/11 12:00                                       Bloomsbury
-  25/11 17:30                                       Bloomsbury
-  26/11 12:20                                       Bloomsbury
-  26/11 20:40                                       Bloomsbury
-  27/11 11:10                                       Bloomsbury
-  27/11 18:30                                       Bloomsbury
-  25/11 12:00                                       Camden
-  25/11 20:50                                       Camden
-  26/11 11:15                                       Camden
-  26/11 17:10                                       Camden
-  27/11 11:15                                       Camden
-  27/11 17:10                                       Camden
-  25/11 12:00                                       Soho
-  25/11 18:15                                       Soho
-  26/11 11:40                                       Soho
-  26/11 17:40                                       Soho
-  27/11 12:00                                       Soho
-  27/11 21:00                                       Soho
-  25/11 17:00                                       Victoria
-  26/11 14:45                                       Victoria
-  26/11 20:30                                       Victoria
-  27/11 11:15                                       Victoria
-  27/11 21:00                                       Victoria
 Khartoum                                           
   16/12 18:00                                       Soho
-Kids Club: Elf                                     
-  13/12 10:30                                       Camden
-  13/12 10:30                                       Hoxton
 Kids Club: Home Alone                              
   20/12 10:30                                       Camden
   20/12 10:30                                       Hoxton
-Kids Club: How the Grinch Stole Christmas          
-  06/12 10:30                                       Camden
-  06/12 10:30                                       Hoxton
-Kids Club: Pets on a Train                         
-  29/11 10:30                                       Camden
-  29/11 10:30                                       Hoxton
 Kids Club: The Polar Express                       
   27/12 10:30                                       Camden
   27/12 10:30                                       Hoxton
 LAtalante (4K Re-release)                          
   30/12 11:00                                       Camden
   30/12 11:00                                       Victoria
-LPFF 2025: Fragments of Life (Shorts)              
-  26/11 18:20                                       Hoxton
-LPFF 2025: The Jacket                              
-  27/11 18:20                                       Hoxton
-LPFF 2025: The Mission                             
-  25/11 18:00                                       Mayfair
-Left-Handed Girl                                   
-  25/11 11:00                                       Bloomsbury
-  25/11 21:10                                       Bloomsbury
-  26/11 11:00                                       Bloomsbury
-  26/11 21:20                                       Bloomsbury
-  27/11 11:00                                       Bloomsbury
-  27/11 21:00                                       Bloomsbury
-  25/11 12:15                                       Hoxton
-  25/11 20:40                                       Hoxton
-  26/11 11:30                                       Hoxton
-  26/11 21:00                                       Hoxton
-  27/11 11:30                                       Hoxton
-  27/11 21:00                                       Hoxton
-Met Opera 2025-26: Andrea Chénier                  
-  13/12 18:00                                       Bloomsbury
-  13/12 18:00                                       Mayfair
-  13/12 18:00                                       Victoria
 Met Opera 2025-26: Eugene Onegin                   
   02/05 17:00                                       Bloomsbury
   05/05 17:00                                       Bloomsbury
@@ -1426,72 +580,6 @@ National Theatre Live: Hamlet
   22/01 19:00                                       Bloomsbury
   22/01 19:00                                       Camden
   22/01 19:00                                       Victoria
-National Theatre Live: The Fifth Step              
-  27/11 18:20                                       Aldgate
-  27/11 18:20                                       Bloomsbury
-  29/11 16:00                                       Bloomsbury
-  27/11 18:20                                       Camden
-  30/11 17:20                                       Camden
-  27/11 16:15                                       Victoria
-  27/11 17:30                                       Victoria
-  27/11 18:20                                       Victoria
-Nuremberg                                          
-  25/11 14:00                                       Mayfair
-  25/11 20:30                                       Mayfair
-  26/11 14:00                                       Mayfair
-  27/11 14:15                                       Mayfair
-One Battle After Another                           
-  25/11 16:00                                       Aldgate
-  26/11 16:20                                       Aldgate
-  25/11 15:15                                       Victoria
-  25/11 20:00                                       Victoria
-  26/11 14:30                                       Victoria
-  27/11 20:30                                       Victoria
-Palestine 36                                       
-  25/11 12:40                                       Bloomsbury
-  25/11 15:20                                       Bloomsbury
-  25/11 18:10                                       Bloomsbury
-  26/11 12:40                                       Bloomsbury
-  26/11 15:20                                       Bloomsbury
-  26/11 18:00                                       Bloomsbury
-  27/11 12:00                                       Bloomsbury
-  27/11 15:40                                       Bloomsbury
-  27/11 17:20                                       Bloomsbury
-  25/11 15:00                                       Camden
-  26/11 12:30                                       Camden
-  27/11 12:30                                       Camden
-  25/11 11:15                                       Mayfair
-  26/11 11:15                                       Mayfair
-  27/11 11:20                                       Mayfair
-  12/12 18:00                                       Mayfair
-  25/11 12:30                                       Victoria
-  26/11 10:45                                       Victoria
-Peter Hujar’s Day                                  
-  05/12 18:00                                       Bloomsbury
-Pillion                                            
-  26/11 18:10                                       Bloomsbury
-  25/11 18:00                                       Camden
-  25/11 21:00                                       Hoxton
-Plainclothes                                       
-  04/12 18:00                                       Soho
-Prime Minister                                     
-  05/12 17:30                                       Camden
-  06/12 17:30                                       Camden
-  07/12 17:00                                       Camden
-  08/12 17:30                                       Camden
-  09/12 17:30                                       Camden
-  10/12 17:30                                       Camden
-  11/12 17:30                                       Camden
-  01/12 18:00                                       Mayfair
-Private Hire Kids Screening                        
-  25/11 11:00                                       Aldgate
-Pulling Focus: Triangle of Sadness                 
-  26/11 18:00                                       Camden
-RBO Cinema Season 2025-26: Cinderella              
-  25/11 19:15                                       Bloomsbury
-  30/11 14:00                                       Mayfair
-  25/11 19:15                                       Victoria
-  30/11 14:00                                       Victoria
 RBO Cinema Season 2025-26: Giselle                 
   03/03 19:15                                       Bloomsbury
   31/03 16:15                                       Bloomsbury
@@ -1508,364 +596,15 @@ RBO Cinema Season 2025-26: The Magic Flute
   21/04 17:45                                       Bloomsbury
   21/04 17:45                                       Victoria
   26/04 13:00                                       Victoria
-RBO Cinema Season 2025-26: The Nutcracker          
-  10/12 19:15                                       Bloomsbury
-  14/12 14:00                                       Mayfair
-  10/12 19:15                                       Victoria
-  14/12 14:00                                       Victoria
 RBO Cinema Season 2025-26: Woolf Works             
   09/02 19:15                                       Bloomsbury
   09/02 19:15                                       Victoria
   15/02 14:00                                       Victoria
-RFF 2025: Forest of the Hanged (4K Restoration)    
-  29/11 17:40                                       Soho
-RFF 2025: Housekeeping for Beginners               
-  28/11 18:00                                       Soho
-RFF 2025: Kontinental 25                           
-  01/12 18:00                                       Soho
-RFF 2025: The Death of Mr Lazarescu                
-  30/11 17:00                                       Soho
-RFF 2025: The Spruce Forest                        
-  30/11 14:20                                       Soho
-RFF 2025: Traffic                                  
-  27/11 18:00                                       Soho
-Senseless Things - Live at Shepherds Bush Empire!  
-  13/12 18:00                                       Soho
 Sentimental Value                                  
   24/12 14:00                                       Bloomsbury
   22/12 18:10                                       Camden
   22/12 18:00                                       Hoxton
   22/12 18:00                                       Soho
-THE CURE: THE SHOW OF A LOST WORLD                 
-  11/12 18:00                                       Victoria
-The Choral                                         
-  26/11 21:20                                       Mayfair
-  27/11 21:20                                       Mayfair
-  25/11 12:15                                       Victoria
-  25/11 15:00                                       Victoria
-  25/11 17:45                                       Victoria
-  26/11 12:15                                       Victoria
-  26/11 17:45                                       Victoria
-  27/11 12:15                                       Victoria
-  27/11 15:00                                       Victoria
-  27/11 17:45                                       Victoria
-The House of Mirth (Re-release)                    
-  25/11 11:00                                       Camden
-  25/11 11:00                                       Victoria
-The Ice Tower                                      
-  25/11 13:50                                       Bloomsbury
-  25/11 21:20                                       Bloomsbury
-  26/11 11:45                                       Bloomsbury
-  26/11 20:30                                       Bloomsbury
-  27/11 14:00                                       Bloomsbury
-  27/11 20:00                                       Bloomsbury
-The Mastermind                                     
-  25/11 11:40                                       Bloomsbury
-  25/11 14:10                                       Bloomsbury
-  25/11 16:40                                       Bloomsbury
-  26/11 15:30                                       Bloomsbury
-  27/11 14:50                                       Bloomsbury
-  27/11 21:20                                       Bloomsbury
-The Running Man                                    
-  25/11 14:40                                       Aldgate
-  25/11 17:50                                       Aldgate
-  26/11 12:00                                       Aldgate
-  26/11 17:40                                       Aldgate
-  27/11 15:20                                       Aldgate
-  27/11 17:00                                       Aldgate
-  25/11 20:30                                       Victoria
-The Stringer: The Man Who Took the Photo           
-  25/11 11:45                                       Camden
-  25/11 17:10                                       Camden
-  26/11 11:00                                       Camden
-  26/11 21:10                                       Camden
-  27/11 11:00                                       Camden
-  27/11 21:10                                       Camden
-The Voice of Hind Rajab                            
-  29/11 17:50                                       Camden
-  29/11 18:40                                       Hoxton
-  29/11 15:40                                       Soho
-Wake Up Dead Man: A Knives Out Mystery             
-  26/11 13:00                                       Aldgate
-  26/11 20:00                                       Aldgate
-  27/11 13:40                                       Aldgate
-  27/11 20:00                                       Aldgate
-  28/11 21:00                                       Aldgate
-  29/11 21:00                                       Aldgate
-  30/11 20:40                                       Aldgate
-  01/12 21:00                                       Aldgate
-  26/11 11:30                                       Bloomsbury
-  26/11 14:30                                       Bloomsbury
-  26/11 17:50                                       Bloomsbury
-  26/11 20:50                                       Bloomsbury
-  27/11 12:10                                       Bloomsbury
-  27/11 15:20                                       Bloomsbury
-  27/11 17:50                                       Bloomsbury
-  27/11 20:15                                       Bloomsbury
-  28/11 18:00                                       Bloomsbury
-  28/11 20:40                                       Bloomsbury
-  29/11 18:00                                       Bloomsbury
-  29/11 20:20                                       Bloomsbury
-  30/11 17:30                                       Bloomsbury
-  30/11 19:50                                       Bloomsbury
-  01/12 18:00                                       Bloomsbury
-  02/12 18:00                                       Bloomsbury
-  03/12 18:00                                       Bloomsbury
-  04/12 18:00                                       Bloomsbury
-  26/11 12:00                                       Camden
-  26/11 14:10                                       Camden
-  26/11 17:45                                       Camden
-  26/11 20:10                                       Camden
-  27/11 11:50                                       Camden
-  27/11 14:10                                       Camden
-  27/11 17:50                                       Camden
-  27/11 20:10                                       Camden
-  28/11 18:10                                       Camden
-  28/11 20:10                                       Camden
-  29/11 18:10                                       Camden
-  29/11 20:10                                       Camden
-  30/11 17:40                                       Camden
-  30/11 19:40                                       Camden
-  03/12 18:10                                       Camden
-  03/12 20:10                                       Camden
-  04/12 18:10                                       Camden
-  04/12 20:10                                       Camden
-  26/11 14:50                                       Hoxton
-  26/11 20:40                                       Hoxton
-  27/11 14:50                                       Hoxton
-  27/11 20:40                                       Hoxton
-  28/11 18:00                                       Hoxton
-  29/11 18:00                                       Hoxton
-  30/11 17:40                                       Hoxton
-  01/12 18:00                                       Hoxton
-  28/11 14:40                                       Soho
-  28/11 20:30                                       Soho
-  30/11 13:50                                       Soho
-  30/11 20:20                                       Soho
-  26/11 11:00                                       Victoria
-  26/11 14:00                                       Victoria
-  26/11 17:00                                       Victoria
-  26/11 20:15                                       Victoria
-  27/11 11:00                                       Victoria
-  27/11 14:00                                       Victoria
-  27/11 17:00                                       Victoria
-  27/11 20:00                                       Victoria
-  28/11 18:15                                       Victoria
-  28/11 20:15                                       Victoria
-  29/11 17:30                                       Victoria
-  29/11 20:45                                       Victoria
-  30/11 16:45                                       Victoria
-  30/11 20:00                                       Victoria
-  01/12 17:45                                       Victoria
-  01/12 20:45                                       Victoria
-  02/12 18:00                                       Victoria
-  02/12 20:15                                       Victoria
-  03/12 18:15                                       Victoria
-  03/12 20:15                                       Victoria
-  04/12 18:15                                       Victoria
-  04/12 20:15                                       Victoria
-Wicked: For Good                                   
-  25/11 10:40                                       Aldgate
-  25/11 11:50                                       Aldgate
-  25/11 14:00                                       Aldgate
-  25/11 15:00                                       Aldgate
-  25/11 17:10                                       Aldgate
-  25/11 18:10                                       Aldgate
-  25/11 19:30                                       Aldgate
-  25/11 20:20                                       Aldgate
-  26/11 11:00                                       Aldgate
-  26/11 14:00                                       Aldgate
-  26/11 15:00                                       Aldgate
-  26/11 17:20                                       Aldgate
-  26/11 18:00                                       Aldgate
-  26/11 20:30                                       Aldgate
-  27/11 11:00                                       Aldgate
-  27/11 12:00                                       Aldgate
-  27/11 14:00                                       Aldgate
-  27/11 15:00                                       Aldgate
-  27/11 17:20                                       Aldgate
-  27/11 18:00                                       Aldgate
-  27/11 20:30                                       Aldgate
-  28/11 11:40                                       Aldgate
-  28/11 14:40                                       Aldgate
-  28/11 17:40                                       Aldgate
-  28/11 20:40                                       Aldgate
-  29/11 11:10                                       Aldgate
-  29/11 14:10                                       Aldgate
-  29/11 17:40                                       Aldgate
-  29/11 20:40                                       Aldgate
-  30/11 11:20                                       Aldgate
-  30/11 14:20                                       Aldgate
-  30/11 17:20                                       Aldgate
-  30/11 20:20                                       Aldgate
-  01/12 11:40                                       Aldgate
-  01/12 14:40                                       Aldgate
-  01/12 17:40                                       Aldgate
-  01/12 20:40                                       Aldgate
-  02/12 11:40                                       Aldgate
-  02/12 14:40                                       Aldgate
-  02/12 17:40                                       Aldgate
-  02/12 20:40                                       Aldgate
-  03/12 11:40                                       Aldgate
-  03/12 14:40                                       Aldgate
-  03/12 17:40                                       Aldgate
-  03/12 20:40                                       Aldgate
-  04/12 11:40                                       Aldgate
-  04/12 14:40                                       Aldgate
-  04/12 17:40                                       Aldgate
-  04/12 20:40                                       Aldgate
-  25/11 11:30                                       Camden
-  25/11 13:30                                       Camden
-  25/11 14:30                                       Camden
-  25/11 16:30                                       Camden
-  25/11 17:30                                       Camden
-  25/11 18:20                                       Camden
-  25/11 19:30                                       Camden
-  25/11 20:30                                       Camden
-  26/11 11:30                                       Camden
-  26/11 14:30                                       Camden
-  26/11 16:10                                       Camden
-  26/11 17:30                                       Camden
-  26/11 19:30                                       Camden
-  26/11 20:30                                       Camden
-  27/11 11:30                                       Camden
-  27/11 14:30                                       Camden
-  27/11 16:10                                       Camden
-  27/11 17:30                                       Camden
-  27/11 19:30                                       Camden
-  27/11 20:30                                       Camden
-  28/11 11:30                                       Camden
-  28/11 14:30                                       Camden
-  28/11 17:30                                       Camden
-  28/11 20:30                                       Camden
-  29/11 11:30                                       Camden
-  29/11 14:30                                       Camden
-  29/11 17:30                                       Camden
-  29/11 20:30                                       Camden
-  30/11 11:00                                       Camden
-  30/11 14:00                                       Camden
-  30/11 17:00                                       Camden
-  30/11 20:00                                       Camden
-  03/12 11:30                                       Camden
-  03/12 14:30                                       Camden
-  03/12 17:30                                       Camden
-  03/12 20:30                                       Camden
-  04/12 11:30                                       Camden
-  04/12 14:30                                       Camden
-  04/12 17:30                                       Camden
-  04/12 20:30                                       Camden
-  25/11 12:30                                       Hoxton
-  25/11 14:00                                       Hoxton
-  25/11 17:15                                       Hoxton
-  25/11 20:20                                       Hoxton
-  26/11 11:45                                       Hoxton
-  26/11 15:10                                       Hoxton
-  26/11 17:15                                       Hoxton
-  26/11 20:20                                       Hoxton
-  27/11 11:45                                       Hoxton
-  27/11 15:10                                       Hoxton
-  27/11 17:15                                       Hoxton
-  27/11 20:20                                       Hoxton
-  25/11 11:30                                       Mayfair
-  25/11 14:40                                       Mayfair
-  25/11 17:20                                       Mayfair
-  25/11 20:50                                       Mayfair
-  26/11 11:40                                       Mayfair
-  26/11 14:50                                       Mayfair
-  26/11 17:20                                       Mayfair
-  26/11 20:30                                       Mayfair
-  27/11 11:40                                       Mayfair
-  27/11 14:45                                       Mayfair
-  27/11 17:40                                       Mayfair
-  27/11 20:50                                       Mayfair
-  25/11 11:40                                       Soho
-  25/11 14:40                                       Soho
-  25/11 17:30                                       Soho
-  25/11 20:40                                       Soho
-  26/11 11:00                                       Soho
-  26/11 14:15                                       Soho
-  26/11 17:20                                       Soho
-  26/11 21:00                                       Soho
-  27/11 11:40                                       Soho
-  27/11 14:40                                       Soho
-  27/11 17:40                                       Soho
-  27/11 20:40                                       Soho
-  25/11 12:00                                       Victoria
-  25/11 13:30                                       Victoria
-  25/11 15:00                                       Victoria
-  25/11 16:30                                       Victoria
-  25/11 18:00                                       Victoria
-  25/11 19:30                                       Victoria
-  25/11 21:00                                       Victoria
-  26/11 12:00                                       Victoria
-  26/11 13:30                                       Victoria
-  26/11 15:00                                       Victoria
-  26/11 16:30                                       Victoria
-  26/11 18:00                                       Victoria
-  26/11 19:30                                       Victoria
-  26/11 21:00                                       Victoria
-  27/11 11:30                                       Victoria
-  27/11 13:15                                       Victoria
-  27/11 14:15                                       Victoria
-  27/11 18:00                                       Victoria
-  27/11 19:30                                       Victoria
-  27/11 20:15                                       Victoria
-  28/11 12:00                                       Victoria
-  28/11 15:00                                       Victoria
-  28/11 18:00                                       Victoria
-  28/11 21:00                                       Victoria
-  29/11 11:00                                       Victoria
-  29/11 14:00                                       Victoria
-  29/11 17:00                                       Victoria
-  29/11 20:00                                       Victoria
-  30/11 11:15                                       Victoria
-  30/11 14:15                                       Victoria
-  30/11 17:15                                       Victoria
-  30/11 20:15                                       Victoria
-  01/12 12:00                                       Victoria
-  01/12 15:00                                       Victoria
-  01/12 18:00                                       Victoria
-  01/12 21:00                                       Victoria
-  02/12 11:30                                       Victoria
-  02/12 14:30                                       Victoria
-  02/12 17:30                                       Victoria
-  02/12 20:30                                       Victoria
-  03/12 18:00                                       Victoria
-  03/12 21:00                                       Victoria
-  04/12 12:00                                       Victoria
-  04/12 15:00                                       Victoria
-  04/12 18:00                                       Victoria
-  04/12 21:00                                       Victoria
-Zodiac Killer Project                              
-  11/12 18:20                                       Soho
-Zootropolis 2                                      
-  28/11 12:00                                       Victoria
-  28/11 15:45                                       Victoria
-  28/11 17:45                                       Victoria
-  28/11 21:15                                       Victoria
-  29/11 12:15                                       Victoria
-  29/11 15:00                                       Victoria
-  29/11 17:15                                       Victoria
-  29/11 21:15                                       Victoria
-  30/11 11:30                                       Victoria
-  30/11 14:15                                       Victoria
-  30/11 17:00                                       Victoria
-  30/11 19:30                                       Victoria
-  01/12 12:15                                       Victoria
-  01/12 15:30                                       Victoria
-  01/12 21:15                                       Victoria
-  02/12 12:00                                       Victoria
-  02/12 15:30                                       Victoria
-  02/12 17:45                                       Victoria
-  02/12 21:00                                       Victoria
-  03/12 11:45                                       Victoria
-  03/12 15:45                                       Victoria
-  03/12 17:45                                       Victoria
-  03/12 21:15                                       Victoria
-  04/12 11:45                                       Victoria
-  04/12 15:45                                       Victoria
-  04/12 17:45                                       Victoria
-  04/12 21:15                                       Victoria
 
 
 
@@ -1873,86 +612,6 @@ Zootropolis 2
 BY CINEMA ALL TIME
 =================================
 Aldgate                                               
-  Wicked: For Good                                     25/11 10:40
-  Private Hire Kids Screening                          25/11 11:00
-  Jay Kelly                                            25/11 11:30
-  Wicked: For Good                                     25/11 11:50
-  Bugonia                                              25/11 13:15
-  Wicked: For Good                                     25/11 14:00
-  The Running Man                                      25/11 14:40
-  Wicked: For Good                                     25/11 15:00
-  One Battle After Another                             25/11 16:00
-  Wicked: For Good                                     25/11 17:10
-  The Running Man                                      25/11 17:50
-  Wicked: For Good                                     25/11 18:10
-  Wicked: For Good                                     25/11 19:30
-  Wicked: For Good                                     25/11 20:20
-  Jay Kelly                                            25/11 20:50
-  Bugonia                                              25/11 21:15
-  Wicked: For Good                                     26/11 11:00
-  Jay Kelly                                            26/11 11:40
-  The Running Man                                      26/11 12:00
-  Wake Up Dead Man: A Knives Out Mystery               26/11 13:00
-  Wicked: For Good                                     26/11 14:00
-  Bugonia                                              26/11 14:40
-  Wicked: For Good                                     26/11 15:00
-  One Battle After Another                             26/11 16:20
-  Wicked: For Good                                     26/11 17:20
-  The Running Man                                      26/11 17:40
-  Wicked: For Good                                     26/11 18:00
-  Wake Up Dead Man: A Knives Out Mystery               26/11 20:00
-  Wicked: For Good                                     26/11 20:30
-  Jay Kelly                                            26/11 20:50
-  Bugonia                                              26/11 21:10
-  Bugonia                                              27/11 10:40
-  Wicked: For Good                                     27/11 11:00
-  Jay Kelly                                            27/11 11:40
-  Wicked: For Good                                     27/11 12:00
-  Wake Up Dead Man: A Knives Out Mystery               27/11 13:40
-  Wicked: For Good                                     27/11 14:00
-  Wicked: For Good                                     27/11 15:00
-  The Running Man                                      27/11 15:20
-  The Running Man                                      27/11 17:00
-  Wicked: For Good                                     27/11 17:20
-  Wicked: For Good                                     27/11 18:00
-  National Theatre Live: The Fifth Step                27/11 18:20
-  Wake Up Dead Man: A Knives Out Mystery               27/11 20:00
-  Wicked: For Good                                     27/11 20:30
-  Jay Kelly                                            27/11 20:50
-  Bugonia                                              27/11 21:10
-  Wicked: For Good                                     28/11 11:40
-  Wicked: For Good                                     28/11 14:40
-  Wicked: For Good                                     28/11 17:40
-  Wicked: For Good                                     28/11 20:40
-  Wake Up Dead Man: A Knives Out Mystery               28/11 21:00
-  Wicked: For Good                                     29/11 11:10
-  Wicked: For Good                                     29/11 14:10
-  Wicked: For Good                                     29/11 17:40
-  Wicked: For Good                                     29/11 20:40
-  Wake Up Dead Man: A Knives Out Mystery               29/11 21:00
-  Wicked: For Good                                     30/11 11:20
-  Wicked: For Good                                     30/11 14:20
-  Wicked: For Good                                     30/11 17:20
-  Wicked: For Good                                     30/11 20:20
-  Wake Up Dead Man: A Knives Out Mystery               30/11 20:40
-  Wicked: For Good                                     01/12 11:40
-  Wicked: For Good                                     01/12 14:40
-  Wicked: For Good                                     01/12 17:40
-  Wicked: For Good                                     01/12 20:40
-  Wake Up Dead Man: A Knives Out Mystery               01/12 21:00
-  Wicked: For Good                                     02/12 11:40
-  Wicked: For Good                                     02/12 14:40
-  Wicked: For Good                                     02/12 17:40
-  Wicked: For Good                                     02/12 20:40
-  Wicked: For Good                                     03/12 11:40
-  Wicked: For Good                                     03/12 14:40
-  Wicked: For Good                                     03/12 17:40
-  Wicked: For Good                                     03/12 20:40
-  Wicked: For Good                                     04/12 11:40
-  Wicked: For Good                                     04/12 14:40
-  Wicked: For Good                                     04/12 17:40
-  Wicked: For Good                                     04/12 20:40
-  Film Club: Lost Highway                              09/12 18:00
   Film Club: The Elephant Man                          17/12 18:00
   Avatar: Fire and Ash                                 19/12 11:00
   Avatar: Fire and Ash 3D                              19/12 11:45
@@ -1992,130 +651,6 @@ Aldgate
   Film Club: Sunset Boulevard                          31/12 15:00
   National Theatre Live: Hamlet                        22/01 19:00
 Bloomsbury                                            
-  Left-Handed Girl                                     25/11 11:00
-  Die My Love                                          25/11 11:10
-  The Mastermind                                       25/11 11:40
-  Jay Kelly                                            25/11 12:00
-  Palestine 36                                         25/11 12:40
-  Game                                                 25/11 13:30
-  The Ice Tower                                        25/11 13:50
-  The Mastermind                                       25/11 14:10
-  Bugonia                                              25/11 14:50
-  DocHouse: The Propagandist                           25/11 15:00
-  Palestine 36                                         25/11 15:20
-  Die My Love                                          25/11 15:30
-  Dragonfly                                            25/11 16:30
-  The Mastermind                                       25/11 16:40
-  Jay Kelly                                            25/11 17:30
-  Palestine 36                                         25/11 18:10
-  DocHouse: Coexistence, My Ass                        25/11 18:20
-  Game                                                 25/11 19:00
-  RBO Cinema Season 2025-26: Cinderella                25/11 19:15
-  Bugonia                                              25/11 20:20
-  DocHouse: Testimony                                  25/11 20:50
-  Die My Love                                          25/11 21:00
-  Left-Handed Girl                                     25/11 21:10
-  The Ice Tower                                        25/11 21:20
-  Left-Handed Girl                                     26/11 11:00
-  Wake Up Dead Man: A Knives Out Mystery               26/11 11:30
-  The Ice Tower                                        26/11 11:45
-  Jay Kelly                                            26/11 12:20
-  Palestine 36                                         26/11 12:40
-  Game                                                 26/11 13:30
-  Die My Love                                          26/11 14:20
-  Wake Up Dead Man: A Knives Out Mystery               26/11 14:30
-  DocHouse: Testimony                                  26/11 15:00
-  Bugonia                                              26/11 15:10
-  Palestine 36                                         26/11 15:20
-  The Mastermind                                       26/11 15:30
-  Dragonfly                                            26/11 17:00
-  Wake Up Dead Man: A Knives Out Mystery               26/11 17:50
-  Palestine 36                                         26/11 18:00
-  Pillion                                              26/11 18:10
-  DocHouse: Still Pushing Pineapples                   26/11 18:20
-  Game                                                 26/11 19:15
-  The Ice Tower                                        26/11 20:30
-  Jay Kelly                                            26/11 20:40
-  Wake Up Dead Man: A Knives Out Mystery               26/11 20:50
-  DocHouse: Predators                                  26/11 21:00
-  Die My Love                                          26/11 21:10
-  Left-Handed Girl                                     26/11 21:20
-  Left-Handed Girl                                     27/11 11:00
-  Jay Kelly                                            27/11 11:10
-  Palestine 36                                         27/11 12:00
-  Wake Up Dead Man: A Knives Out Mystery               27/11 12:10
-  Die My Love                                          27/11 12:30
-  Game                                                 27/11 13:30
-  The Ice Tower                                        27/11 14:00
-  The Mastermind                                       27/11 14:50
-  DocHouse: Predators                                  27/11 15:00
-  Bugonia                                              27/11 15:10
-  Wake Up Dead Man: A Knives Out Mystery               27/11 15:20
-  Palestine 36                                         27/11 15:40
-  Dragonfly                                            27/11 16:45
-  Palestine 36                                         27/11 17:20
-  Wake Up Dead Man: A Knives Out Mystery               27/11 17:50
-  DocHouse: Testimony                                  27/11 18:10
-  National Theatre Live: The Fifth Step                27/11 18:20
-  Jay Kelly                                            27/11 18:30
-  Game                                                 27/11 19:00
-  The Ice Tower                                        27/11 20:00
-  Wake Up Dead Man: A Knives Out Mystery               27/11 20:15
-  DocHouse: The Propagandist                           27/11 20:30
-  Bugonia                                              27/11 20:50
-  Left-Handed Girl                                     27/11 21:00
-  The Mastermind                                       27/11 21:20
-  Wake Up Dead Man: A Knives Out Mystery               28/11 18:00
-  DocHouse: Fiume O Morte!                             28/11 18:10
-  Wake Up Dead Man: A Knives Out Mystery               28/11 20:40
-  DocHouse: LMFF: MORIA SIX                            29/11 15:30
-  National Theatre Live: The Fifth Step                29/11 16:00
-  Wake Up Dead Man: A Knives Out Mystery               29/11 18:00
-  DocHouse: LMFF: Shorts Competition                   29/11 18:10
-  DocHouse: The Voice of Hind Rajab                    29/11 20:00
-  Wake Up Dead Man: A Knives Out Mystery               29/11 20:20
-  DocHouse: Fiume O Morte!                             30/11 14:00
-  Film Club: Twin Peaks: Fire Walk with Me             30/11 14:30
-  DocHouse: Hacking Hate                               30/11 16:10
-  Wake Up Dead Man: A Knives Out Mystery               30/11 17:30
-  Wake Up Dead Man: A Knives Out Mystery               30/11 19:50
-  Wake Up Dead Man: A Knives Out Mystery               01/12 18:00
-  Wake Up Dead Man: A Knives Out Mystery               02/12 18:00
-  DocHouse: Fiume O Morte!                             02/12 18:10
-  DocHouse: Hacking Hate                               02/12 20:20
-  DocHouse: Hacking Hate                               03/12 16:00
-  Wake Up Dead Man: A Knives Out Mystery               03/12 18:00
-  DocHouse: Taylor                                     03/12 18:20
-  It Was Just An Accident                              04/12 11:00
-  Wake Up Dead Man: A Knives Out Mystery               04/12 18:00
-  DocHouse: Hacking Hate                               04/12 18:20
-  DocHouse: Fiume O Morte!                             04/12 20:10
-  Peter Hujar’s Day                                    05/12 18:00
-  DocHouse: Cover-Up                                   05/12 18:20
-  DocHouse: Folktales                                  05/12 20:40
-  DocHouse: Aspen                                      06/12 14:30
-  DocHouse: Folktales                                  06/12 18:00
-  DocHouse: Cover-Up                                   06/12 20:10
-  DocHouse: Rhino                                      07/12 13:45
-  Film Club: The Short Films of David Lynch            07/12 14:00
-  DocHouse: Folktales                                  07/12 15:30
-  DocHouse: Cover-Up                                   07/12 17:40
-  DocHouse: Colossal Wreck                             08/12 18:20
-  DocHouse: Folktales                                  09/12 18:20
-  DocHouse: Cover-Up                                   09/12 20:30
-  DocHouse: Cover-Up                                   10/12 15:00
-  DocHouse: Made of Truth: Made of Us                  10/12 18:20
-  RBO Cinema Season 2025-26: The Nutcracker            10/12 19:15
-  DocHouse: Folktales                                  11/12 16:00
-  DocHouse: Cover-Up                                   11/12 18:20
-  DocHouse: The Tale of Silyan                         12/12 18:20
-  DocHouse: Prime Minister                             12/12 20:00
-  DocHouse: The Tale of Silyan                         13/12 16:30
-  Met Opera 2025-26: Andrea Chénier                    13/12 18:00
-  DocHouse: Prime Minister                             13/12 18:20
-  DocHouse: Prime Minister                             14/12 12:30
-  DocHouse: Public Housing                             14/12 14:30
-  DocHouse: The Tale of Silyan                         14/12 18:10
   DocHouse: The Tale of Silyan                         16/12 18:20
   DocHouse: Prime Minister                             16/12 20:00
   DocHouse: Prime Minister                             17/12 18:20
@@ -2159,110 +694,6 @@ Bloomsbury
   Met Opera 2025-26: Eugene Onegin                     05/05 17:00
   Met Opera 2026: El Último Sueño de Frida y Diego     30/05 17:00
 Camden                                                
-  The House of Mirth (Re-release)                      25/11 11:00
-  Wicked: For Good                                     25/11 11:30
-  The Stringer: The Man Who Took the Photo             25/11 11:45
-  Jay Kelly                                            25/11 12:00
-  Wicked: For Good                                     25/11 13:30
-  Bugonia                                              25/11 14:10
-  Wicked: For Good                                     25/11 14:30
-  Palestine 36                                         25/11 15:00
-  Alpha                                                25/11 15:30
-  Wicked: For Good                                     25/11 16:30
-  The Stringer: The Man Who Took the Photo             25/11 17:10
-  Wicked: For Good                                     25/11 17:30
-  Pillion                                              25/11 18:00
-  Wicked: For Good                                     25/11 18:20
-  Wicked: For Good                                     25/11 19:30
-  Frankenstein                                         25/11 19:50
-  Wicked: For Good                                     25/11 20:30
-  Jay Kelly                                            25/11 20:50
-  Die My Love                                          25/11 21:15
-  The Stringer: The Man Who Took the Photo             26/11 11:00
-  Jay Kelly                                            26/11 11:15
-  Wicked: For Good                                     26/11 11:30
-  Wake Up Dead Man: A Knives Out Mystery               26/11 12:00
-  Palestine 36                                         26/11 12:30
-  Alpha                                                26/11 13:20
-  Wake Up Dead Man: A Knives Out Mystery               26/11 14:10
-  Wicked: For Good                                     26/11 14:30
-  Die My Love                                          26/11 15:00
-  Bugonia                                              26/11 15:20
-  Wicked: For Good                                     26/11 16:10
-  Jay Kelly                                            26/11 17:10
-  Wicked: For Good                                     26/11 17:30
-  Wake Up Dead Man: A Knives Out Mystery               26/11 17:45
-  Pulling Focus: Triangle of Sadness                   26/11 18:00
-  Wicked: For Good                                     26/11 19:30
-  Wake Up Dead Man: A Knives Out Mystery               26/11 20:10
-  Wicked: For Good                                     26/11 20:30
-  Die My Love                                          26/11 20:50
-  The Stringer: The Man Who Took the Photo             26/11 21:10
-  The Stringer: The Man Who Took the Photo             27/11 11:00
-  Jay Kelly                                            27/11 11:15
-  Wicked: For Good                                     27/11 11:30
-  Wake Up Dead Man: A Knives Out Mystery               27/11 11:50
-  Palestine 36                                         27/11 12:30
-  Alpha                                                27/11 13:20
-  Wake Up Dead Man: A Knives Out Mystery               27/11 14:10
-  Wicked: For Good                                     27/11 14:30
-  Die My Love                                          27/11 15:00
-  Bugonia                                              27/11 15:20
-  Wicked: For Good                                     27/11 16:10
-  Jay Kelly                                            27/11 17:10
-  Wicked: For Good                                     27/11 17:30
-  Wake Up Dead Man: A Knives Out Mystery               27/11 17:50
-  National Theatre Live: The Fifth Step                27/11 18:20
-  Wicked: For Good                                     27/11 19:30
-  Wake Up Dead Man: A Knives Out Mystery               27/11 20:10
-  Wicked: For Good                                     27/11 20:30
-  Die My Love                                          27/11 20:50
-  The Stringer: The Man Who Took the Photo             27/11 21:10
-  Wicked: For Good                                     28/11 11:30
-  Wicked: For Good                                     28/11 14:30
-  Wicked: For Good                                     28/11 17:30
-  Wake Up Dead Man: A Knives Out Mystery               28/11 18:10
-  Wake Up Dead Man: A Knives Out Mystery               28/11 20:10
-  Wicked: For Good                                     28/11 20:30
-  Kids Club: Pets on a Train                           29/11 10:30
-  Wicked: For Good                                     29/11 11:30
-  Wicked: For Good                                     29/11 14:30
-  Wicked: For Good                                     29/11 17:30
-  The Voice of Hind Rajab                              29/11 17:50
-  Wake Up Dead Man: A Knives Out Mystery               29/11 18:10
-  Wake Up Dead Man: A Knives Out Mystery               29/11 20:10
-  Wicked: For Good                                     29/11 20:30
-  Wicked: For Good                                     30/11 11:00
-  Wicked: For Good                                     30/11 14:00
-  Wicked: For Good                                     30/11 17:00
-  National Theatre Live: The Fifth Step                30/11 17:20
-  Wake Up Dead Man: A Knives Out Mystery               30/11 17:40
-  Wake Up Dead Man: A Knives Out Mystery               30/11 19:40
-  Wicked: For Good                                     30/11 20:00
-  Wicked: For Good                                     03/12 11:30
-  Wicked: For Good                                     03/12 14:30
-  Wicked: For Good                                     03/12 17:30
-  Wake Up Dead Man: A Knives Out Mystery               03/12 18:10
-  Wake Up Dead Man: A Knives Out Mystery               03/12 20:10
-  Wicked: For Good                                     03/12 20:30
-  It Was Just An Accident                              03/12 21:00
-  Wicked: For Good                                     04/12 11:30
-  Wicked: For Good                                     04/12 14:30
-  Wicked: For Good                                     04/12 17:30
-  Wake Up Dead Man: A Knives Out Mystery               04/12 18:10
-  Wake Up Dead Man: A Knives Out Mystery               04/12 20:10
-  Wicked: For Good                                     04/12 20:30
-  Prime Minister                                       05/12 17:30
-  Kids Club: How the Grinch Stole Christmas            06/12 10:30
-  Prime Minister                                       06/12 17:30
-  Prime Minister                                       07/12 17:00
-  Prime Minister                                       08/12 17:30
-  Prime Minister                                       09/12 17:30
-  Prime Minister                                       10/12 17:30
-  Film Club: Wild at Heart                             10/12 18:00
-  Prime Minister                                       11/12 17:30
-  Kids Club: Elf                                       13/12 10:30
-  Film Club: The Wizard of Oz                          14/12 15:00
   Film Club: Lost Highway                              17/12 18:00
   Avatar: Fire and Ash                                 19/12 11:30
   Avatar: Fire and Ash                                 19/12 15:30
@@ -2295,53 +726,6 @@ Camden
   Film Club: Sunset Boulevard                          31/12 15:00
   National Theatre Live: Hamlet                        22/01 19:00
 Hoxton                                                
-  Left-Handed Girl                                     25/11 12:15
-  Wicked: For Good                                     25/11 12:30
-  Wicked: For Good                                     25/11 14:00
-  Die My Love                                          25/11 15:00
-  Bugonia                                              25/11 15:30
-  Wicked: For Good                                     25/11 17:15
-  Die My Love                                          25/11 17:50
-  Bugonia                                              25/11 18:15
-  Wicked: For Good                                     25/11 20:20
-  Left-Handed Girl                                     25/11 20:40
-  Pillion                                              25/11 21:00
-  Left-Handed Girl                                     26/11 11:30
-  Wicked: For Good                                     26/11 11:45
-  Bugonia                                              26/11 12:20
-  Die My Love                                          26/11 14:20
-  Wake Up Dead Man: A Knives Out Mystery               26/11 14:50
-  Wicked: For Good                                     26/11 15:10
-  Wicked: For Good                                     26/11 17:15
-  Bugonia                                              26/11 18:00
-  LPFF 2025: Fragments of Life (Shorts)                26/11 18:20
-  Wicked: For Good                                     26/11 20:20
-  Wake Up Dead Man: A Knives Out Mystery               26/11 20:40
-  Left-Handed Girl                                     26/11 21:00
-  Left-Handed Girl                                     27/11 11:30
-  Wicked: For Good                                     27/11 11:45
-  Bugonia                                              27/11 12:20
-  Die My Love                                          27/11 14:20
-  Wake Up Dead Man: A Knives Out Mystery               27/11 14:50
-  Wicked: For Good                                     27/11 15:10
-  Wicked: For Good                                     27/11 17:15
-  Bugonia                                              27/11 18:00
-  LPFF 2025: The Jacket                                27/11 18:20
-  Wicked: For Good                                     27/11 20:20
-  Wake Up Dead Man: A Knives Out Mystery               27/11 20:40
-  Left-Handed Girl                                     27/11 21:00
-  Wake Up Dead Man: A Knives Out Mystery               28/11 18:00
-  Kids Club: Pets on a Train                           29/11 10:30
-  Wake Up Dead Man: A Knives Out Mystery               29/11 18:00
-  The Voice of Hind Rajab                              29/11 18:40
-  Film Club: Mulholland Drive                          30/11 14:00
-  Wake Up Dead Man: A Knives Out Mystery               30/11 17:40
-  Wake Up Dead Man: A Knives Out Mystery               01/12 18:00
-  It Was Just An Accident                              02/12 18:20
-  Kids Club: How the Grinch Stole Christmas            06/12 10:30
-  Film Club: Blue Velvet                               07/12 15:00
-  Kids Club: Elf                                       13/12 10:30
-  Film Club: Eraserhead                                14/12 15:00
   Avatar: Fire and Ash                                 19/12 12:00
   Avatar: Fire and Ash                                 19/12 16:00
   Avatar: Fire and Ash                                 19/12 20:00
@@ -2365,36 +749,6 @@ Hoxton
   Kids Club: The Polar Express                         27/12 10:30
   Film Club: Wild at Heart                             28/12 14:00
 Mayfair                                               
-  Palestine 36                                         25/11 11:15
-  Wicked: For Good                                     25/11 11:30
-  Nuremberg                                            25/11 14:00
-  Wicked: For Good                                     25/11 14:40
-  Wicked: For Good                                     25/11 17:20
-  LPFF 2025: The Mission                               25/11 18:00
-  Nuremberg                                            25/11 20:30
-  Wicked: For Good                                     25/11 20:50
-  Palestine 36                                         26/11 11:15
-  Wicked: For Good                                     26/11 11:40
-  Nuremberg                                            26/11 14:00
-  Wicked: For Good                                     26/11 14:50
-  Wicked: For Good                                     26/11 17:20
-  Wicked: For Good                                     26/11 20:30
-  The Choral                                           26/11 21:20
-  Palestine 36                                         27/11 11:20
-  Wicked: For Good                                     27/11 11:40
-  Nuremberg                                            27/11 14:15
-  Wicked: For Good                                     27/11 14:45
-  Wicked: For Good                                     27/11 17:40
-  Wicked: For Good                                     27/11 20:50
-  The Choral                                           27/11 21:20
-  Film Club: The Elephant Man                          29/11 14:15
-  RBO Cinema Season 2025-26: Cinderella                30/11 14:00
-  Prime Minister                                       01/12 18:00
-  Film Club: The Wizard of Oz                          06/12 14:00
-  Palestine 36                                         12/12 18:00
-  Met Opera 2025-26: Andrea Chénier                    13/12 18:00
-  RBO Cinema Season 2025-26: The Nutcracker            14/12 14:00
-  Film Club: Mulholland Drive                          15/12 18:00
   Film Club: Monsieur Hulots Holiday                   16/12 18:00
   Film Club: Rear Window                               17/12 18:00
   Film Club: 8½                                        18/12 19:40
@@ -2409,190 +763,12 @@ Mayfair
   Avatar: Fire and Ash                                 23/12 15:00
   Avatar: Fire and Ash                                 23/12 19:15
 Soho                                                  
-  Bugonia                                              25/11 11:20
-  Wicked: For Good                                     25/11 11:40
-  Jay Kelly                                            25/11 12:00
-  Frankenstein                                         25/11 14:15
-  Wicked: For Good                                     25/11 14:40
-  Alpha                                                25/11 15:15
-  Wicked: For Good                                     25/11 17:30
-  Frankenstein                                         25/11 17:50
-  Jay Kelly                                            25/11 18:15
-  Wicked: For Good                                     25/11 20:40
-  Bugonia                                              25/11 21:00
-  Die My Love                                          25/11 21:15
-  Wicked: For Good                                     26/11 11:00
-  Frankenstein                                         26/11 11:20
-  Jay Kelly                                            26/11 11:40
-  Wicked: For Good                                     26/11 14:15
-  Die My Love                                          26/11 14:45
-  Wicked: For Good                                     26/11 17:20
-  Jay Kelly                                            26/11 17:40
-  Bugonia                                              26/11 18:20
-  Alpha                                                26/11 20:40
-  Wicked: For Good                                     26/11 21:00
-  Frankenstein                                         27/11 11:00
-  Wicked: For Good                                     27/11 11:40
-  Jay Kelly                                            27/11 12:00
-  Alpha                                                27/11 14:20
-  Wicked: For Good                                     27/11 14:40
-  Bugonia                                              27/11 15:00
-  Frankenstein                                         27/11 17:20
-  Wicked: For Good                                     27/11 17:40
-  RFF 2025: Traffic                                    27/11 18:00
-  Wicked: For Good                                     27/11 20:40
-  Jay Kelly                                            27/11 21:00
-  Bugonia                                              27/11 21:15
-  Wake Up Dead Man: A Knives Out Mystery               28/11 14:40
-  RFF 2025: Housekeeping for Beginners                 28/11 18:00
-  Wake Up Dead Man: A Knives Out Mystery               28/11 20:30
-  The Voice of Hind Rajab                              29/11 15:40
-  RFF 2025: Forest of the Hanged (4K Restoration)      29/11 17:40
-  Wake Up Dead Man: A Knives Out Mystery               30/11 13:50
-  RFF 2025: The Spruce Forest                          30/11 14:20
-  RFF 2025: The Death of Mr Lazarescu                  30/11 17:00
-  Wake Up Dead Man: A Knives Out Mystery               30/11 20:20
-  RFF 2025: Kontinental 25                             01/12 18:00
-  It Was Just An Accident                              02/12 18:20
-  Plainclothes                                         04/12 18:00
-  Film Club: Eraserhead                                06/12 17:00
-  Zodiac Killer Project                                11/12 18:20
-  Senseless Things - Live at Shepherds Bush Empire!    13/12 18:00
-  Film Club: Blue Velvet                               14/12 15:00
   Khartoum                                             16/12 18:00
   Film Club: Mulholland Drive                          20/12 14:00
   Film Club: The Apartment                             21/12 14:00
   Sentimental Value                                    22/12 18:00
   Film Club: Lost Highway                              27/12 15:00
 Victoria                                              
-  The House of Mirth (Re-release)                      25/11 11:00
-  Wicked: For Good                                     25/11 12:00
-  The Choral                                           25/11 12:15
-  Palestine 36                                         25/11 12:30
-  Wicked: For Good                                     25/11 13:30
-  Bugonia                                              25/11 14:15
-  The Choral                                           25/11 15:00
-  Wicked: For Good                                     25/11 15:00
-  One Battle After Another                             25/11 15:15
-  Wicked: For Good                                     25/11 16:30
-  Jay Kelly                                            25/11 17:00
-  The Choral                                           25/11 17:45
-  Wicked: For Good                                     25/11 18:00
-  RBO Cinema Season 2025-26: Cinderella                25/11 19:15
-  Wicked: For Good                                     25/11 19:30
-  One Battle After Another                             25/11 20:00
-  The Running Man                                      25/11 20:30
-  Wicked: For Good                                     25/11 21:00
-  Palestine 36                                         26/11 10:45
-  Wake Up Dead Man: A Knives Out Mystery               26/11 11:00
-  Bugonia                                              26/11 11:45
-  Wicked: For Good                                     26/11 12:00
-  The Choral                                           26/11 12:15
-  Wicked: For Good                                     26/11 13:30
-  Wake Up Dead Man: A Knives Out Mystery               26/11 14:00
-  One Battle After Another                             26/11 14:30
-  Jay Kelly                                            26/11 14:45
-  Wicked: For Good                                     26/11 15:00
-  Wicked: For Good                                     26/11 16:30
-  Wake Up Dead Man: A Knives Out Mystery               26/11 17:00
-  The Choral                                           26/11 17:45
-  Wicked: For Good                                     26/11 18:00
-  Wicked: For Good                                     26/11 19:30
-  Wake Up Dead Man: A Knives Out Mystery               26/11 20:15
-  Jay Kelly                                            26/11 20:30
-  Wicked: For Good                                     26/11 21:00
-  Wake Up Dead Man: A Knives Out Mystery               27/11 11:00
-  Jay Kelly                                            27/11 11:15
-  Wicked: For Good                                     27/11 11:30
-  The Choral                                           27/11 12:15
-  Wicked: For Good                                     27/11 13:15
-  Wake Up Dead Man: A Knives Out Mystery               27/11 14:00
-  Wicked: For Good                                     27/11 14:15
-  The Choral                                           27/11 15:00
-  National Theatre Live: The Fifth Step                27/11 16:15
-  Wake Up Dead Man: A Knives Out Mystery               27/11 17:00
-  National Theatre Live: The Fifth Step                27/11 17:30
-  The Choral                                           27/11 17:45
-  Wicked: For Good                                     27/11 18:00
-  National Theatre Live: The Fifth Step                27/11 18:20
-  Wicked: For Good                                     27/11 19:30
-  Wake Up Dead Man: A Knives Out Mystery               27/11 20:00
-  Wicked: For Good                                     27/11 20:15
-  One Battle After Another                             27/11 20:30
-  Jay Kelly                                            27/11 21:00
-  Wicked: For Good                                     28/11 12:00
-  Zootropolis 2                                        28/11 12:00
-  Wicked: For Good                                     28/11 15:00
-  Zootropolis 2                                        28/11 15:45
-  Zootropolis 2                                        28/11 17:45
-  Wicked: For Good                                     28/11 18:00
-  Wake Up Dead Man: A Knives Out Mystery               28/11 18:15
-  Wake Up Dead Man: A Knives Out Mystery               28/11 20:15
-  Wicked: For Good                                     28/11 21:00
-  Zootropolis 2                                        28/11 21:15
-  Wicked: For Good                                     29/11 11:00
-  Zootropolis 2                                        29/11 12:15
-  Wicked: For Good                                     29/11 14:00
-  Zootropolis 2                                        29/11 15:00
-  Wicked: For Good                                     29/11 17:00
-  Zootropolis 2                                        29/11 17:15
-  Wake Up Dead Man: A Knives Out Mystery               29/11 17:30
-  Wicked: For Good                                     29/11 20:00
-  Wake Up Dead Man: A Knives Out Mystery               29/11 20:45
-  Zootropolis 2                                        29/11 21:15
-  Wicked: For Good                                     30/11 11:15
-  Zootropolis 2                                        30/11 11:30
-  RBO Cinema Season 2025-26: Cinderella                30/11 14:00
-  Wicked: For Good                                     30/11 14:15
-  Zootropolis 2                                        30/11 14:15
-  Wake Up Dead Man: A Knives Out Mystery               30/11 16:45
-  Zootropolis 2                                        30/11 17:00
-  Wicked: For Good                                     30/11 17:15
-  Zootropolis 2                                        30/11 19:30
-  Wake Up Dead Man: A Knives Out Mystery               30/11 20:00
-  Wicked: For Good                                     30/11 20:15
-  Wicked: For Good                                     01/12 12:00
-  Zootropolis 2                                        01/12 12:15
-  Wicked: For Good                                     01/12 15:00
-  Zootropolis 2                                        01/12 15:30
-  Wake Up Dead Man: A Knives Out Mystery               01/12 17:45
-  Wicked: For Good                                     01/12 18:00
-  Wake Up Dead Man: A Knives Out Mystery               01/12 20:45
-  Wicked: For Good                                     01/12 21:00
-  Zootropolis 2                                        01/12 21:15
-  Wicked: For Good                                     02/12 11:30
-  Zootropolis 2                                        02/12 12:00
-  Wicked: For Good                                     02/12 14:30
-  Zootropolis 2                                        02/12 15:30
-  Wicked: For Good                                     02/12 17:30
-  Zootropolis 2                                        02/12 17:45
-  Wake Up Dead Man: A Knives Out Mystery               02/12 18:00
-  Wake Up Dead Man: A Knives Out Mystery               02/12 20:15
-  Wicked: For Good                                     02/12 20:30
-  Zootropolis 2                                        02/12 21:00
-  Zootropolis 2                                        03/12 11:45
-  Zootropolis 2                                        03/12 15:45
-  Zootropolis 2                                        03/12 17:45
-  Wicked: For Good                                     03/12 18:00
-  Wake Up Dead Man: A Knives Out Mystery               03/12 18:15
-  Film Club: Mulholland Drive                          03/12 20:00
-  Wake Up Dead Man: A Knives Out Mystery               03/12 20:15
-  Wicked: For Good                                     03/12 21:00
-  Zootropolis 2                                        03/12 21:15
-  Zootropolis 2                                        04/12 11:45
-  Wicked: For Good                                     04/12 12:00
-  Wicked: For Good                                     04/12 15:00
-  Zootropolis 2                                        04/12 15:45
-  Zootropolis 2                                        04/12 17:45
-  Wicked: For Good                                     04/12 18:00
-  Wake Up Dead Man: A Knives Out Mystery               04/12 18:15
-  Wake Up Dead Man: A Knives Out Mystery               04/12 20:15
-  Wicked: For Good                                     04/12 21:00
-  Zootropolis 2                                        04/12 21:15
-  RBO Cinema Season 2025-26: The Nutcracker            10/12 19:15
-  THE CURE: THE SHOW OF A LOST WORLD                   11/12 18:00
-  Met Opera 2025-26: Andrea Chénier                    13/12 18:00
-  RBO Cinema Season 2025-26: The Nutcracker            14/12 14:00
   Film Club: Blue Velvet                               16/12 18:00
   Avatar: Fire and Ash 3D                              19/12 11:00
   Avatar: Fire and Ash                                 19/12 14:15

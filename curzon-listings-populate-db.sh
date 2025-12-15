@@ -4,10 +4,11 @@ cd $(dirname ${BASH_SOURCE[0]})
 
 DBFILE=curzon-showtimes.db
 JSONFILE=curzon_tokens.json
+JSONFILE_CLEANED=curzon_tokens_cleaned.json
 TODAY="$(date +%Y-%m-%d)"
 NODE="/home/imiell/.nvm/versions/node/v22.17.1/bin/node"
 
-if [ -f "${DBFILE}" ] && [ "$(date -r "${DBFILE}" +%Y-%m-%d)" = ${TODAY} ] && [ $(($(date +%s) - $(stat -c %Y "${DBFILE}"))) -lt 1800 ]
+if [ -f "${DBFILE}" ] && [ "$(date -r "${DBFILE}" +%Y-%m-%d)" = ${TODAY} ] && [ $(($(date +%s) - $(stat -c %Y "${DBFILE}"))) -lt 1800 ] && [ ! $FORCE == 1 ]
 then
   :
 else
@@ -41,6 +42,7 @@ else
       "\($time)|\($title)|\($show.location);"
     '
   )
+  cat "${JSONFILE}" | jq -r '.bearerTokens[] | select(.key == "VistaOmnichannelComponents::browsing-domain-store") | .value' | jq -r '.' > "${JSONFILE_CLEANED}"
   IFS_BACKUP="${IFS}"
   IFS=';'
   (

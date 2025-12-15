@@ -23,8 +23,10 @@ SQL
 
 (
 echo -e "=================================\nVENUE GUIDE\n================================="
-echo -e "Soho:\n\tscreen 2 back is good"
+echo -e "Soho:\n\tscreen 2 back is good\n\tscreen 3 front good, back bad"
 echo -e "Victoria:\n\tscreen 2 back a bit cramped, front looked ok"
+echo -e "Hoxton:\n\tscreen 1 back good"
+
 
 echo -e "=================================\nBY FILM TODAY\n================================="
 $SQLITE_BIN "${DBFILE}" -cmd ".headers off" -cmd ".mode list" "$LOCATION_CTE
@@ -154,6 +156,9 @@ SELECT
    ORDER BY COALESCE(n.name, l.code), min(fs.starts_at);" | column -t -s '|'
 ) > "${OUTFILE}"
 
+echo -e "=================================\nFILMS SEENn================================="
+echo -e "Dec 2025:\n\t14 Dec: It was Just an Accident\n\t13 Dec: Nuremberg (I)\n\t7 Dec: Blue Velvet"
+echo -e "Nov 2025:\n\t30 Nov: Jay Kelly (I)\n\t22 Nov: Die My Love\n\t17: Nov The Choral"
 # Folder needs write to be able to copy in imiell cron
 #sudo chmod a+w /var/www/ianmiell.com/curzon-listings
 
