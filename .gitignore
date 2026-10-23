@@ -1,4 +1,6 @@
 venv
-curzon-showtimes*
+cache/
+__pycache__/
 node_modules
+curzon-showtimes*
 curzon_tokens*

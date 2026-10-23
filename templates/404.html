@@ -1,0 +1,5 @@
+{% extends "base.html" %}
+{% block title %}Not found · Curzon listings{% endblock %}
+{% block content %}
+<p class="empty">That page doesn't exist, or the film is no longer showing. <a href="{{ url_for('index') }}">Back to the listings</a>.</p>
+{% endblock %}

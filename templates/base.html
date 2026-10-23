@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% block title %}Curzon listings{% endblock %}</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+  <link rel="icon" href="{{ url_for('static', filename='favicon.svg') }}" type="image/svg+xml">
+</head>
+<body>
+  <header class="masthead">
+    <a class="brand" href="{{ url_for('index') }}">Curzon listings</a>
+    <span class="updated">
+      {%- if fetched_at %}Updated {{ fetched_at.strftime('%a %-d %b %H:%M') }}{% else %}Waiting for the first scrape…{% endif -%}
+    </span>
+  </header>
+  {% if last_error %}<p class="warning">The last update failed, so these listings may be out of date.</p>{% endif %}
+  <main>{% block content %}{% endblock %}</main>
+  <footer>
+    {% if venue_notes %}
+    <details>
+      <summary>Venue notes</summary>
+      <dl>
+        {% for site_id, note in venue_notes.items() %}<dt>{{ all_sites.get(site_id, site_id) }}</dt><dd>{{ note }}</dd>{% endfor %}
+      </dl>
+    </details>
+    {% endif %}
+    {% if seen %}
+    <details>
+      <summary>Films seen</summary>
+      <ul class="seen">{% for line in seen %}<li>{{ line }}</li>{% endfor %}</ul>
+    </details>
+    {% endif %}
+    <p class="small">
+      Scraped from <a href="https://www.curzon.com/">curzon.com</a>. Times link to Curzon's booking page.
+      Also as <a href="{{ url_for('listings_txt', **request.args.to_dict(flat=False)) }}">text</a>
+      or <a href="{{ url_for('listings_json') }}">JSON</a>.
+    </p>
+  </footer>
+</body>
+</html>

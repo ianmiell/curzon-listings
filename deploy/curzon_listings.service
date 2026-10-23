@@ -1,0 +1,15 @@
+[Unit]
+Description=Curzon listings web app
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+User=imiell
+Group=imiell
+WorkingDirectory=/home/imiell/git/curzon-listings
+# One worker: the listings and the scraper thread live in process memory.
+ExecStart=/home/imiell/git/curzon-listings/venv/bin/gunicorn --bind 127.0.0.1:6752 --workers 1 --threads 4 app:app
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
