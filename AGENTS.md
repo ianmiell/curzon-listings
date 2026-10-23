@@ -85,10 +85,3 @@ All seven venues should have showings, with titles (not film IDs) and times.
   `Refs #N` in the body.
 - Deploying is the owner's: `git pull` in `/home/imiell/git/curzon-listings`,
   plus `make install` for changes to the Makefile, `node_modules` or puppeteer.
-
-## Agents
-
-An agent team (monitor, triage, engineer, code-reviewer) maintains this repo
-from `~/git/curzon-listings-agents`; see
-[`ianmiell/software-agents` `teams/curzon`](https://github.com/ianmiell/software-agents/tree/main/teams/curzon).
-Give it work with `gh issue create --label agent-task`.
