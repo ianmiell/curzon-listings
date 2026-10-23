@@ -1,0 +1,21 @@
+{%- set title = ('BY FILM' if view == 'film' else 'BY CINEMA') ~ ', ' ~ ranges[when] | upper -%}
+{{ title }}
+{{ '=' * title | length }}
+{% if view == 'film' -%}
+{% for group in groups %}
+{{ group.film.title }}
+{%- for day, shows in group.days %}
+  {{ day | day }}: {% for show in shows %}{{ show.start | hhmm }} {{ all_sites.get(show.site_id, show.site_id) }}{% if show.sold_out %} (sold out){% endif %}{{ ', ' if not loop.last }}{% endfor %}
+{%- endfor %}
+{% endfor %}
+{%- else -%}
+{% for group in groups %}
+{{ group.name }}
+{%- for day, films in group.days %}
+  {{ day | day }}
+{%- for film, shows in films %}
+    {{ shows | map(attribute='start') | map('hhmm') | join(' ') }}  {{ film.title }}
+{%- endfor %}
+{%- endfor %}
+{% endfor %}
+{%- endif %}

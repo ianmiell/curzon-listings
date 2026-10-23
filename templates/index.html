@@ -1,0 +1,78 @@
+{% extends "base.html" %}
+{% from "_macros.html" import showing, film_meta %}
+{% block content %}
+<form class="controls" method="get" action="{{ url_for('index') }}">
+  <nav class="segmented" aria-label="When">
+    {% for key, label in ranges.items() %}
+    <a href="{{ url_for('index', when=key, by=view, site=sites) }}"{% if key == when %} aria-current="page"{% endif %}>{{ label }}</a>
+    {% endfor %}
+  </nav>
+  <nav class="segmented" aria-label="Group">
+    {% for key, label in views.items() %}
+    <a href="{{ url_for('index', when=when, by=key, site=sites) }}"{% if key == view %} aria-current="page"{% endif %}>{{ label }}</a>
+    {% endfor %}
+  </nav>
+  <fieldset class="cinemas">
+    <legend>Cinemas</legend>
+    <input type="hidden" name="when" value="{{ when }}">
+    <input type="hidden" name="by" value="{{ view }}">
+    {% for site_id, name in all_sites.items() %}
+    <label><input type="checkbox" name="site" value="{{ site_id }}"{% if site_id in sites %} checked{% endif %}> {{ name }}</label>
+    {% endfor %}
+    <button type="submit">Filter</button>
+    {% if sites %}<a class="clear" href="{{ url_for('index', when=when, by=view) }}">All cinemas</a>{% endif %}
+  </fieldset>
+</form>
+
+<p class="summary">
+  {{ count }} showing{{ '' if count == 1 else 's' }}
+  {%- if view == 'film' %} of {{ groups | length }} film{{ '' if groups | length == 1 else 's' }}{% endif %}
+  {%- if sites %} at {% for s in sites %}{{ all_sites[s] }}{{ ', ' if not loop.last }}{% endfor %}{% endif %}.
+</p>
+
+{% if not groups %}
+  <p class="empty">
+    {% if not fetched_at %}No listings yet. The first scrape takes about a minute; reload shortly.
+    {% elif when == 'today' %}Nothing more today. <a href="{{ url_for('index', when='tomorrow', by=view, site=sites) }}">See tomorrow</a>.
+    {% else %}Nothing showing in this range.{% endif %}
+  </p>
+{% elif view == 'film' %}
+  {% for group in groups %}
+  {% set film = group.film %}
+  <article class="film">
+    <h2><a href="{{ url_for('film', film_id=film.id, site=sites) }}">{{ film.title }}</a></h2>
+    {{ film_meta(film) }}
+    {% if film.short_synopsis or film.synopsis %}
+    <details><summary>Synopsis</summary><p class="synopsis">{{ film.synopsis or film.short_synopsis }}</p></details>
+    {% endif %}
+    {% for day, shows in group.days %}
+    <div class="day">
+      {% if group.days | length > 1 or when not in ('today', 'tomorrow') %}<h3>{{ day | day }}</h3>{% endif %}
+      <ul class="times">{% for show in shows %}{{ showing(show, all_sites.get(show.site_id, show.site_id)) }}{% endfor %}</ul>
+    </div>
+    {% endfor %}
+  </article>
+  {% endfor %}
+{% else %}
+  {% for group in groups %}
+  <section class="cinema">
+    <h2>{{ group.name }}</h2>
+    {% if venue_notes.get(group.site_id) %}<p class="note">{{ venue_notes[group.site_id] }}</p>{% endif %}
+    {% for day, films in group.days %}
+    <div class="day">
+      {% if group.days | length > 1 or when not in ('today', 'tomorrow') %}<h3>{{ day | day }}</h3>{% endif %}
+      <table class="schedule">
+        {% for film, shows in films %}
+        <tr>
+          <th scope="row"><a href="{{ url_for('film', film_id=film.id, site=sites) }}">{{ film.title }}</a>
+            {% if film.rating or film.runtime %}<span class="minor">{{ film.rating }}{% if film.rating and film.runtime %} · {% endif %}{% if film.runtime %}{{ film.runtime }} min{% endif %}</span>{% endif %}</th>
+          <td><ul class="times">{% for show in shows %}{{ showing(show, None) }}{% endfor %}</ul></td>
+        </tr>
+        {% endfor %}
+      </table>
+    </div>
+    {% endfor %}
+  </section>
+  {% endfor %}
+{% endif %}
+{% endblock %}

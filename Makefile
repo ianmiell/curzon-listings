@@ -1,28 +1,39 @@
-SCRIPT1 := curzon-listings.sh
-SCRIPT2 := import_showtimes.py
-SCRIPT3 := capture_curzon_headless.js
-TARGET_DIR := /var/www/ianmiell.com/curzon-listings
-OWNER := www-data
-DBFILE:= curzon-showtimes.db
-TARGET1 := $(TARGET_DIR)/$(SCRIPT1)
-TARGET2 := $(TARGET_DIR)/$(SCRIPT2)
-TARGET3 := $(TARGET_DIR)/$(SCRIPT3)
-WWW_DATA_HOME := /var/www
+PORT ?= 6752
+UNIT := curzon_listings.service
 
-.PHONY: install clean run
-install: $(SCRIPT)
-	sudo install -Dm755 $(SCRIPT1) $(TARGET1)
-	sudo install -Dm755 $(SCRIPT2) $(TARGET2)
-	sudo install -Dm755 $(SCRIPT3) $(TARGET3)
-	sudo cp -r node_modules $(TARGET_DIR)
-	sudo mkdir -p $(WWW_DATA_HOME)/.cache
-	sudo cp -r ~/.cache/puppeteer $(WWW_DATA_HOME)/.cache
-	sudo cp package* $(TARGET_DIR)
-	sudo chown -R www-data: $(TARGET_DIR)
-	sudo chown -R www-data: $(WWW_DATA_HOME)/.cache
+.PHONY: venv run scrape check install restart status logs
 
-clean:
-	rm -f $(DBFILE)
+venv: venv/bin/gunicorn
 
-run:
-	curzon-listings.sh
+venv/bin/gunicorn: requirements.txt
+	python3 -m venv venv
+	venv/bin/pip install -q -r requirements.txt
+	touch $@
+
+# Flask dev server on 127.0.0.1:5000
+run: venv
+	venv/bin/flask --app app run
+
+# Scrape once and print the JSON (takes about a minute)
+scrape: venv
+	venv/bin/python curzon.py > /dev/null
+
+check: venv
+	venv/bin/python -m py_compile app.py curzon.py
+	bash -n cat_listings.sh
+	venv/bin/python -c 'import app; c = app.app.test_client(); print(*(c.get(u).status_code for u in ("/", "/?when=all&by=cinema", "/listings.txt", "/health")))'
+
+install: venv
+	sudo install -m 644 deploy/$(UNIT) /etc/systemd/system/$(UNIT)
+	sudo systemctl daemon-reload
+	sudo systemctl enable --now $(UNIT)
+
+restart:
+	sudo systemctl restart $(UNIT)
+
+status:
+	systemctl status --no-pager $(UNIT) || true
+	curl -fsS http://127.0.0.1:$(PORT)/health; echo
+
+logs:
+	journalctl -u $(UNIT) -n 100 --no-pager

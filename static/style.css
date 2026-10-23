@@ -1,0 +1,134 @@
+:root {
+  --bg: #141210;
+  --surface: #1d1a17;
+  --line: #34302b;
+  --text: #f1ebe2;
+  --muted: #a39a8e;
+  --accent: #e8b04a;
+  --accent-text: #1a1408;
+  --chip: #2a2622;
+  --chip-hover: #3a342e;
+  --warn-bg: #4a2a12;
+  --serif: "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, serif;
+  --sans: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  color-scheme: dark;
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+    --bg: #faf7f2;
+    --surface: #ffffff;
+    --line: #e4ddd2;
+    --text: #1d1a17;
+    --muted: #6d655b;
+    --accent: #a8650f;
+    --accent-text: #ffffff;
+    --chip: #f1ebe2;
+    --chip-hover: #e6dccd;
+    --warn-bg: #fbe3c8;
+    color-scheme: light;
+  }
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0 auto;
+  max-width: 64rem;
+  padding: 0 16px 3rem;
+  background: var(--bg);
+  color: var(--text);
+  font: 16px/1.5 var(--sans);
+}
+
+a { color: inherit; text-decoration-color: var(--line); text-underline-offset: 3px; }
+a:hover { text-decoration-color: var(--accent); }
+
+.masthead {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: .25rem 1rem;
+  padding: 1.25rem 0 1rem;
+  border-bottom: 1px solid var(--line);
+}
+.brand { font: 600 1.6rem/1.1 var(--serif); text-decoration: none; letter-spacing: .01em; }
+.updated, .summary, .minor, .small, .meta { color: var(--muted); }
+.updated { font-size: .85rem; }
+
+.warning { background: var(--warn-bg); padding: .5rem .75rem; border-radius: 6px; }
+
+/* Controls */
+.controls { display: flex; flex-wrap: wrap; gap: .75rem 1rem; margin: 1.25rem 0 .5rem; }
+.segmented { display: flex; flex-wrap: wrap; border: 1px solid var(--line); border-radius: 8px; overflow: hidden; }
+.segmented a { padding: .35rem .85rem; text-decoration: none; font-size: .9rem; }
+.segmented a + a { border-left: 1px solid var(--line); }
+.segmented a:hover { background: var(--chip); }
+.segmented a[aria-current] { background: var(--accent); color: var(--accent-text); font-weight: 600; }
+
+.cinemas { flex-basis: 100%; display: flex; flex-wrap: wrap; align-items: center; gap: .35rem .9rem; margin: 0; padding: 0; border: 0; }
+.cinemas legend { float: left; margin-right: .5rem; color: var(--muted); font-size: .9rem; }
+.cinemas label { font-size: .9rem; white-space: nowrap; cursor: pointer; }
+.cinemas input { accent-color: var(--accent); }
+.cinemas button {
+  font: inherit; font-size: .85rem; padding: .2rem .8rem; border-radius: 999px;
+  border: 1px solid var(--line); background: var(--chip); color: var(--text); cursor: pointer;
+}
+.cinemas button:hover { background: var(--chip-hover); }
+.cinemas .clear { font-size: .85rem; color: var(--muted); }
+
+.summary { font-size: .9rem; margin: .25rem 0 1rem; }
+.empty { padding: 2rem 0; font-size: 1.05rem; }
+
+/* Films and cinemas */
+.film, .cinema { padding: 1.1rem 0 1.25rem; border-bottom: 1px solid var(--line); }
+.film h2, .cinema h2, .film-page h1 { font: 600 1.3rem/1.25 var(--serif); margin: 0 0 .2rem; }
+.film-page h1 { font-size: 2rem; }
+.film-page h2 { font: 600 1.15rem var(--serif); margin: 1.5rem 0 .25rem; }
+.film h2 a, .schedule th a { text-decoration: none; }
+.film h2 a:hover, .schedule th a:hover { text-decoration: underline; text-decoration-color: var(--accent); }
+.meta { margin: 0 0 .35rem; font-size: .9rem; }
+.rating { display: inline-block; min-width: 1.6em; padding: 0 .3em; border: 1px solid var(--muted); border-radius: 4px; font-size: .78rem; font-weight: 600; text-align: center; }
+.film details summary { color: var(--muted); font-size: .85rem; cursor: pointer; width: max-content; }
+.synopsis { max-width: 46rem; white-space: pre-line; }
+.note { margin: 0 0 .5rem; color: var(--muted); font-style: italic; font-size: .9rem; }
+.back { margin: 1rem 0 0; font-size: .9rem; }
+.links { font-size: .95rem; }
+
+.day h3 { margin: .7rem 0 .3rem; font-size: .8rem; font-weight: 600; text-transform: uppercase; letter-spacing: .06em; color: var(--muted); }
+
+.times { display: flex; flex-wrap: wrap; gap: .35rem; margin: .35rem 0 0; padding: 0; list-style: none; }
+.time {
+  display: inline-flex; align-items: baseline; gap: .4rem;
+  padding: .2rem .6rem; border-radius: 6px; background: var(--chip);
+  text-decoration: none; font-size: .9rem; white-space: nowrap;
+}
+.time:hover { background: var(--chip-hover); }
+.hhmm { font-weight: 600; font-variant-numeric: tabular-nums; }
+.where { color: var(--muted); }
+.tag { font-size: .7rem; padding: 0 .35rem; border-radius: 4px; background: var(--accent); color: var(--accent-text); }
+.sold-out { opacity: .5; }
+.sold-out .hhmm { text-decoration: line-through; }
+
+.schedule { width: 100%; border-collapse: collapse; }
+.schedule th, .schedule td { padding: .45rem 0; border-top: 1px solid var(--line); vertical-align: top; text-align: left; }
+.schedule tr:first-child th, .schedule tr:first-child td { border-top: 0; }
+.schedule th { width: 40%; padding-right: 1rem; font-weight: 500; }
+.schedule th .minor { display: block; font-size: .8rem; font-weight: 400; }
+.schedule .times { margin: 0; }
+
+@media (max-width: 600px) {
+  .schedule, .schedule tbody, .schedule tr, .schedule th, .schedule td { display: block; width: 100%; }
+  .schedule td { border-top: 0; padding-top: 0; }
+  .film-page h1 { font-size: 1.6rem; }
+}
+
+footer { margin-top: 2rem; }
+footer details { margin: .5rem 0; }
+footer summary { cursor: pointer; color: var(--muted); }
+footer dl { display: grid; grid-template-columns: max-content 1fr; gap: .25rem 1rem; }
+footer dt { font-weight: 600; }
+footer dd { margin: 0; }
+.seen { padding-left: 1.2rem; }
+.small { font-size: .85rem; }

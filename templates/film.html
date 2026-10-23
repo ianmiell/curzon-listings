@@ -1,0 +1,27 @@
+{% extends "base.html" %}
+{% from "_macros.html" import showing, film_meta %}
+{% block title %}{{ film.title }} · Curzon listings{% endblock %}
+{% block content %}
+<p class="back"><a href="{{ url_for('index', when='all', site=sites) }}">← All listings</a></p>
+<article class="film film-page">
+  <h1>{{ film.title }}</h1>
+  {{ film_meta(film) }}
+  {% if film.rating_note %}<p class="minor">{{ film.rating }}: {{ film.rating_note }}</p>{% endif %}
+  {% if film.synopsis or film.short_synopsis %}<p class="synopsis">{{ film.synopsis or film.short_synopsis }}</p>{% endif %}
+  {% if film.cast %}<p class="minor">With {{ film.cast[:6] | join(', ') }}{% if film.cast | length > 6 %} and others{% endif %}.</p>{% endif %}
+  <p class="links">
+    <a href="{{ film.url }}" rel="noopener" target="_blank">On curzon.com</a>
+    {% if film.trailer %}· <a href="{{ film.trailer }}" rel="noopener" target="_blank">Trailer</a>{% endif %}
+    {% if film.release_date %}· Released {{ film.release_date }}{% endif %}
+  </p>
+  <h2>Showings</h2>
+  {% for day, shows in days %}
+  <div class="day">
+    <h3>{{ day | day }}</h3>
+    <ul class="times">{% for show in shows %}{{ showing(show, all_sites.get(show.site_id, show.site_id)) }}{% endfor %}</ul>
+  </div>
+  {% else %}
+  <p class="empty">No upcoming showings{% if sites %} at the selected cinemas{% endif %}.</p>
+  {% endfor %}
+</article>
+{% endblock %}

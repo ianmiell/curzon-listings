@@ -1,0 +1,18 @@
+{# One showing as a link to Curzon's seat picker. #}
+{% macro showing(show, label) -%}
+<li><a class="time{% if show.sold_out %} sold-out{% endif %}" href="{{ show.booking_url }}" rel="noopener" target="_blank"
+       title="{{ show.screen }}{% if show.sold_out %} (sold out){% endif %}{% if show.tags %} · {{ show.tags | join(', ') }}{% endif %}">
+  <span class="hhmm">{{ show.start | hhmm }}</span>{% if label %}<span class="where">{{ label }}</span>{% endif %}
+  {%- for tag in show.tags %}<span class="tag">{{ tag }}</span>{% endfor -%}
+</a></li>
+{%- endmacro %}
+
+{# Rating, runtime, genres and director on one line. #}
+{% macro film_meta(film) -%}
+<p class="meta">
+  {%- if film.rating %}<span class="rating">{{ film.rating }}</span>{% endif %}
+  {%- for bit in [film.runtime and film.runtime ~ ' min', film.genres | join(', '), film.directors and 'dir. ' ~ film.directors | join(', ')] if bit %}
+  {%- if film.rating or not loop.first %} · {% endif %}{{ bit }}
+  {%- endfor -%}
+</p>
+{%- endmacro %}
