@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+{% block title %}Venue notes · Curzon listings{% endblock %}
+{% block content %}
+<section class="notes-page">
+  <h1>Venue notes</h1>
+  <p class="summary">Shown under each cinema in the "By cinema" view and in the footer. Leave a box empty to remove its note.</p>
+  {% if saved %}<p class="saved" role="status">Saved.</p>{% endif %}
+  <form class="notes-form" method="post" action="{{ url_for('edit_notes') }}">
+    {% for site_id in site_ids %}
+    <label for="note-{{ site_id }}">{{ all_sites.get(site_id, site_id) }}</label>
+    <textarea id="note-{{ site_id }}" name="note-{{ site_id }}" rows="2" maxlength="{{ max_chars }}">{{ notes.get(site_id, '') }}</textarea>
+    {% endfor %}
+    <p><button type="submit">Save notes</button> <a class="clear" href="{{ url_for('index', by='cinema') }}">Back to the listings</a></p>
+  </form>
+</section>
+{% endblock %}

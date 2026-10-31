@@ -71,10 +71,6 @@ a:hover { text-decoration-color: var(--accent); }
 .cinemas legend { float: left; margin-right: .5rem; color: var(--muted); font-size: .9rem; }
 .cinemas label { font-size: .9rem; white-space: nowrap; cursor: pointer; }
 .cinemas input { accent-color: var(--accent); }
-.cinemas button {
-  font: inherit; font-size: .85rem; padding: .2rem .8rem; border-radius: 999px;
-  border: 1px solid var(--line); background: var(--chip); color: var(--text); cursor: pointer;
-}
 .cinemas button:hover { background: var(--chip-hover); }
 .cinemas .clear { font-size: .85rem; color: var(--muted); }
 
@@ -131,4 +127,22 @@ footer dl { display: grid; grid-template-columns: max-content 1fr; gap: .25rem 1
 footer dt { font-weight: 600; }
 footer dd { margin: 0; }
 .seen { padding-left: 1.2rem; }
+.edit-link { font-size: .85rem; color: var(--muted); }
+
+.notes-page h1 { font: 600 1.6rem/1.2 var(--serif); margin: 1.25rem 0 .25rem; }
+.notes-form { display: grid; gap: .3rem; max-width: 40rem; }
+.notes-form label { font-weight: 600; margin-top: .6rem; }
+.notes-form textarea {
+  width: 100%; font: inherit; padding: .45rem .6rem; border-radius: 6px;
+  border: 1px solid var(--line); background: var(--surface); color: var(--text); resize: vertical;
+}
+.notes-form textarea:focus { outline: 2px solid var(--accent); outline-offset: 1px; }
+.notes-form button, .cinemas button {
+  font: inherit; font-size: .85rem; padding: .2rem .8rem; border-radius: 999px;
+  border: 1px solid var(--line); background: var(--chip); color: var(--text); cursor: pointer;
+}
+.notes-form button { font-size: .95rem; padding: .35rem 1.1rem; }
+.notes-form button:hover { background: var(--chip-hover); }
+.notes-form .clear { margin-left: .75rem; font-size: .85rem; color: var(--muted); }
+.saved { background: var(--chip); padding: .5rem .75rem; border-radius: 6px; max-width: 40rem; }
 .small { font-size: .85rem; }
