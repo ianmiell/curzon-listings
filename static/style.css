@@ -131,5 +131,4 @@ footer summary { cursor: pointer; color: var(--muted); }
 footer dl { display: grid; grid-template-columns: max-content 1fr; gap: .25rem 1rem; }
 footer dt { font-weight: 600; }
 footer dd { margin: 0; }
-.seen { padding-left: 1.2rem; }
 .small { font-size: .85rem; }
