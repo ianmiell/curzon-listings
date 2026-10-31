@@ -214,7 +214,6 @@ def inject_globals() -> dict:
         "last_error": status["last_error"],
         "all_sites": listings.get("sites", {}),
         "venue_notes": {k.upper(): v for k, v in config.items("venue_notes")} if config.has_section("venue_notes") else {},
-        "seen": [line.strip() for line in config.get("seen", "films", fallback="").splitlines() if line.strip()],
     }
 
 

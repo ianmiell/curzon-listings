@@ -49,7 +49,7 @@ The first scrape takes about a minute after start-up.
 ## Config
 
 `curzon_config.ini` (or `$CURZON_CONFIG`): which cinemas to scrape, refresh
-interval, venue notes and a films-seen list. It is re-read on every request,
+interval and venue notes. It is re-read on every request,
 so edits apply without a restart. `$CURZON_CACHE` moves the cache file.
 
 ## Deployment

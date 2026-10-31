@@ -25,12 +25,6 @@
       </dl>
     </details>
     {% endif %}
-    {% if seen %}
-    <details>
-      <summary>Films seen</summary>
-      <ul class="seen">{% for line in seen %}<li>{{ line }}</li>{% endfor %}</ul>
-    </details>
-    {% endif %}
     <p class="small">
       Scraped from <a href="https://www.curzon.com/">curzon.com</a>. Times link to Curzon's booking page.
       Also as <a href="{{ url_for('listings_txt', **request.args.to_dict(flat=False)) }}">text</a>
