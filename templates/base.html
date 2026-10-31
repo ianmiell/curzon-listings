@@ -17,12 +17,13 @@
   {% if last_error %}<p class="warning">The last update failed, so these listings may be out of date.</p>{% endif %}
   <main>{% block content %}{% endblock %}</main>
   <footer>
-    {% if venue_notes %}
+    {% if venue_notes or notes_editable %}
     <details>
       <summary>Venue notes</summary>
       <dl>
         {% for site_id, note in venue_notes.items() %}<dt>{{ all_sites.get(site_id, site_id) }}</dt><dd>{{ note }}</dd>{% endfor %}
       </dl>
+      {% if notes_editable %}<a class="edit-link" href="{{ url_for('edit_notes') }}">Edit notes</a>{% endif %}
     </details>
     {% endif %}
     <p class="small">

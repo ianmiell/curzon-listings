@@ -45,12 +45,29 @@ The first scrape takes about a minute after start-up.
 | `/listings.txt` | the same as text, same parameters |
 | `/listings.json` | the raw scraped data |
 | `/health` | last scrape status; 503 if no data or stale |
+| `/notes` | edit the venue notes (password; 404 unless enabled) |
 
 ## Config
 
 `curzon_config.ini` (or `$CURZON_CONFIG`): which cinemas to scrape, refresh
 interval and venue notes. It is re-read on every request,
 so edits apply without a restart. `$CURZON_CACHE` moves the cache file.
+
+### Editing venue notes on the site
+
+Set `CURZON_NOTES_PASSWORD` to turn on the `/notes` page (linked from the
+"Venue notes" footer). The browser asks for a user name and password; any user
+name works. On the server, put it in `.env` next to the app, which the systemd
+unit reads and git ignores:
+
+```sh
+echo "CURZON_NOTES_PASSWORD=$(openssl rand -base64 18)" > .env && chmod 600 .env
+make install          # picks up the EnvironmentFile line in the unit
+```
+
+Saved notes go to `data/venue_notes.json` (`$CURZON_NOTES`), not committed, so
+`git pull` keeps working. Once that file exists it replaces the
+`[venue_notes]` section of the config.
 
 ## Deployment
 

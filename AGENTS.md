@@ -36,6 +36,9 @@ and how to run and deploy it.
 - **Links must use `url_for`**: the app is served under `/curzon-listings`,
   which nginx passes as `X-Forwarded-Prefix` (`ProxyFix`).
 - **Venue notes are the owner's**; leave their text alone.
+  Notes edited on `/notes` live in `data/venue_notes.json` (not committed),
+  which overrides `[venue_notes]` once it exists. `CURZON_NOTES_PASSWORD`
+  (from `.env`) turns the editor on; never log, print or commit it.
 
 ## Checking a change
 
