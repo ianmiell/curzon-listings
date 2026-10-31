@@ -67,15 +67,16 @@ a:hover { text-decoration-color: var(--accent); }
 .segmented a:hover { background: var(--chip); }
 .segmented a[aria-current] { background: var(--accent); color: var(--accent-text); font-weight: 600; }
 
-.cinemas { flex-basis: 100%; display: flex; flex-wrap: wrap; align-items: center; gap: .35rem .9rem; margin: 0; padding: 0; border: 0; }
-.cinemas legend { float: left; margin-right: .5rem; color: var(--muted); font-size: .9rem; }
-.cinemas label { font-size: .9rem; white-space: nowrap; cursor: pointer; }
-.cinemas input { accent-color: var(--accent); }
-.cinemas button {
-  font: inherit; font-size: .85rem; padding: .2rem .8rem; border-radius: 999px;
-  border: 1px solid var(--line); background: var(--chip); color: var(--text); cursor: pointer;
+.cinemas { flex-basis: 100%; display: flex; flex-wrap: wrap; align-items: center; gap: .35rem .9rem; }
+.cinemas .legend { margin-right: .5rem; color: var(--muted); font-size: .9rem; }
+.cinemas .toggle { display: inline-flex; align-items: center; gap: .35rem; font-size: .9rem; white-space: nowrap; text-decoration: none; color: var(--text); }
+.cinemas .toggle:hover { text-decoration: underline; text-decoration-color: var(--accent); }
+.cinemas .box {
+  display: inline-grid; place-items: center; width: .95em; height: .95em;
+  border: 1px solid var(--muted); border-radius: 3px; font-size: .8rem; line-height: 1;
 }
-.cinemas button:hover { background: var(--chip-hover); }
+.cinemas .on .box { background: var(--accent); border-color: var(--accent); color: var(--accent-text); }
+.cinemas .on .box::after { content: "\2713"; }
 .cinemas .clear { font-size: .85rem; color: var(--muted); }
 
 .summary { font-size: .9rem; margin: .25rem 0 1rem; }

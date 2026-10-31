@@ -1,7 +1,7 @@
 {% extends "base.html" %}
 {% from "_macros.html" import showing, film_meta %}
 {% block content %}
-<form class="controls" method="get" action="{{ url_for('index') }}">
+<div class="controls">
   <nav class="segmented" aria-label="When">
     {% for key, label in ranges.items() %}
     <a href="{{ url_for('index', when=key, by=view, site=sites) }}"{% if key == when %} aria-current="page"{% endif %}>{{ label }}</a>
@@ -12,17 +12,17 @@
     <a href="{{ url_for('index', when=when, by=key, site=sites) }}"{% if key == view %} aria-current="page"{% endif %}>{{ label }}</a>
     {% endfor %}
   </nav>
-  <fieldset class="cinemas">
-    <legend>Cinemas</legend>
-    <input type="hidden" name="when" value="{{ when }}">
-    <input type="hidden" name="by" value="{{ view }}">
+  <nav class="cinemas" aria-label="Cinemas">
+    <span class="legend">Cinemas</span>
     {% for site_id, name in all_sites.items() %}
-    <label><input type="checkbox" name="site" value="{{ site_id }}"{% if site_id in sites %} checked{% endif %}> {{ name }}</label>
+    {% set on = site_id in sites %}
+    {% set toggled = sites | reject('equalto', site_id) | list if on else sites + [site_id] %}
+    <a class="toggle{% if on %} on{% endif %}" href="{{ url_for('index', when=when, by=view, site=toggled) }}"
+       title="{{ 'Remove' if on else 'Add' }} {{ name }}"><span class="box" aria-hidden="true"></span>{{ name }}</a>
     {% endfor %}
-    <button type="submit">Filter</button>
     {% if sites %}<a class="clear" href="{{ url_for('index', when=when, by=view) }}">All cinemas</a>{% endif %}
-  </fieldset>
-</form>
+  </nav>
+</div>
 
 <p class="summary">
   {{ count }} showing{{ '' if count == 1 else 's' }}
