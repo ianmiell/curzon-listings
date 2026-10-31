@@ -262,7 +262,6 @@ def inject_globals() -> dict:
         "all_sites": listings.get("sites", {}),
         "venue_notes": venue_notes(config),
         "notes_editable": bool(notes_password()),
-        "seen": [line.strip() for line in config.get("seen", "films", fallback="").splitlines() if line.strip()],
     }
 
 

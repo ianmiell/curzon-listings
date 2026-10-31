@@ -12,7 +12,7 @@ and how to run and deploy it.
 |---|---|
 | `curzon.py` | Scraper. `CurzonClient` gets a bearer token by loading curzon.com in headless Chrome, then calls OCAPI with `requests`; `fetch_listings` returns `{fetched_at, sites, films, showtimes}`. `python curzon.py [SITE ...]` scrapes once and prints JSON. |
 | `app.py` | Flask routes, the background `update_listings` thread, date ranges and grouping. |
-| `curzon_config.ini` | Sites, refresh interval, venue notes, films seen. Committed and public. |
+| `curzon_config.ini` | Sites, refresh interval, venue notes. Committed and public. |
 | `templates/`, `static/` | Jinja templates (no JS), one stylesheet. |
 | `deploy/` | systemd unit and nginx location block. |
 | `cat_listings.sh` | Prints `/listings.txt` for the `curzon-listings` webhook. |
@@ -35,7 +35,7 @@ and how to run and deploy it.
   URLs carry `?v=<mtime>`.
 - **Links must use `url_for`**: the app is served under `/curzon-listings`,
   which nginx passes as `X-Forwarded-Prefix` (`ProxyFix`).
-- **Venue notes and films seen are the owner's**; leave their text alone.
+- **Venue notes are the owner's**; leave their text alone.
   Notes edited on `/notes` live in `data/venue_notes.json` (not committed),
   which overrides `[venue_notes]` once it exists. `CURZON_NOTES_PASSWORD`
   (from `.env`) turns the editor on; never log, print or commit it.
