@@ -42,7 +42,9 @@ and how to run and deploy it.
 - **Site login.** `CURZON_SITE_PASSWORD` (and `CURZON_SITE_USER`, from `.env`)
   puts every page but `/health` behind basic auth; the notes password is
   accepted too. Never log, print or commit them. `make check` runs without
-  `.env`, so it does not exercise the login.
+  `.env`, so it does not exercise the login. A browser that has logged in to
+  `/notes` resends that password everywhere, so the site can look unprotected;
+  check with `curl -I` or a private window.
 
 ## Checking a change
 
