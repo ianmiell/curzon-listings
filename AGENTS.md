@@ -57,4 +57,6 @@ window too.
 - Commit messages `area: action` (`scrape: handle new token location`), with
   `Fixes #N` / `Refs #N` in the body.
 - Deploying is the owner's (`git pull`, `make restart`; `make install` and
-  nginx changes need sudo).
+  nginx changes need sudo). Agents can't restart the service (no passwordless
+  sudo): ask the owner to run `! make restart`. Changes to `.env` only take
+  effect after a restart; changes to the unit file need `make install`.
