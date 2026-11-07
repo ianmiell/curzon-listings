@@ -39,6 +39,10 @@ and how to run and deploy it.
   Notes edited on `/notes` live in `data/venue_notes.json` (not committed),
   which overrides `[venue_notes]` once it exists. `CURZON_NOTES_PASSWORD`
   (from `.env`) turns the editor on; never log, print or commit it.
+- **Site login.** `CURZON_SITE_PASSWORD` (and `CURZON_SITE_USER`, from `.env`)
+  puts every page but `/health` behind basic auth; the notes password is
+  accepted too. Never log, print or commit them. `make check` runs without
+  `.env`, so it does not exercise the login.
 
 ## Checking a change
 

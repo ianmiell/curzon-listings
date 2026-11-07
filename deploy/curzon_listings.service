@@ -7,7 +7,8 @@ Wants=network-online.target
 User=imiell
 Group=imiell
 WorkingDirectory=/home/imiell/git/curzon-listings
-# Optional, not committed: CURZON_NOTES_PASSWORD=... turns on the /notes editor.
+# Optional, not committed: CURZON_NOTES_PASSWORD=... turns on the /notes editor;
+# CURZON_SITE_USER=... and CURZON_SITE_PASSWORD=... put the site behind basic auth.
 EnvironmentFile=-/home/imiell/git/curzon-listings/.env
 # One worker: the listings and the scraper thread live in process memory.
 ExecStart=/home/imiell/git/curzon-listings/venv/bin/gunicorn --bind 127.0.0.1:6752 --workers 1 --threads 4 app:app

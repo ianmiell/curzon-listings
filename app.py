@@ -114,11 +114,26 @@ def notes_password() -> str:
     return os.environ.get("CURZON_NOTES_PASSWORD", "")
 
 
-def authorised(password: str) -> bool:
-    """True if the request carries the notes password in HTTP basic auth (any user name)."""
+def site_credentials() -> tuple[str, str]:
+    """Return (user, password) for the whole site; an empty password means the site is open."""
+    return os.environ.get("CURZON_SITE_USER", ""), os.environ.get("CURZON_SITE_PASSWORD", "")
+
+
+def authorised(password: str, user: str = "") -> bool:
+    """True if the request carries the password in HTTP basic auth, and the user name if one is given."""
     auth = request.authorization
-    given = (auth.password or "") if auth and auth.type == "basic" else ""
-    return hmac.compare_digest(given.encode(), password.encode())
+    basic = auth is not None and auth.type == "basic"
+    given_user = (auth.username or "") if basic else ""
+    given = (auth.password or "") if basic else ""
+    user_ok = not user or hmac.compare_digest(given_user.encode(), user.encode())
+    return hmac.compare_digest(given.encode(), password.encode()) and user_ok
+
+
+def auth_needed(message: str, realm: str) -> Response:
+    """A 401 that makes the browser ask for a user name and password."""
+    return Response(f"{message}\n", 401,
+                    {"WWW-Authenticate": f'Basic realm="{realm}", charset="UTF-8"'},
+                    mimetype="text/plain")
 
 
 def same_origin() -> bool:
@@ -220,6 +235,26 @@ def selection() -> tuple[str, str, list[str]]:
     view = request.args.get("by", "film")
     sites = [s for s in request.args.getlist("site") if s in listings.get("sites", {})]
     return (when if when in RANGES else "today"), (view if view in VIEWS else "film"), sites
+
+
+# Open without the site password, so uptime checks keep working.
+PUBLIC_ENDPOINTS = {"health"}
+
+
+@app.before_request
+def require_site_login() -> Response | None:
+    """Ask for the site password (CURZON_SITE_USER/PASSWORD) on every page if it is set.
+
+    The notes password is accepted too: the browser sends one set of basic auth
+    credentials for the whole site, so after logging in to /notes the rest of the
+    site has to accept them.
+    """
+    user, password = site_credentials()
+    if not password or request.endpoint in PUBLIC_ENDPOINTS:
+        return None
+    if authorised(password, user) or (notes_password() and authorised(notes_password())):
+        return None
+    return auth_needed("Log in to see the Curzon listings.", "Curzon listings")
 
 
 @app.url_defaults
@@ -334,9 +369,7 @@ def edit_notes():
     if not password:
         abort(404)
     if not authorised(password):
-        return Response("Password needed to edit venue notes.\n", 401,
-                        {"WWW-Authenticate": 'Basic realm="Curzon venue notes", charset="UTF-8"'},
-                        mimetype="text/plain")
+        return auth_needed("Password needed to edit venue notes.", "Curzon venue notes")
     config = read_config()
     site_ids = list(dict.fromkeys([*configured_sites(config), *listings.get("sites", {})]))
     if request.method == "POST":

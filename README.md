@@ -53,6 +53,23 @@ The first scrape takes about a minute after start-up.
 interval and venue notes. It is re-read on every request,
 so edits apply without a restart. `$CURZON_CACHE` moves the cache file.
 
+### Password-protecting the site
+
+Set `CURZON_SITE_PASSWORD` (and optionally `CURZON_SITE_USER`; without it any
+user name works) to put every page behind HTTP basic auth. `/health` stays
+open for uptime checks. The notes password below is also accepted, because
+the browser sends one login for the whole site. Put them in `.env`:
+
+```sh
+echo "CURZON_SITE_USER=ian" >> .env
+echo "CURZON_SITE_PASSWORD=$(openssl rand -base64 18)" >> .env
+make restart
+```
+
+`cat_listings.sh` reads them from `.env` and sends them, so the webhook keeps
+working. Basic auth sends the password with every request, so only use it
+over HTTPS (nginx).
+
 ### Editing venue notes on the site
 
 Set `CURZON_NOTES_PASSWORD` to turn on the `/notes` page (linked from the
